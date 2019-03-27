@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1553720820.511154
+_modified_time = 1553722092.118577
 _enable_loop = True
 _template_filename = '/Users/samskipsey/Documents/Project/SRD-archive/scottishrollerderby.wordpress.com-2019-01-11-14_23_06/nikola/lib/python3.7/site-packages/nikola/data/themes/base/templates/math_helper.tmpl'
 _template_uri = 'math_helper.tmpl'
@@ -123,9 +123,9 @@ def render_math_styles_ifpost(context,post):
 def render_math_styles_ifposts(context,posts):
     __M_caller = context.caller_stack._push_frame()
     try:
+        any = context.get('any', UNDEFINED)
         def math_styles():
             return render_math_styles(context)
-        any = context.get('any', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if any(post.has_math for post in posts):
