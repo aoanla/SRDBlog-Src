@@ -7,7 +7,7 @@
 for item in $(find ./posts/ -name "*.md")
 do
 	sed 's/scottishrollerderby.wordpress.com/scottishrollerderbyblog.com/g; sIhttp://%EF%BF%BCIIg; s/scottishrollerderby.files.wordpress.com/scottishrollerderbyblog.com/g' $item > ${item}.new
-	sed 'sI/scottishrollerderbyblogI/www.scottishrollerderbyblogIg;' ${item}.new > ${item}
+	sed 'sI/scottishrollerderbyblogI/www.scottishrollerderbyblogIg; sIwww.scottishrollerderbyblog.com/2\([^"]*/"\)Iwww.scottishrollerderbyblog.com/posts/2\1Ig' ${item}.new > ${item}
 	#rm $item
 	#mv ${item}.new $item
 done
