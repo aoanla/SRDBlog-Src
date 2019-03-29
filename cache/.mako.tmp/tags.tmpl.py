@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1553860501.887972
+_modified_time = 1553861059.957712
 _enable_loop = True
 _template_filename = 'themes/bootstrap/templates/tags.tmpl'
 _template_uri = 'tags.tmpl'
@@ -30,13 +30,13 @@ def render_body(context,**pageargs):
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         cat_items = context.get('cat_items', UNDEFINED)
         range = context.get('range', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
+        cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
         def content():
             return render_content(context._locals(__M_locals))
-        title = context.get('title', UNDEFINED)
-        items = context.get('items', UNDEFINED)
-        cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
         hidden_tags = context.get('hidden_tags', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
+        items = context.get('items', UNDEFINED)
+        title = context.get('title', UNDEFINED)
         len = context.get('len', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n\n')
@@ -55,13 +55,13 @@ def render_content(context,**pageargs):
     try:
         cat_items = context.get('cat_items', UNDEFINED)
         range = context.get('range', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
+        cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
         def content():
             return render_content(context)
-        title = context.get('title', UNDEFINED)
-        items = context.get('items', UNDEFINED)
-        cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
         hidden_tags = context.get('hidden_tags', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
+        items = context.get('items', UNDEFINED)
+        title = context.get('title', UNDEFINED)
         len = context.get('len', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n<h1>')
