@@ -142,6 +142,8 @@ NAVIGATION_LINKS = {
 	("/pages/about/","About SRD"),
 	("/pages/resources/", "Scottish Leagues and Resources"),
 	("/authors/", "Authors"),
+	("https://aoanla.pythonanywhere.com/", "SRD Tech Annex"),
+	("https://aoanla.pythonanywhere.com/WorldDerbyMap/index.html", "World Roller Derby Map"),
     ),
 
 }
