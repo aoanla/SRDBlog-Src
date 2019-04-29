@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1556300744.490819
+_modified_time = 1556551179.994865
 _enable_loop = True
-_template_filename = '/Users/samskipsey/Documents/Project/SRD-archive/scottishrollerderby.wordpress.com-2019-01-11-14_23_06/nikola/lib/python3.7/site-packages/nikola/data/themes/base/templates/comments_helper_commento.tmpl'
+_template_filename = '/usr/local/lib/python3.7/site-packages/nikola/data/themes/base/templates/comments_helper_commento.tmpl'
 _template_uri = 'comments_helper_commento.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['comment_form', 'comment_link', 'comment_link_script']
@@ -61,6 +61,6 @@ def render_comment_link_script(context):
 
 """
 __M_BEGIN_METADATA
-{"filename": "/Users/samskipsey/Documents/Project/SRD-archive/scottishrollerderby.wordpress.com-2019-01-11-14_23_06/nikola/lib/python3.7/site-packages/nikola/data/themes/base/templates/comments_helper_commento.tmpl", "uri": "comments_helper_commento.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 6, "22": 9, "23": 12, "29": 2, "34": 2, "35": 5, "36": 5, "42": 8, "46": 8, "52": 11, "56": 11, "62": 56}}
+{"filename": "/usr/local/lib/python3.7/site-packages/nikola/data/themes/base/templates/comments_helper_commento.tmpl", "uri": "comments_helper_commento.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 6, "22": 9, "23": 12, "29": 2, "34": 2, "35": 5, "36": 5, "42": 8, "46": 8, "52": 11, "56": 11, "62": 56}}
 __M_END_METADATA
 """

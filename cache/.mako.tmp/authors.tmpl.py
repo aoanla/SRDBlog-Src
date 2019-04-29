@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1556300746.1146612
+_modified_time = 1556551180.7671602
 _enable_loop = True
-_template_filename = '/Users/samskipsey/Documents/Project/SRD-archive/scottishrollerderby.wordpress.com-2019-01-11-14_23_06/nikola/lib/python3.7/site-packages/nikola/data/themes/base/templates/authors.tmpl'
+_template_filename = '/usr/local/lib/python3.7/site-packages/nikola/data/themes/base/templates/authors.tmpl'
 _template_uri = 'authors.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['extra_head', 'content']
@@ -32,15 +32,15 @@ def render_body(context,**pageargs):
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
+        items = _import_ns.get('items', context.get('items', UNDEFINED))
         feeds_translations = _mako_get_namespace(context, 'feeds_translations')
-        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
         hidden_authors = _import_ns.get('hidden_authors', context.get('hidden_authors', UNDEFINED))
         def content():
             return render_content(context._locals(__M_locals))
         def extra_head():
             return render_extra_head(context._locals(__M_locals))
         kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
-        items = _import_ns.get('items', context.get('items', UNDEFINED))
+        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n\n')
@@ -64,10 +64,10 @@ def render_extra_head(context,**pageargs):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
+        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         def extra_head():
             return render_extra_head(context)
-        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n    ')
         __M_writer(str(feeds_translations.head(kind=kind, feeds=False)))
@@ -82,13 +82,13 @@ def render_content(context,**pageargs):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
+        items = _import_ns.get('items', context.get('items', UNDEFINED))
         feeds_translations = _mako_get_namespace(context, 'feeds_translations')
-        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
         hidden_authors = _import_ns.get('hidden_authors', context.get('hidden_authors', UNDEFINED))
         def content():
             return render_content(context)
         kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
-        items = _import_ns.get('items', context.get('items', UNDEFINED))
+        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n<article class="authorindex">\n')
         if items:
@@ -113,6 +113,6 @@ def render_content(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"filename": "/Users/samskipsey/Documents/Project/SRD-archive/scottishrollerderby.wordpress.com-2019-01-11-14_23_06/nikola/lib/python3.7/site-packages/nikola/data/themes/base/templates/authors.tmpl", "uri": "authors.tmpl", "source_encoding": "utf-8", "line_map": {"23": 3, "29": 0, "45": 2, "46": 3, "51": 7, "56": 25, "62": 5, "72": 5, "73": 6, "74": 6, "80": 9, "93": 9, "94": 11, "95": 12, "96": 12, "97": 12, "98": 14, "99": 14, "100": 17, "101": 18, "102": 19, "103": 19, "104": 19, "105": 19, "106": 19, "107": 22, "108": 24, "114": 108}}
+{"filename": "/usr/local/lib/python3.7/site-packages/nikola/data/themes/base/templates/authors.tmpl", "uri": "authors.tmpl", "source_encoding": "utf-8", "line_map": {"23": 3, "29": 0, "45": 2, "46": 3, "51": 7, "56": 25, "62": 5, "72": 5, "73": 6, "74": 6, "80": 9, "93": 9, "94": 11, "95": 12, "96": 12, "97": 12, "98": 14, "99": 14, "100": 17, "101": 18, "102": 19, "103": 19, "104": 19, "105": 19, "106": 19, "107": 22, "108": 24, "114": 108}}
 __M_END_METADATA
 """
