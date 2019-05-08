@@ -234,7 +234,7 @@ Sat: Bergamo, Italy
 
 .. __: https://www.facebook.com/events/2609896765750955/
 .. __: http://flattrackstats.com/bouts/109884/overview
--- __: http://flattrackstats.com/bouts/109885/overview
+.. __: http://flattrackstats.com/bouts/109885/overview
 
 `Crimson Vipers Roller Derby Bergamo`_ host a double header, as they host a double header (slightly
 unusually, for one of the away teams...)
@@ -348,7 +348,7 @@ tournament series to give mixed (gender?) teams a regular set of games.
 
 .. _Kingston City Rollers: http://www.kingstoncityrollers.com.au
 
-.. _Westside Derby Dolls: http://www.westsidederbydollz.org.au
+.. _Westside Derby Dollz: http://www.westsidederbydollz.org.au
 
 *These bouts are not currently listed in Flat Track Stats.*
 
