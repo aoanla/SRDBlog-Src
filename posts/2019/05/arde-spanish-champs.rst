@@ -11,7 +11,7 @@
 Whilst it's not true for every country, the history of National Tournaments in Roller Derby is often tied up with legitimate organisation and representation within that nation. (For example: the French
 Championnat is, in a sense, what it is, *because* it is backed by the FFRS).
 
-Whilst Spain has had a `national tournament`_ since 2016, this was run by the Spanish Skating Federation. That body, as with several around the world, does not well reflect the interests of Roller Derby, having a particular alignment with World Skate.
+Whilst Spain has had a `national tournament`_ since 2016, this was run by the Spanish Skating Federation. That body, as with several around the world, does not well reflect the interests of Roller Derby, having a particular alignment with World Skate; this extended to them not providing any support to the Spanish national team at the last World Cup in 2018.
 
 .. _national tournament: http://aoanla.pythonanywhere.com/NationalTournaments.html
 
@@ -25,7 +25,53 @@ This year, then, there is finally a more representative Spanish National tournam
 With ARDE's greater inclusion, there's enough teams to require two divisions for the WFTDA-gender tier;
 a single division Men's tier will also provide a MRDA-gender champion.
 
+Leagues are allowed to submit multiple teams (A and B teams, for example), with the restriction that only one team is allowed per division, and no skaters can be shared between team rosters. Given that only the WFTDA-gender tier has two divisions, this effectively means that we can expect only WFTDA teams to have more than one entry.
+
+Flat Track Stats Global rating is used to seed these divisions for 2019.
+
 .. figure:: /images/2019/05/arde-map.png
   :alt: Map of teams in the ARDE championships, coloured by division/gender-policy.
 
   Map of teams in the ARDE championships, coloured by division/gender-policy.
+
+Division 1 (WFTDA) [8-9 Jun, plus final 7 July] [Valencia]
+
+[`FACEBOOK LINK`__] [`FTS LINK`__]
+
+.. __: https://www.facebook.com/events/2324609651088003/
+.. __: http://flattrackstats.com/tournaments/109701
+
+- Roller Derby Madrid A
+- Barcelona Roller Derby “All Stars”
+- Rayo Dockers - Valencia Roller Derby
+- Black Thunders Derby Dames
+- Zaragoza Roller Derby - Sicarias de Cierzo
+
+Division 2 (WFTDA) [22-23 June plus final 7 July?] [Murcia]
+
+[`FACEBOOK LINK`__] [`FTS LINK`__]
+
+.. __: https://www.facebook.com/events/357808724840158/
+.. __: http://flattrackstats.com/tournaments/109702/overview
+
+Teams unknown at this point
+
+- Team 1
+- Team 2
+- Team 3
+- Team 4
+- Team 5
+- Team 6
+- Team 7
+- Team 9
+
+Division x (MRDA) [6-7 July] [Madrid]
+
+[`FACEBOOK LINK`__] [`FTS LINK`__]
+
+.. __: x
+.. __: y
+
+- Team 1
+- Team 2
+- Team 3
