@@ -72,6 +72,6 @@ Division x (MRDA) [6-7 July] [Madrid]
 .. __: x
 .. __: y
 
-- Team 1
-- Team 2
+- Team 1 MadRiders?
+- Team 2 Barcelona RocknRollas?
 - Team 3
