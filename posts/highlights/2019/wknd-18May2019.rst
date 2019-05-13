@@ -27,8 +27,33 @@ Locations are roughly organised East-West (with things before the weekend out se
 
 ..
 
+  https://www.facebook.com/events/1163998450439304/ [Pirate City, Auckland NZ]
 
+  https://www.facebook.com/events/205022117044731/ [Roskilde, Denmark, 7s]
 
+  https://www.facebook.com/events/1053346594854826/ (You May Win - MRDA-tier French champs , Rennes France)
+
+  https://www.facebook.com/events/1099880043552881/ Brawlcelona Barcelona, Spain
+
+  https://www.facebook.com/events/1885725494865964/ Namur triple header, Floreffe, Belgium
+
+  https://www.facebook.com/events/338640040328109/ Geneva, Switzeland
+
+  https://www.facebook.com/events/405864423297461/ Uppsala, Sweden (Jackdaw City)
+
+  https://www.facebook.com/events/2049121048518787/ Granite City v VR (Aberdeen, Scotland)
+
+  https://www.facebook.com/events/2238641959784557/ Curitiba, Brazil (Blue Jay Rollers)
+
+  https://www.facebook.com/events/602117090265204/ (Newcastle, UK) Newcastle Juniors
+
+  https://www.facebook.com/events/1103870076488142/ (Bremen, Germany)
+
+  https://www.facebook.com/events/308208106541823/ MDQueens (Mar del Plata, Argentina)
+
+  https://www.facebook.com/events/2140004259429014/ (Bogota, Colombia) Rock'n'Roller Queens chocolate things
+
+  
 ..
   Sat-Sun:
   --------------------------------
