@@ -1,6 +1,6 @@
 .. title: Weekend Highlights: 18 May 2019
 .. slug: weekendhighlights-18052019
-.. date: 2019-05-16 10:30 UTC+01:00
+.. date: 2019-05-15 09:30 UTC+01:00
 .. tags: weekend highlights, uk derby, german derby, french derby, belgian derby, swedish derby, new zealand derby, danish derby,brasilian derby, argentine derby,  mexican derby, australian derby
 .. category:
 .. link:
@@ -8,7 +8,6 @@
 .. type: text
 .. author: aoanla
 
-Th.
 There are far too many valuable fixtures to cover all of them (especially in France and the UK, which tend to
 have multiple tournaments, bootcamps etc all on one weekend), but we also don't want to be so strict as to have
 just 1 per country. So, we'll be doing the following:
