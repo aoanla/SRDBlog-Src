@@ -1,6 +1,6 @@
 .. title: ARDE launch a new era of Spanish Championships
 .. slug: arde-spanish-champs-2019
-.. date: 2019-05-12 12:00:00 UTC+01:00
+.. date: 2019-05-16 12:00:00 UTC+01:00
 .. tags: spanish roller derby, arde, national tournaments
 .. category:
 .. link:
