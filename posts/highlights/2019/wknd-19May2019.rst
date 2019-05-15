@@ -26,8 +26,18 @@ Locations are roughly organised East-West (with things before the weekend out se
 
 ..
   Items to add:
+  https://www.facebook.com/events/2049727361994177/ (Venga Beasts on tOur: Italy (Vicenza, Italy))
+  https://www.facebook.com/events/299803043972067/(Cario Jam - Roanne, France)
+  or
+  multiple other good French fixtures
 
+  https://www.facebook.com/events/421245721974904/ (Rainy City All Stars Jammer bootcamp Oldham, UK)
 
+  https://www.facebook.com/events/445938069485623/ (cologne v mixed team)
+
+  https://www.facebook.com/events/463580320852632/ Anterp, Belgium v Lomme B
+
+  https://www.facebook.com/events/2452124041487705/ Durban, SA learn to skate / open day
 ..
   Sat-Sun:
   --------------------------------
