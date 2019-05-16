@@ -52,6 +52,9 @@ The Division 1 teams competing are pretty much the ones you would expect. The to
 
 Division 1 will run as a full round-robin tournament, with those 10 games deciding the candidates for the Championship game to be held on the 7th of July in Madrid.
 
+.. image:: /images/2019/05/ARDECampenato2019.png
+  :alt: ARDE Championships Logo and Fixtures image.
+
 Division 2 (WFTDA) [22-23 June plus final 7 July?] [Murcia]
 -------------------------------------------------------------
 
@@ -63,10 +66,13 @@ Division 2 (WFTDA) [22-23 June plus final 7 July?] [Murcia]
 Division 2 is a little more complex. As with some of the teams in other National tournaments (for example, France's Championnat), we have a few "hybrid" teams competing, pooling the resources of several leagues into a single roster.
 The list is rounded out by two B teams from Division 1 competitors: Roller Derby Madrid and Valencia's Rayo Dockers competing in both divisions.
 
+There are a mix of "city" and "regional" teams in this division: Asturias is an "autonomous community" (something between a county and a nation in UK terms), and the Bonitas del Norte effectively represent the remaining autonomous communities to their east on the north coast (Cantabria and Navarre are actual autonomous communities, and Bilbao and Donostia/San Sebastián together represent the largest cities within the Basque Country).
+(The Frankensteam are less easy to categorise, as Salamanca and Cáceres effectively represent the western border of Spain with Portugal, whilst Badalona is over near Barcelona to the east of the country.)
+
 - Roller Derby Madrid B
 - As Brigantias (A Coruña)
 - Frankensteam (Salamanca / Bad'n'Roller (Badalona) / Cáceres)
-- Bonitas del Norte (Cantabria / Botxo Killers (Bilbo) / Easo Avengers (Donostia/San Sebastián) / Nafarriors (Navarre) )
+- Bonitas del Norte (Cantabria / Botxo Killers (Bilbao) / Easo Avengers (Donostia/San Sebastián) / Nafarriors (Navarre) )
 - Rayo B-lockers (Rayo Dockers B / Valencia)
 - La Güestia Roller Derby (Asturias)
 - Roller Derby Murcia
@@ -74,15 +80,16 @@ The list is rounded out by two B teams from Division 1 competitors: Roller Derby
 
 With 8 teams, a full round-robin tournament, as used in Division 1, would require 28 games. Without multiple tracks, this won't fit in the two days of the Division 2 fixture. We expect to hear more about the Division 2 competitive structure in due course.
 
+In a way, the most interesting parts of this Division are the hybrid teams: merging skaters across leagues can be difficult, especially getting them to gel into one force; in particular, we're watching Frankensteam to see how the distance between their western and eastern halves affects coordination.
+
 Division 1 (MRDA) [6-7 July] [Madrid]
 --------------------------------------
-[`FACEBOOK LINK`__] [`FTS LINK`__]
-
-.. __: x
-.. __: y
+*There are no Facebook Events or FTS entries for this tournament as yet*
 
 As with the WFTDA-gender Division 1, the MRDA-gender Division 1 is fairly predictable, with the top 3 teams from FTS Europe represented:
 
 - MadRiders Roller Derby (Madrid M)
 - Lobishommes Men's Roller Derby (Galicia M)
 - Easo Hooks Roller Derby (Donostia/San Sebastián M)
+
+We'd assume that this will be a full round robin, as only three games will be needed to establish a champion. With MadRiders the most travelled of the teams, and the highest rated, we'd put them odds-on for the championship.
