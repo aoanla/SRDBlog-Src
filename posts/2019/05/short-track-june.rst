@@ -8,98 +8,145 @@
 .. type: text
 .. author: aoanla
 
-The Short Track Roller Derby events calendar is building for the year already, and there's a
+*Note, in accordance with our general policy, team links here are to their website, if they have one, and instagram if not. We try to avoid linking to Facebook if possible, except for Events.*
 
-In anticipation of this, Rolla Skate Club now host a dedicated `Short Track Roller Derby Resources`_ page, with the rules and other info. (We expect it to gain additional translations soon - Russian and Arabic (and Polish) translations all exist, and Spanish is in progress!)
+The Short Track Roller Derby events calendar is building for the year already, and there's a lot of things to talk about, so we're bringing you a new edition of the Short Track News roundup earlier than we expected to!
+
+Our first development is that `Rolla Skate Club`_ now host a dedicated `Short Track Roller Derby Resources`_ page, with the rules and other info.
+(We expect it to gain additional translations soon - Russian and Arabic (and Polish) translations all exist, and Spanish is in progress!)
+
+.. _Rolla Skate Club: https://rollaskateclub.com/
 
 .. _Short Track Roller Derby Resources: https://rollaskateclub.com/short-track-roller-derby-resources/
 
-In the USA, the biggest Short Track event upcoming is probably the `Rollercon`_ event series. Building on their appearance at the last Rollercon (the public debut of the ruleset, in fact), Rollercon 2019 will feature multiple items:
+
+In the USA, the biggest Short Track event upcoming is probably the `Rollercon`_ event series. Building on their appearance at the last Rollercon (the public debut of the ruleset, in fact),
 
 .. _Rollercon: http://rollercon.com
 
-- "AA-level" Short Track Exhibition Game "Short Skirts versus Sleeves" (20 July, 20:45)
-- 2 MVP-pass holder on Skates sessions on Short Track with Rolla Skate Club [19 July 16:50, 20 Jul 18:00]
-- Open Track Scrimmage for Short Track (19 July, 20:00)
+Rollercon 2019 will feature multiple items:
+  - "AA-level" Short Track Exhibition Game "Short Skirts versus Sleeves" (20 July, 20:45)
+  - 2 MVP-pass holder on Skates sessions on Short Track with Rolla Skate Club [19 July 16:50, 20 Jul 18:00]
+  - Open Track Scrimmage for Short Track (19 July, 20:00)
 
 If you're at Rollercon from the 17th July, then we encourage you to go check it out!
 
-(Pittsburgh Short Track Roller Derby continue)
+Many other US and Canadian teams continue to use Short Track Roller Derby; Pittsburgh Short Track Roller Derby, in particular, continue to be a purely Short Track league, and are holding regular open training sessions.
 
-And in Canada, we know that Nelson, British Columbia, will be hosting a 22 June.
+22 June
+  in Canada, we know that `Nelson Killjoys`_ of British Columbia, will be hosting a tournament for 6 teams.
 
-In Europe, however, there's a bunch of exciting workshops / bootcamps / tournaments coming up:
+.. _Nelson Killjoys: https://www.instagram.com/nelsonrollerderby/
 
-Literally next weekend:
++++++
 
-`Gdańsk Chrome Sirens Roller Derby`_ are following up on the previous success of a Short-Track double header with a Polish Short Track Tournament.
+.. image:: /images/2019/05/shorttrack-fanzine-latin-america.jpg
+  :alt: The first edition of Iru Navarro's fanzine, including an introduction to Short Track rules.
 
-.. _Gdańsk Chrome Sirens Roller Derby:
+  The first edition of Iru Navarro's fanzine, including an introduction to Short Track rules.
+
+Further afield, Latin America continues to explore the Short Track ruleset [an Argentine fanzine is covering the rules in translation issue by issue], and in South Korea, OH! Roller Derby are hosting scrimmages using the ruleset.
+
++++++
+
+In **Europe**, however, there's a bunch of exciting workshops / bootcamps / tournaments coming up:
+
+Literally next weekend: `Gdańsk Chrome Sirens Roller Derby`_ are following up on the previous success of a Short-Track double header with a Polish Short Track Tournament.
+
+.. _Gdańsk Chrome Sirens Roller Derby: https://www.instagram.com/chromesirensrollerderby/
 
 25 May
+  `[FACEBOOK EVENT]`_
 
-`[FACEBOOK EVENT]`_
+  - Vratislavia MadChix Roller Squad
+  - Worst Warsaw Derby Team
+  - 3City Piranhas Roller Derby (Gdańsk)
+  - Gdańsk Chrome Sirens Roller Derby [two teams]
+  - mystery 6th team
+
+  This will be a full round-robin tournament, with 10 bouts to decide the overall winner. Entry will be free - and the whole event will be livestreamed at https://www.twitch.tv/chromesirens
 
 .. __: https://www.facebook.com/events/2269056513308318/
 
-
-- Vratislavia MadChix Roller Squad
-- Worst Warsaw Derby Team
-- 3City Piranhas Roller Derby (Gdańsk)
-- Gdańsk Chrome Sirens Roller Derby [two teams]
-- mystery 6th team
-
-This will be a group-phase (2 groups of 3) leading into a short placement series for the "Championship".
-
 ++++
 
-In the very near future, GO-GO Gent Roller Derby host a special edition of Star Track (their SKOD spin-off) with a Short Track focus.
+In the very near future, `GO-GO Gent Roller Derby`_ host a special edition of Star Track (their SKOD spin-off) with a Short Track focus.
+
+.. _GO-GO Gent Roller Derby: http://www.gogogent.be/nl/home-nl-2/
 
 1 - 2 June 2019
+  `[FACEBOOK EVENT]`_
 
-Coached by UAE Roller Derby All-Stars' Inga Knee'her, the current design has:
+  Coached by UAE Roller Derby All-Stars' Inga Knee'her, the current design has:
 
-- 1st June:
+  - 1st June:
 
-  - Morning session: Short Track Rules & Drills with Inga Knee'her and UAE Roller Derby (including low-contact and other variants, potentially)
-   - Afternoon session: Short Track mini-tournaments
+    - Morning session: Short Track Rules & Drills with Inga Knee'her and UAE Roller Derby (including low-contact and other variants, potentially)
+    - Afternoon session: Short Track mini-tournaments
 
-- 2nd June:
+  - 2nd June:
 
-  - Short Track mini-tournament continues
+    - Short Track mini-tournament continues
+
+Changes for this structure are still possible, depending on attendance.
+
+.. __: https://www.facebook.com/events/1002943783428385/
 
 ++++
 
 Russia continues its promotion of Short Track with multiple events:
 
 19 June
- - Public Short Track Roller Derby exibition bout (St-Petersburg Roller Derby)
+ - Public Short Track Roller Derby exhibition bout (St-Petersburg Roller Derby)
 
-x August
+In August
  - public Short Track Roller Derby bout (Baltic Witches (St-Petersburg C) versus Raptors Derby Moscow)
 
 ++++
 
-Next up, the 13th of July sees `All-In Roller Derby Community`_ (Link to Facebook), the xxx, host a
-Short Track Workshop in
+Next up, the
+
+13 July
+  `[FACEBOOK EVENT]`_
+
+  `All-In Roller Derby Community`_ (Link to Facebook), the xxx, host a
+  Short Track Workshop in
 
 .. _All-In Roller Derby Community: https://www.facebook.com/allin.crd/
 
-This will be a one-day workshop,
+  This will be a one-day workshop,
+
+.. __:
 
 ++++
 
-Most excitingly, perhaps, the 16th to 18th August see the furthest-north Short Track (and WFTDA) event of the set.
+Also on the
 
-`Orkney ViQueens Roller Derby`_ host a three-day event, with:
+13 July
+  *No event yet*
 
-.. _Orkney ViQueens Roller Derby:
+  `Bad Rangers Poznań`_ are also planning a Short Track fixture, details to be confirmed.
 
-- Short Track and WFTDA Rules Officiating Clinic (run by Theminist Killjoy) [16th]
-- Open-To-All genders WFTDA-rules double header [17th]
-- Open-To-All genders Short Track-rules tournament (up to 8 teams) [18th]
+.. _Bad Rangers Poznań: https://www.instagram.com/badrangerspoznan/
 
-This is Orkney ViQueens first ever hosted event, so it's a chance to be part of history.
+++++
+
+Most excitingly:
+
+16-18 August
+  *No event yet*
+
+  see the furthest-north Short Track (and WFTDA) event of the set.
+
+  `Orkney ViQueens Roller Derby`_ host a three-day event, with:
+
+  - Short Track and WFTDA Rules Officiating Clinic (run by Theminist Killjoy) [16th]
+  - Open-To-All genders WFTDA-rules double header [17th]
+  - Open-To-All genders Short Track-rules tournament (up to 8 teams) [18th]
+
+.. _Orkney ViQueens Roller Derby: https://www.instagram.com/orkney_viqueens_rollerderby/
+
+This is Orkney ViQueens' first ever hosted event, so it's a chance to be part of history.
 
 This is also a great excuse to see Orkney! Orkney ViQueens have some accommodation options to reduce costs for officials and skaters, and are working on other cost reduction, as well.
 
