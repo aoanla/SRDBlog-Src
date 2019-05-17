@@ -123,6 +123,29 @@ Event starts: 1100? Sunday
 
 Venue: Cafetaria Sporthal Kiel, Antwerp, Belgium
 
+Sun: Saint-Gratien, France
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+
+.. __: https://www.facebook.com/events/309906706369552/
+.. __: http://flattrackstats.com/node/109622
+.. __: http://flattrackstats.com/node/109623
+
+`Roller Derby Panthers`_ host a double header of derby for their A and B teams. (To be honest, there's a lot of
+great derby in France this Sunday, and we decided which one to pick partly on the team names.)
+
+.. _Roller Derby Panthers:
+
+- Panthers Graou (RDP A / Saint-Gratien) versus Petites Morts (Bordeaux)
+- Panthers Miaou (RDP B) versus Bloody Angels (Melun)
+
+Event starts: 1400 Sunday (doors open)
+
+Venue: 28 Rue du Picolo, Saint-Gratien, France
+
 Sun: Grimsby, UK
 --------------------------------
 
