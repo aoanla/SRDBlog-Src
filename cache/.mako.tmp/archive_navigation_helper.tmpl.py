@@ -32,7 +32,6 @@ def render_archive_navigation(context):
         pagekind = context.get('pagekind', UNDEFINED)
         up_archive = context.get('up_archive', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
-        has_archive_navigation = context.get('has_archive_navigation', UNDEFINED)
         next_archive = context.get('next_archive', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')

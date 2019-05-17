@@ -68,6 +68,9 @@ def render_comment_form(context,url,title,identifier):
         intensedebate = _mako_get_namespace(context, 'intensedebate')
         facebook = _mako_get_namespace(context, 'facebook')
         muut = _mako_get_namespace(context, 'muut')
+        intensedebate = _mako_get_namespace(context, 'intensedebate')
+        commento = _mako_get_namespace(context, 'commento')
+        isso = _mako_get_namespace(context, 'isso')
         __M_writer = context.writer()
         __M_writer('\n')
         if comment_system == 'disqus':
@@ -109,6 +112,9 @@ def render_comment_link(context,link,identifier):
         intensedebate = _mako_get_namespace(context, 'intensedebate')
         facebook = _mako_get_namespace(context, 'facebook')
         muut = _mako_get_namespace(context, 'muut')
+        intensedebate = _mako_get_namespace(context, 'intensedebate')
+        commento = _mako_get_namespace(context, 'commento')
+        isso = _mako_get_namespace(context, 'isso')
         __M_writer = context.writer()
         __M_writer('\n')
         if comment_system == 'disqus':
@@ -150,6 +156,9 @@ def render_comment_link_script(context):
         intensedebate = _mako_get_namespace(context, 'intensedebate')
         facebook = _mako_get_namespace(context, 'facebook')
         muut = _mako_get_namespace(context, 'muut')
+        intensedebate = _mako_get_namespace(context, 'intensedebate')
+        commento = _mako_get_namespace(context, 'commento')
+        isso = _mako_get_namespace(context, 'isso')
         __M_writer = context.writer()
         __M_writer('\n')
         if comment_system == 'disqus':

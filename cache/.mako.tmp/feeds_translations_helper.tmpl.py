@@ -35,9 +35,9 @@ def render_body(context,**pageargs):
 def render__head_feed_link(context,link_type,link_name,link_postfix,classification,kind,language):
     __M_caller = context.caller_stack._push_frame()
     try:
+        translations = context.get('translations', UNDEFINED)
         len = context.get('len', UNDEFINED)
         _link = context.get('_link', UNDEFINED)
-        translations = context.get('translations', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if len(translations) > 1:
@@ -70,6 +70,8 @@ def render__head_feed_link(context,link_type,link_name,link_postfix,classificati
 def render__html_feed_link(context,link_type,link_name,link_postfix,classification,kind,language,name=None):
     __M_caller = context.caller_stack._push_frame()
     try:
+        translations = context.get('translations', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         len = context.get('len', UNDEFINED)
         _link = context.get('_link', UNDEFINED)
         translations = context.get('translations', UNDEFINED)
@@ -134,8 +136,8 @@ def render__html_feed_link(context,link_type,link_name,link_postfix,classificati
 def render__html_translation_link(context,classification,kind,language,name=None):
     __M_caller = context.caller_stack._push_frame()
     try:
-        _link = context.get('_link', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
+        _link = context.get('_link', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if name and kind != "archive" and kind != "author":
@@ -174,6 +176,8 @@ def render__head_rss(context,classification=None,kind='index',rss_override=True)
             return render__head_feed_link(context,link_type,link_name,link_postfix,classification,kind,language)
         sorted = context.get('sorted', UNDEFINED)
         rss_link = context.get('rss_link', UNDEFINED)
+        sorted = context.get('sorted', UNDEFINED)
+        all_languages = context.get('all_languages', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if rss_link and rss_override:
