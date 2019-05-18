@@ -19,6 +19,8 @@ Our first development is that `Rolla Skate Club`_ now host a dedicated `Short Tr
 
 .. _Short Track Roller Derby Resources: https://rollaskateclub.com/short-track-roller-derby-resources/
 
+.. image:: /images/2019/05/short-track-resources.png MAKEME
+
 
 In the USA, the biggest Short Track event upcoming is probably the `Rollercon`_ event series. Building on their appearance at the last Rollercon (the public debut of the ruleset, in fact),
 
@@ -33,10 +35,13 @@ If you're at Rollercon from the 17th July, then we encourage you to go check it 
 
 Many other US and Canadian teams continue to use Short Track Roller Derby; Pittsburgh Short Track Roller Derby, in particular, continue to be a purely Short Track league, and are holding regular open training sessions.
 
-22 June
-  in Canada, we know that `Nelson Killjoys`_ of British Columbia, will be hosting a tournament for 6 teams.
+In Canada, we know that `Nelson Killjoys`_ of British Columbia, will be hosting a tournament for 6 teams, at some point this year.
+
+In Alberta, Canada, `Fort McMurray Roller Derby`_ are planning to use short track rules for their home teams season, allowing them to support more home teams with their current roster. (Scheduled for around October 2019)
 
 .. _Nelson Killjoys: https://www.instagram.com/nelsonrollerderby/
+
+.. _Fort McMurray Roller Derby: http://fmrollerderby.com/
 
 +++++
 
@@ -49,6 +54,9 @@ Further afield, Latin America continues to explore the Short Track ruleset [an A
 
 +++++
 
+.. image:: /images/2019/05/shortrackcalendar.png
+
+
 In **Europe**, however, there's a bunch of exciting workshops / bootcamps / tournaments coming up:
 
 Literally next weekend: `Gdańsk Chrome Sirens Roller Derby`_ are following up on the previous success of a Short-Track double header with a Polish Short Track Tournament.
@@ -56,7 +64,7 @@ Literally next weekend: `Gdańsk Chrome Sirens Roller Derby`_ are following up o
 .. _Gdańsk Chrome Sirens Roller Derby: https://www.instagram.com/chromesirensrollerderby/
 
 25 May
-  `[FACEBOOK EVENT]`_
+  `[FACEBOOK EVENT]`__
 
   - Vratislavia MadChix Roller Squad
   - Worst Warsaw Derby Team
@@ -70,12 +78,16 @@ Literally next weekend: `Gdańsk Chrome Sirens Roller Derby`_ are following up o
 
 ++++
 
+.. image:: /images/2019/05/star-track.png MAKEME
+
+
+
 In the very near future, `GO-GO Gent Roller Derby`_ host a special edition of Star Track (their SKOD spin-off) with a Short Track focus.
 
 .. _GO-GO Gent Roller Derby: http://www.gogogent.be/nl/home-nl-2/
 
 1 - 2 June 2019
-  `[FACEBOOK EVENT]`_
+  `[FACEBOOK EVENT]`__
 
   Coached by UAE Roller Derby All-Stars' Inga Knee'her, the current design has:
 
@@ -104,19 +116,23 @@ In August
 
 ++++
 
+.. image:: /images/2019/05/ALLIN-SHORTTRACK.png MAKEME
+
+
 Next up, the
 
 13 July
-  `[FACEBOOK EVENT]`_
+  `[FACEBOOK EVENT]`__
 
-  `All-In Roller Derby Community`_ (Link to Facebook), the xxx, host a
-  Short Track Workshop in
+  `All-In Roller Derby Community`_ host their "Short Track Experiment"
 
-.. _All-In Roller Derby Community: https://www.facebook.com/allin.crd/
+  A 1 day workshop exploring the Short Track ruleset - including low-contact rules as well as the full contact standard. Includes OTA and WFTDA-gender policy games (open to not-quite-mins-passed-but-internal-scrim-ready skaters for the Low Contact games). Includes time for discussion between games, and a low-pressure environment.
 
-  This will be a one-day workshop,
+.. _All-In Roller Derby Community: https://www.allincrd.uk/
 
-.. __:
+  This will run from midday to 5pm in the Ramgarhia Sikh Sport Centre, Leeds.
+
+.. __: https://www.facebook.com/events/325438141454262/
 
 ++++
 
@@ -130,6 +146,9 @@ Also on the
 .. _Bad Rangers Poznań: https://www.instagram.com/badrangerspoznan/
 
 ++++
+
+.. image:: OrkneyViQueens-STRD.png MAKEME
+
 
 Most excitingly:
 
