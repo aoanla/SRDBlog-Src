@@ -1,6 +1,6 @@
 .. title: Upcoming European Short Track Events (June-August 2019)
 .. slug: upcoming-short-track-2019
-.. date: 2019-05-18 10:00:00 UTC+01:00
+.. date: 2019-05-20 14:00:00 UTC+01:00
 .. tags: short track roller derby, belgian roller derby, orkney viqueens, go-go gent, all-in roller derby community, uk roller derby, tournament, bootcamp, officiating, uae roller derby all-stars
 .. category:
 .. link:
@@ -19,7 +19,7 @@ Our first development is that `Rolla Skate Club`_ now host a dedicated `Short Tr
 
 .. _Short Track Roller Derby Resources: https://rollaskateclub.com/short-track-roller-derby-resources/
 
-.. image:: /images/2019/05/short-track-resources.png MAKEME
+.. image:: /images/2019/05/ShortTrackResources.gif
 
 
 In the USA, the biggest Short Track event upcoming is probably the `Rollercon`_ event series. Building on their appearance at the last Rollercon (the public debut of the ruleset, in fact),
@@ -35,7 +35,7 @@ If you're at Rollercon from the 17th July, then we encourage you to go check it 
 
 Many other US and Canadian teams continue to use Short Track Roller Derby; Pittsburgh Short Track Roller Derby, in particular, continue to be a purely Short Track league, and are holding regular open training sessions.
 
-In Canada, we know that `Nelson Killjoys`_ of British Columbia, will be hosting a tournament for 6 teams, at some point this year.
+In Canada, we know that `Nelson Killjoys`_ of British Columbia, will be hosting a tournament for 6 teams, at some point later this year.
 
 In Alberta, Canada, `Fort McMurray Roller Derby`_ are planning to use short track rules for their home teams season, allowing them to support more home teams with their current roster. (Scheduled for around October 2019)
 
@@ -58,8 +58,11 @@ In South Africa, `Cape Town Rollergirls`_ are planning a second Short Track even
 
 +++++
 
-.. image:: /images/2019/05/shortrackcalendar.png
+.. figure:: /images/2019/05/shortrackcalendar.png
   :alt: Calendar image showing colour coded types of event for the next 3 months.
+
+  Calendar of events (blue - games, yellow - Rollercon, purple - bootcamps and workshops)
+
 
 In **Europe**, however, there's a bunch of exciting workshops / bootcamps / tournaments coming up:
 
