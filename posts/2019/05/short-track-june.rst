@@ -19,8 +19,10 @@ Our first development is that `Rolla Skate Club`_ now host a dedicated `Short Tr
 
 .. _Short Track Roller Derby Resources: https://rollaskateclub.com/short-track-roller-derby-resources/
 
-.. image:: /images/2019/05/ShortTrackResources.gif
+.. figure:: /images/2019/05/ShortTrackResources.gif
+  :alt: Animated Gif of Short Track resources page
 
+  The new Rolla Skate Club "Short Track Resources page"!
 
 In the USA, the biggest Short Track event upcoming is probably the `Rollercon`_ event series. Building on their appearance at the last Rollercon (the public debut of the ruleset, in fact),
 
