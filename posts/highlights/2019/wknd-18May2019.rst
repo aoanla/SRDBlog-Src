@@ -71,9 +71,25 @@ Sat-Sun: Sydney, NSW, Australia
   - Tasmanian Men's Roller Derby
   - Men of Steel (Newcastle M)
 
-Event starts: ??
+Event starts: 1400 Saturday
 
-Venue: ??
+Venue: Dunc Gray Velodrome, Bass Hill, Sydney, NSW, Australia
+
+Sat: Pyeongtaek, South Korea
+-------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/341945206680399/
+
+`OH! Roller Derby`_ [Facebook link, as no other social media] (the only active team in South Korea, at the USAG Humphreys base) host an open scrimmage - listed here as it's using Short Track Roller Derby rules.
+
+.. _OH! Roller Derby: https://www.facebook.com/OHDerbyKorea/
+
+Event starts: 1200 Saturday
+
+Venue: Turner Fitness Centre, USAG Humphreys, Pyeongtaek-si, Gyeonggi-do, South Korea
+
 
 Sat: Uppsala, Sweden
 --------------------------------
@@ -306,9 +322,11 @@ Sat-Sun: Curitiba, Brazil
 
 - Sun:
 
-  - Blue Jay Rollers (Curitiba) versus Thunder Rats Derby Squad (Santos)
+  - <s>Blue Jay Rollers (Curitiba) versus Thunder Rats Derby Squad (Santos)</s>
   - Blue Jay Rollers versus Iron Ladies Roller Derby (Blumenau)
-  - Thunder Rats Derby Squad versus Iron Ladies Roller Derby
+  - <s>Thunder Rats Derby Squad versus Iron Ladies Roller Derby</s>
+
+*Note, due to problems with Thunder Rats attending the event, their games were replaced with games against a pick-up team from skaters present*
 
 Event starts: 0900 Saturday (doors open)
 
