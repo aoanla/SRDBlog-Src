@@ -1,7 +1,7 @@
 .. title: Upcoming European Short Track Events (June-August 2019)
 .. slug: upcoming-short-track-2019
 .. date: 2019-05-20 14:00:00 UTC+01:00
-.. tags: short track roller derby, belgian roller derby, orkney viqueens, go-go gent, all-in roller derby community, uk roller derby, tournament, bootcamp, officiating, uae roller derby all-stars
+.. tags: short track roller derby, belgian roller derby, orkney viqueens, go-go gent, all-in roller derby community, uk roller derby, tournament, bootcamp, officiating, uae roller derby all-stars, russian roller derby, white night furies, raptors derby moscow, rolla skate club, rollercon, south african roller derby, cape town rollergirls, polish roller derby, gdansk chrome sirens
 .. category:
 .. link:
 .. description:
