@@ -13,7 +13,7 @@
 The Short Track Roller Derby events calendar is building for the year already, and there's a lot of things to talk about, so we're bringing you a new edition of the Short Track News roundup earlier than we expected to!
 
 Our first development is that `Rolla Skate Club`_ now host a dedicated `Short Track Roller Derby Resources`_ page, with the rules and other info.
-(We expect it to gain additional translations soon - Russian and Arabic (and Polish) translations all exist, and Spanish is in progress!)
+(We know that it's also set to gain more resources, too, as they're produced.)
 
 .. _Rolla Skate Club: https://rollaskateclub.com/
 
@@ -52,7 +52,9 @@ In Alberta, Canada, `Fort McMurray Roller Derby`_ are planning to use short trac
 
   The first edition of Iru Navarro's fanzine, including an introduction to Short Track rules.
 
-Further afield, Latin America continues to explore the Short Track ruleset [an Argentine fanzine is covering the rules in translation issue by issue], and in South Korea, OH! Roller Derby are hosting scrimmages using the ruleset.
+Further afield, Latin America continues to explore the Short Track ruleset [an Argentine fanzine is covering the rules in translation issue by issue], and in South Korea, `OH! Roller Derby`_ (Facebook link) are hosting scrimmages using the ruleset.
+
+.. _OH! Roller Derby: https://www.facebook.com/OHDerbyKorea/
 
 In South Africa, `Cape Town Rollergirls`_ are planning a second Short Track event after the success of their first on the 26th April. Whilst not announced officially yet, the **8th June** is the provisional date.
 
@@ -157,25 +159,9 @@ Also on the
 
 ++++
 
-Most excitingly:
+Perhaps the most exciting UK-based event is planned for
 
 16-18 August
   *No event yet*
 
-  see the furthest-north Short Track (and WFTDA) event of the set.
-
-  `Orkney ViQueens Roller Derby`_ host a three-day event, with:
-
-  - Short Track and WFTDA Rules Officiating Clinic (run by Theminist Killjoy) [16th]
-  - Open-To-All genders WFTDA-rules double header [17th]
-  - Open-To-All genders Short Track-rules tournament (up to 8 teams) [18th]
-
-.. _Orkney ViQueens Roller Derby: https://www.instagram.com/orkney_viqueens_rollerderby/
-
-This is Orkney ViQueens' first ever hosted event, so it's a chance to be part of history.
-
-This is also a great excuse to see Orkney! Orkney ViQueens have some accommodation options to reduce costs for officials and skaters, and are working on other cost reduction, as well.
-
-Officials can sign up for all parts of the event here: https://docs.google.com/forms/d/e/1FAIpQLScMpk7DjRyF5tykoKTVX6wv4fShIWc4y4exfGD_MiMVWcxr9g/viewform
-
-(Travel to Orkney, for people outside Scotland, is easiest via ferry from Aberdeen on the afternoon of the 15th (around £32 each way on foot), although flights are possible as well (but are much more expensive); for Norwegian visitors, there are also flights direct from Bergen to Kirkwall but only on Saturdays - it's easier to fly via Aberdeen, and not much more expensive (although flying to Aberdeen and then taking the ferry to Orkney is even cheaper).)
+Save the date, and we'll bring you more info on this event when we can confirm it (which will hopefully be soon)!
