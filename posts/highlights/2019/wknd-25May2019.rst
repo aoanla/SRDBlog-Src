@@ -25,7 +25,7 @@ get themselves an actual webpage [we can help host one if you need help]).
 Locations are roughly organised East-West (with things before the weekend out sequence at the start).
 
 ..
-  https://www.facebook.com/events/324989004869260/ (Albany, WA, Aus STATEWAR Thing) 
+  https://www.facebook.com/events/324989004869260/ (Albany, WA, Aus STATEWAR Thing)
 
   https://www.facebook.com/events/1743380759095002/ (Malmö, Sweden, Bootcamp)
   https://www.facebook.com/events/1885960958119675/ (Dresden, Germant, Bootcamp)
@@ -39,6 +39,11 @@ Locations are roughly organised East-West (with things before the weekend out se
 
   https://www.facebook.com/events/1066336233564836/ (Rebellion Sevens)
   https://www.facebook.com/events/423991991509432/ (London, UK - blocking and jamming workship with Grime))
+
+  https://www.facebook.com/events/283155469297154/304803993798968/ Edinburgh - ARRG double header
+  and the Mansfield v Dundee one
+
+  https://www.facebook.com/events/657026764727797/ - Bologna, Italy (Bone Crushing Hyenas)
 
   https://www.facebook.com/events/2356265051085916/ Tlalpan, Mexico Copa Quinto Sol #2  **
   https://www.facebook.com/events/2316568251995837/ Madrid, Spain double header
