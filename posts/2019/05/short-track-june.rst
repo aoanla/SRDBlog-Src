@@ -52,10 +52,14 @@ In Alberta, Canada, `Fort McMurray Roller Derby`_ are planning to use short trac
 
 Further afield, Latin America continues to explore the Short Track ruleset [an Argentine fanzine is covering the rules in translation issue by issue], and in South Korea, OH! Roller Derby are hosting scrimmages using the ruleset.
 
+In South Africa, `Cape Town Rollergirls`_ are planning a second Short Track event after the success of their first on the 26th April. Whilst not announced officially yet, the **8th June** is the provisional date.
+
+.. _Cape Town Rollergirls: http://www.capetownrollergirls.com/main/
+
 +++++
 
 .. image:: /images/2019/05/shortrackcalendar.png
-
+  :alt: Calendar image showing colour coded types of event for the next 3 months.
 
 In **Europe**, however, there's a bunch of exciting workshops / bootcamps / tournaments coming up:
 
@@ -78,8 +82,8 @@ Literally next weekend: `Gdańsk Chrome Sirens Roller Derby`_ are following up o
 
 ++++
 
-.. image:: /images/2019/05/star-track.png MAKEME
-
+.. image:: /images/2019/05/star-track.png
+  :alt: Logo for the Star Track event 1-2 June in Gent
 
 
 In the very near future, `GO-GO Gent Roller Derby`_ host a special edition of Star Track (their SKOD spin-off) with a Short Track focus.
@@ -116,7 +120,8 @@ In August
 
 ++++
 
-.. image:: /images/2019/05/ALLIN-SHORTTRACK.png MAKEME
+.. image:: /images/2019/05/ALLIN-SHORTTRACK.jpg
+  :alt: The Short Track Experiment (Leeds) Logo
 
 
 Next up, the
@@ -124,11 +129,11 @@ Next up, the
 13 July
   `[FACEBOOK EVENT]`__
 
-  `All-In Roller Derby Community`_ host their "Short Track Experiment"
+  `ALL IN Roller Derby Community`_ host their "Short Track Experiment"
 
   A 1 day workshop exploring the Short Track ruleset - including low-contact rules as well as the full contact standard. Includes OTA and WFTDA-gender policy games (open to not-quite-mins-passed-but-internal-scrim-ready skaters for the Low Contact games). Includes time for discussion between games, and a low-pressure environment.
 
-.. _All-In Roller Derby Community: https://www.allincrd.uk/
+.. _ALL IN Roller Derby Community: https://www.allincrd.uk/
 
   This will run from midday to 5pm in the Ramgarhia Sikh Sport Centre, Leeds.
 
@@ -146,9 +151,6 @@ Also on the
 .. _Bad Rangers Poznań: https://www.instagram.com/badrangerspoznan/
 
 ++++
-
-.. image:: OrkneyViQueens-STRD.png MAKEME
-
 
 Most excitingly:
 
