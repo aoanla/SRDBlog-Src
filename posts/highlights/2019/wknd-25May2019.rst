@@ -1,6 +1,6 @@
-.. title: Weekend Highlights: 18 May 2019
-.. slug: weekendhighlights-18052019
-.. date: 2019-05-15 07:50 UTC+01:00
+.. title: Weekend Highlights: 25 May 2019
+.. slug: weekendhighlights-25052019
+.. date: 2019-05-22 07:50 UTC+01:00
 .. tags: weekend highlights, uk derby, german derby, french derby, belgian derby, swedish derby, new zealand derby, danish derby,brasilian derby, argentine derby,  mexican derby, australian derby
 .. category:
 .. link:
