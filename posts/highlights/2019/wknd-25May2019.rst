@@ -25,9 +25,6 @@ get themselves an actual webpage [we can help host one if you need help]).
 Locations are roughly organised East-West (with things before the weekend out sequence at the start).
 
 ..
-  https://www.facebook.com/events/1743380759095002/ (Malmö, Sweden, Bootcamp)
-  https://www.facebook.com/events/1885960958119675/ (Dresden, Germant, Bootcamp)
-
   https://www.facebook.com/events/312943566049684/ (Brest, France, Tournament interceltique) **
   https://www.facebook.com/events/2398470593707480/ (Angoulême, France - "Pack is Queer triple)") **
   https://www.facebook.com/events/404120797004740/ (Metz, France - itnernatioanl triple) **
@@ -39,18 +36,13 @@ Locations are roughly organised East-West (with things before the weekend out se
   https://www.facebook.com/events/283155469297154/304803993798968/ Edinburgh - ARRG double header
   https://www.facebook.com/events/881902268809143/ and the Mansfield v Dundee one
 
-  https://www.facebook.com/events/657026764727797/ - Bologna, Italy (Bone Crushing Hyenas)
-
   https://www.facebook.com/events/2356265051085916/ Tlalpan, Mexico Copa Quinto Sol #2  **
-  https://www.facebook.com/events/2316568251995837/ Madrid, Spain double header
-  https://www.facebook.com/events/536855446847385/ (São Paulo, Brazil - bootcamp with Ladies of Helltown)
+
   https://www.facebook.com/events/365303900986030/ (Guadalajara, Mexico - Copa Jericalla 2019 ) **
 
   Chillan, Chile - Torneo X men semifinal! https://www.facebook.com/torneoxmen2019/photos/a.814918265511187/875151932821153/
 
-  Wasn't there a thing in Costa Rica planned? - that's on the Sunday
-
-Sat-Sun: Palmerston North, New Zealand
+Sat: Palmerston North, New Zealand
 --------------------------------
 
 `[FACEBOOK LINK]`__
@@ -66,9 +58,9 @@ Sat-Sun: Palmerston North, New Zealand
 
 *These bouts are not listed on Flat Track Stats due to the mashup teams not being rateable.*
 
-Event starts:
+Event starts: 1430 Saturday (doors open)
 
-Venue:
+Venue: Bush Multisport Park, Palmerston North, New Zealand **
 
 Sat-Sun: Albany, WA, Australia
 --------------------------------
@@ -160,11 +152,110 @@ those rules! This is a full 10 games of 5-teams round robin tournament, with tea
 
 *These bouts are not currently listed on Flat Track Stats as it does not yet list Short Track bouts or rate them*
 
-Event starts:
+Event starts: 1200 Saturday (doors open)
 
-Venue:
+Venue: SkateArena, Stadion Energa Gdańsk, ul. Pokoleń Lechii Gdansk, Poland
 
-Sat-Sun: https://www.facebook.com/events/2343268622609237/ (Norrköping, Sweden - tryout and bout for pride)
+Sat: Norrköping, Sweden
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/2343268622609237/
+
+`Norrköping Roller Derby`_ is organising a juniors and adults try-derby-day in collaboration with East Pride. No previous skating experience necessary. After the open-day, the event ends with a "Pride-themed" exhibition bout.
+
+.. _Norrköping Roller Derby:
+
+- Junior try-Derby (1200)
+- Adult try-Derby (1300)
+- "Pride-themed" bout (1500)
+
+Event starts: 1200 Saturday
+
+Venue: Ektorpshallen, Trestegsgatan 4, Norrköping, Sweden
+
+Sat-Sun: Malmö, Sweden
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/1743380759095002/
+.. __:
+
+`Crime City Rollers`_ host their Level 1 Summer Bootcamp, the basic edition for minimum-skills passed skaters.
+This bootcamp is Open To All genders, and also contains provision for junior skaters (13+, approval from parent or guardian, confirmation in writing from coach of league that mins-passed and contact-ready). This is a two-day bootcamp...
+...but the first day ends with Crime City's bout against Paris Roller Girls, which is free entry for bootcamp attendees!
+
+.. _Crime City Rollers:
+
+- Bootcamp [0900 Sat - 1700 Sat]
+- Crime City A (Malmö) versus Paris Roller Girls A [1700 Sat]
+- Bootcamp [0900 Sun - 1800 Sun]
+
+Event starts: 0900 Saturday
+
+Venue: Kopparbergsgatan 7, Malmö, Sweden
+
+
+Sat-Sun: Dresden, Germany
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/1885960958119675/
+
+`Roller Derby Dresden`_ 's "Dresden Derby Days" bootcamp series continues with a Purple Edition Female edition (WFTDA-gender policy?) aimed at nearly-mins-passed or just-mins-passed skaters. This is a two-day bootcamp, covering both on and off-skates skills, and finishing with a scrimmage or equivalent event at the end of Sunday.
+
+.. _Roller Derby Dresden:
+
+Event starts: 0900 Saturday
+
+Venue: Pestalozziplatz 20, Dresden, Germany
+
+Sat: Munich, Germany
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/1211068065719894/
+.. __:
+
+`Munich Rolling Rebels`_ host a double-header of Roller Derby, where perhaps the most exciting bout is the opener, as Munich's junior derby play Emden/Hamburg's Northern All-Stars! (Munich A then play Berlin's Bear City, which will also be exciting, but isn't a first for junior derby ;)
+
+.. _Munich Rolling Rebels:
+
+- RebelLIONS (Munich J) versus Northern All Stars (Emden/Hamburg J)
+- Munich Dynamite (Munich A) versus Bear City Roller Derby (Berlin A)
+
+Event starts: 1500 Saturday (doors open)
+
+Venue: Städtische Sporthalle Allach, Everbuschstr. 124, Munich, Germany
+
+Sat: Bologna, Italy
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/657026764727797/
+.. __:
+
+`Bone-Crushing Hyenas`_, Bologna's finest Roller Derby league, host a triple-header of Italian Roller Derby.
+
+.. _Bone-Crushing Hyenas:
+
+- OTA "Scrimmage" Derby Moms and Dads themed
+- AnguanAss B-side (Vicenza B) versus Stray Beez (Rimini)
+- Bone-Crushing Hyenas (Bologna) versus Banshees (Udine)
+
+Event starts: 1000 Saturday (doors open)
+
+Venue: Centro Sportivo Comunale "Pederzini" Calderara Di Reno, Via Giuseppe Garibaldi 8, Calderara Di Reno, Bologna, Italy
+
+Sat-Sun: PLACEHOLDER FOR FRENCH AND UK FIXTURES
 --------------------------------
 
 `[FACEBOOK LINK]`__
@@ -181,7 +272,28 @@ Event starts:
 
 Venue:
 
-Sat-Sun: https://www.facebook.com/events/1743380759095002/ (Malmö, Sweden, Bootcamp)
+Sat-Sun: Madrid, Spain
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/2316568251995837/
+.. __:
+
+`Roller Derby Madrid`_ hosts a double-header with international roller derby and a chance to see one of the new "hybrid" Teams formed for the
+ARDE Spanish Nationals for the first time. "Frankensteam" consists of a fusion of skaters from Salamanca, Cáceres and Badalona, and this will be the first time they've played in public!
+
+.. _Roller Derby Madrid:
+
+- Roller Derby Madrid A versus Gothenburg A
+- Roller Derby Madrid B versus Frankensteam (Spanish hybrid)
+
+Event starts: 1530 Saturday (first bout?)
+
+Venue: Centro Deportivo Municipal Francisco Fernández Ochoa, C/. las Catorce Olivas s/n, Madrid, Spain
+
+Sat-Sun:
 --------------------------------
 
 `[FACEBOOK LINK]`__
@@ -199,9 +311,21 @@ Event starts:
 Venue:
 
 
-https://www.facebook.com/events/1885960958119675/ (Dresden, Germant, Bootcamp)
-https://www.facebook.com/events/657026764727797/ - Bologna, Italy (Bone Crushing Hyenas)
 
+Sat-Sun: São Paulo, Brazil
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/536855446847385/
+
+`Ladies of Helltown`_ host a two-day bootcamp coached by Bogotá Bone Breakers and Team Colombia's Kitsch, covering strategy, technical skating and scrimmage.
+
+.. _Ladies of Helltown:
+
+Event starts: 1000 Saturday
+
+Venue: ??
 ..
   Sat-Sun:
   --------------------------------
