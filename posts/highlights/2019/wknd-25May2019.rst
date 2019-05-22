@@ -18,6 +18,8 @@ Both highlights limited to 1 event per country, with an "extra" event allowed fo
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
 Other notability might also allow the extra event - great posters, notable teams, etc.
 
+The *Scottish Clause* means that this is a pretty packed update, as no less than 4 leagues or skaters from Scotland are involved in events this weekend!
+
 In a bid to make this list as useful as possible, we've avoided links to Facebook except where noted.
 (Links to Teams are to non-Facebook resources - Instagram, or actual team pages - we'd strongly recommend that Teams
 get themselves an actual webpage [we can help host one if you need help]).
@@ -28,19 +30,10 @@ Locations are roughly organised East-West (with things before the weekend out se
   https://www.facebook.com/events/312943566049684/ (Brest, France, Tournament interceltique) **
   https://www.facebook.com/events/2398470593707480/ (Angoulême, France - "Pack is Queer triple)") **
   https://www.facebook.com/events/404120797004740/ (Metz, France - itnernatioanl triple) **
-  https://www.facebook.com/events/1986771748101409/ (Belfort, France - Bootcamp with Pépé le Punch)
 
-  https://www.facebook.com/events/1066336233564836/ (Rebellion Sevens)
-  https://www.facebook.com/events/423991991509432/ (London, UK - blocking and jamming workship with Grime))
 
-  https://www.facebook.com/events/283155469297154/304803993798968/ Edinburgh - ARRG double header
-  https://www.facebook.com/events/881902268809143/ and the Mansfield v Dundee one
 
-  https://www.facebook.com/events/2356265051085916/ Tlalpan, Mexico Copa Quinto Sol #2  **
 
-  https://www.facebook.com/events/365303900986030/ (Guadalajara, Mexico - Copa Jericalla 2019 ) **
-
-  Chillan, Chile - Torneo X men semifinal! https://www.facebook.com/torneoxmen2019/photos/a.814918265511187/875151932821153/
 
 Sat: Palmerston North, New Zealand
 --------------------------------
@@ -98,12 +91,16 @@ Sat-Sun: Tampere, Finland
 `[FACEBOOK LINK SAT]`__
 `[FACEBOOK LINK SUN]`__
 `[FTS LINK SAT]`__
-`[FTS LINK SUN]`__
+`[FTS LINK SUN 1]`__
+`[FTS LINK SUN 2]`__
+`[FTS LINK SUN 3]`__
 
 .. __: https://www.facebook.com/events/2029682673796256/
 .. __: https://www.facebook.com/events/602284840278217/
-.. __:
-.. __:
+.. __: http://flattrackstats.com/tournaments/106172/overview
+.. __: http://flattrackstats.com/node/108569
+.. __: http://flattrackstats.com/node/108570
+.. __: http://flattrackstats.com/node/108571
 
 `Tampere Roller Derby`_ and `Tampere Rollin' Bros`_ host a two-day Finnish spectacle. On the Saturday,
 the fifth fixture in the Finnish Nationals (Suomi Cup). On the Sunday, an international MRDA-gender
@@ -141,7 +138,7 @@ Sat-Sun: Gdańsk, Poland
 `Gdańsk Chrome Sirens Roller Derby`_ accelerate from their initial double-header of Short Track Roller Derby to a Polish tournament under
 those rules! This is a full 10 games of 5-teams round robin tournament, with teams from across Finland, in just one day, thanks to the short-format.
 
-.. _Gdańsk Chrome Sirens Roller Derby:
+.. _Gdańsk Chrome Sirens Roller Derby: https://www.instagram.com/chromesirensrollerderby/
 
 - Teams:
   - Tsunami Surfers (Gdańsk Chrome Sirens exhibition)
@@ -165,7 +162,7 @@ Sat: Norrköping, Sweden
 
 `Norrköping Roller Derby`_ is organising a juniors and adults try-derby-day in collaboration with East Pride. No previous skating experience necessary. After the open-day, the event ends with a "Pride-themed" exhibition bout.
 
-.. _Norrköping Roller Derby:
+.. _Norrköping Roller Derby: http://www.norrkopingrollerderby.se/
 
 - Junior try-Derby (1200)
 - Adult try-Derby (1300)
@@ -182,13 +179,13 @@ Sat-Sun: Malmö, Sweden
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/1743380759095002/
-.. __:
+.. __: http://flattrackstats.com/node/109062
 
 `Crime City Rollers`_ host their Level 1 Summer Bootcamp, the basic edition for minimum-skills passed skaters.
 This bootcamp is Open To All genders, and also contains provision for junior skaters (13+, approval from parent or guardian, confirmation in writing from coach of league that mins-passed and contact-ready). This is a two-day bootcamp...
 ...but the first day ends with Crime City's bout against Paris Roller Girls, which is free entry for bootcamp attendees!
 
-.. _Crime City Rollers:
+.. _Crime City Rollers: http://crimecityrollers.com/
 
 - Bootcamp [0900 Sat - 1700 Sat]
 - Crime City A (Malmö) versus Paris Roller Girls A [1700 Sat]
@@ -208,7 +205,7 @@ Sat-Sun: Dresden, Germany
 
 `Roller Derby Dresden`_ 's "Dresden Derby Days" bootcamp series continues with a Purple Edition Female edition (WFTDA-gender policy?) aimed at nearly-mins-passed or just-mins-passed skaters. This is a two-day bootcamp, covering both on and off-skates skills, and finishing with a scrimmage or equivalent event at the end of Sunday.
 
-.. _Roller Derby Dresden:
+.. _Roller Derby Dresden: https://www.instagram.com/rollerderbydresden/
 
 Event starts: 0900 Saturday
 
@@ -221,14 +218,14 @@ Sat: Munich, Germany
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/1211068065719894/
-.. __:
+.. __: http://flattrackstats.com/tournaments/107926/overview
 
-`Munich Rolling Rebels`_ host a double-header of Roller Derby, where perhaps the most exciting bout is the opener, as Munich's junior derby play Emden/Hamburg's Northern All-Stars! (Munich A then play Berlin's Bear City, which will also be exciting, but isn't a first for junior derby ;)
+`Munich Rolling Rebels`_ host a double-header of Roller Derby, where perhaps the most exciting bout is the opener, as Munich's junior derby play Emden/Hamburg's Northern All-Stars! (Munich A then play Berlin's Bear City's Wallbreakers in a Bundesliga Division 1 bout which will also be exciting, but isn't a first for junior derby ;)
 
-.. _Munich Rolling Rebels:
+.. _Munich Rolling Rebels: https://www.instagram.com/munich_rolling_rebels/
 
 - RebelLIONS (Munich J) versus Northern All Stars (Emden/Hamburg J)
-- Munich Dynamite (Munich A) versus Bear City Roller Derby (Berlin A)
+- Munich Dynamite (Munich A) versus Bear City Wallbreakers (Berlin X)
 
 Event starts: 1500 Saturday (doors open)
 
@@ -238,14 +235,16 @@ Sat: Bologna, Italy
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
 
 .. __: https://www.facebook.com/events/657026764727797/
-.. __:
+.. __: http://flattrackstats.com/node/109009
+.. __: http://flattrackstats.com/node/109008
 
 `Bone-Crushing Hyenas`_, Bologna's finest Roller Derby league, host a triple-header of Italian Roller Derby.
 
-.. _Bone-Crushing Hyenas:
+.. _Bone-Crushing Hyenas: https://www.instagram.com/bonecrushing_hyenas/
 
 - OTA "Scrimmage" Derby Moms and Dads themed
 - AnguanAss B-side (Vicenza B) versus Stray Beez (Rimini)
@@ -255,22 +254,115 @@ Event starts: 1000 Saturday (doors open)
 
 Venue: Centro Sportivo Comunale "Pederzini" Calderara Di Reno, Via Giuseppe Garibaldi 8, Calderara Di Reno, Bologna, Italy
 
-Sat-Sun: PLACEHOLDER FOR FRENCH AND UK FIXTURES
+Sat-Sun:
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/1986771748101409/
+
+The `Knee Breakers on Wheels`_ host a two day bootcamp in Belfort, which we believe is Open To All genders (the phrase used in French is "Players Mixte"). This is an intermediate through to advanced level bootcamp coached by Pépé le Punch (Team France 2014,2018).
+
+.. _Knee Breakers on Wheels: https://www.instagram.com/rollerderbybelfort/
+
+Event starts: 0900 Saturday
+
+Venue: Gymnase Georges Thurnherr, Rue Ernest Renan, Belfort, France
+
+Sat: London, UK
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/423991991509432/
+
+
+`Team Unicorn Roller Derby`_ host a one-day bootcamp on both blocking and jamming technique coached by Power of Scotland's (and now New Wheeled Order) Optimus Grime. This 4 hour mini-bootcamp is Open To All genders, and open to all experience levels (mins-passed).
+
+.. _Team Unicorn Roller Derby:
+
+Event starts: 1200 Saturday
+
+Venue: City of London Academy, 240 Lynton Road, London, UK
+
+
+Sat-Sun: Milton Keynes, UK
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/1066336233564836/
+
+`Rebellion Roller Derby`_ are celebrating 10 years of roller derby in Milton Keynes with a two-day Roller Derby Sevens extravaganza! On Saturday, they're hosting an "intermediate level" WFTDA-gender-policy Sevens tournament; whilst Sunday sees an "advanced level" Open To All genders Sevens tournament! Both days are closed door due to venue restrictions (which is why we also can't give you an address.)
+
+.. _Rebellion Roller Derby: https://www.rebellionrollerderby.co.uk/
+
+*Flat Track Stats currently does not rate Roller Derby Sevens bouts, so none of this is listed there.*
+
+Event starts: 1000 Saturday
+
+Venue: An undisclosed location in Milton Keynes.
+
+Sat: Newcastle Upon Tyne, UK
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+
+.. __: https://www.facebook.com/events/279593206281982/
+.. __: http://flattrackstats.com/node/109771
+.. __: http://flattrackstats.com/node/109772
+
+`Newcastle Roller Girls`_ host a double header, with Scottish interest, as Glasgow's Mean City travel down to play Newcastle C, whilst Leeds engage in a battle of the B teams in the second bout.
+
+.. _Newcastle Roller Girls: https://www.newcastlerollergirls.org.uk/
+
+- North Cs (Newcastle C) versus Mean City Women (Mean City W / Glasgow)
+- Whippin' Hinnies (Newcastle B) versus Leeds Roller Derby B
+
+Event starts: 1230 Saturday (doors open)
+
+Venue: Benfield Sports Centre, Benfield Road, Newcastle Upon Tyne, UK
+
+Sat: Dundee, Scotland
 --------------------------------
 
 `[FACEBOOK LINK]`__
 `[FTS LINK]`__
 
-.. __:
-.. __:
+.. __: https://www.facebook.com/events/881902268809143/
+.. __: http://flattrackstats.com/node/109305
 
-`Name`_ ...
+`Dundee Roller Derby`_ host Mansfield Roller Derby for a single-header event against the Bonnie Colliders. You can read more about this bout, and Dundee's recent history in our update `earlier in the week`__.
 
-.. _Name:
+.. _Dundee Roller Derby: https://dundeerollerderby.wixsite.com/thedrd
+.. __: https://www.scottishrollerderbyblog.com/posts/2019/05/midseason-update-drd-2019/
 
-Event starts:
+Event starts: 1450 Saturday (doors open)
 
-Venue:
+Venue: Dundee International Sports Centre, Mains Loan, Dundee, Scotland
+
+Sat: Edinburgh, Scotland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/283155469297154/304803993798968/
+.. __: http://flattrackstats.com/node/109289
+
+`Auld Reekie Roller Derby`_ host a double header event, including a WFTDA Sanctioned bout for their A Team.
+
+.. _Auld Reekie Roller Derby: http://auldreekierollerderby.com/
+
+- ASTROs (Auld Reekie C / Edinburgh) versus Space Bears (challenge team)
+- All-Stars (Auld Reekie A) versus Hellfire Harlots (Nottingham A)
+
+Event starts: 1230 Saturday (doors open)
+
+Venue: Dalkeith Community Campus, 4 Cousland Road, Dalkeith, Scotland
+
 
 Sat-Sun: Madrid, Spain
 --------------------------------
@@ -279,20 +371,103 @@ Sat-Sun: Madrid, Spain
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/2316568251995837/
-.. __:
+.. __: http://flattrackstats.com/node/109754
 
 `Roller Derby Madrid`_ hosts a double-header with international roller derby and a chance to see one of the new "hybrid" Teams formed for the
 ARDE Spanish Nationals for the first time. "Frankensteam" consists of a fusion of skaters from Salamanca, Cáceres and Badalona, and this will be the first time they've played in public!
 
-.. _Roller Derby Madrid:
+.. _Roller Derby Madrid: http://www.rollerderbymadrid.com/
 
 - Roller Derby Madrid A versus Gothenburg A
 - Roller Derby Madrid B versus Frankensteam (Spanish hybrid)
+
+*As Frankensteam is unrateable (at present), that bout is not listed in FTS*
 
 Event starts: 1530 Saturday (first bout?)
 
 Venue: Centro Deportivo Municipal Francisco Fernández Ochoa, C/. las Catorce Olivas s/n, Madrid, Spain
 
+Sat: Reykjavík, Iceland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/327610021234951/
+.. __: http://flattrackstats.com/node/107021
+
+`Roller Derby Iceland`_ host an international bout, as they play Faultline Derby Devilz (all the way from south California)!
+
+.. _Roller Derby Iceland: http://www.rollerderby.is/
+
+- Ragnarök (Iceland) versus Faultline Derby Devilz (San Benito, CA)
+
+Event starts: 1430 Saturday (doors open)
+
+Venue: Hertz Höllin, Reykjavík, Iceland
+
+
+Sat-Sun: São Paulo, Brazil
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/536855446847385/
+
+`Ladies of Helltown`_ host a two-day bootcamp coached by Bogotá Bone Breakers and Team Colombia's Kitsch, covering strategy, technical skating and scrimmage. This is a multi-level bootcamp, with beginner's bootcamp in the Saturday morning, and advanced bootcamp for the rest of Saturday, and Sunday.
+
+.. _Ladies of Helltown: https://linktr.ee/ladiesofhelltown
+
+- Beginners bootcamp (1000 Sat)
+- Advanced bootcamp (1400 Sat - 1400 Sun)
+- Scrimmage (1400 Sun)
+
+
+Event starts: 1000 Saturday
+
+Venue: Centro Esportivo Tietê, Avenida Santos Dumont 843. São Paulo, Brazil
+
+Sat: Chillán, Chile
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+
+.. __: https://www.facebook.com/torneoxmen2019/photos/a.814918265511187/875151932821153/
+.. __: http://flattrackstats.com/node/110038
+.. __: http://flattrackstats.com/node/110039
+
+`Chillanrolleros`_ host the semi-finals of Chilean Men's National tournament, Torneo X Men for 2019. As with previous coverage of the Torneo X Men, there's almost nothing public about this event, and we can't even confirm the venue!
+
+.. _Chillanrolleros: https://www.instagram.com/chillanrolleros_derbyclub
+
+- Bototos Bandidos (Valparaíso) versus Indomitos (Valdivia M)
+- Terror SQuad (Santiago M) versus Chillanrolleros (Chillán M)
+
+Event starts: 1200 Sat (first bout)
+
+Venue: ??
+
+Sat-Sun: San José, Costa Rica
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/darksiderollerderby/posts/1229527477222142
+
+`Dark Side Roller Derby`_ are part of the "Women's Urban Meeting" in San Jose this Saturday. As well as Roller Derby demonstrations, the event will include all kinds of other activities, including breakdancing, hula workshops and other sports. There will also be merch and "special guests" providing autographs.
+
+.. _Dark Side Roller Derby: https://www.instagram.com/darksiderollerderby/
+
+Event starts: 0900 Saturday
+
+Venue: Parque La Liberdad, Pattará, San José, Costa Rica
+
+
+https://www.facebook.com/events/2356265051085916/ Tlalpan, Mexico Copa Quinto Sol #2  **
+
+https://www.facebook.com/events/365303900986030/ (Guadalajara, Mexico - Copa Jericalla 2019 ) **
 Sat-Sun:
 --------------------------------
 
@@ -310,22 +485,6 @@ Event starts:
 
 Venue:
 
-
-
-Sat-Sun: São Paulo, Brazil
---------------------------------
-
-`[FACEBOOK LINK]`__
-
-.. __: https://www.facebook.com/events/536855446847385/
-
-`Ladies of Helltown`_ host a two-day bootcamp coached by Bogotá Bone Breakers and Team Colombia's Kitsch, covering strategy, technical skating and scrimmage.
-
-.. _Ladies of Helltown:
-
-Event starts: 1000 Saturday
-
-Venue: ??
 ..
   Sat-Sun:
   --------------------------------
