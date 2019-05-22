@@ -27,6 +27,7 @@ Locations are roughly organised East-West (with things before the weekend out se
   https://www.facebook.com/events/880579192333734/ RAINY CITY NSO BOOTCAMP
   https://www.facebook.com/events/404437160396499/ FREIBURG DOUBLE
   https://www.facebook.com/events/333713460740634/ DOM CITY (UTRECT) DOUBLE
+  https://www.facebook.com/events/340236579940533/358432601454264/ TWENTE OPEN TRAINING
   https://www.facebook.com/events/420712905143898/ METROPOLITAN (Santiago, Chile)
   https://www.facebook.com/events/1331636706988892/ (Costa Rica, bout)
   https://www.facebook.com/events/415751255889696/ DEVIL STATE open scrim, TAS, AUSTRALIA
