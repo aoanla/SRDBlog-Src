@@ -18,7 +18,7 @@ Both highlights limited to 1 event per country, with an "extra" event allowed fo
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
 Other notability might also allow the extra event - great posters, notable teams, etc.
 
-The *Scottish Clause* means that this is a pretty packed update, as no less than 4 leagues or skaters from Scotland are involved in events this weekend!
+The *Scottish Clause* means that this is a pretty packed update, as no less than 4 leagues or skaters from Scotland are involved in events this weekend! (Unfortunately, the density of tournaments in France once more means that we're having to make a hard choice in picking just one to represent all the activity there, in consequence.)
 
 In a bid to make this list as useful as possible, we've avoided links to Facebook except where noted.
 (Links to Teams are to non-Facebook resources - Instagram, or actual team pages - we'd strongly recommend that Teams
@@ -27,13 +27,6 @@ get themselves an actual webpage [we can help host one if you need help]).
 Locations are roughly organised East-West (with things before the weekend out sequence at the start).
 
 ..
-  https://www.facebook.com/events/312943566049684/ (Brest, France, Tournament interceltique) **
-  https://www.facebook.com/events/2398470593707480/ (Angoulême, France - "Pack is Queer triple)") **
-  https://www.facebook.com/events/404120797004740/ (Metz, France - itnernatioanl triple) **
-
-
-
-
 
 Sat: Palmerston North, New Zealand
 --------------------------------
@@ -42,9 +35,9 @@ Sat: Palmerston North, New Zealand
 
 .. __: https://www.facebook.com/events/440716216704051/
 
-`Swamp City Roller Derby`_ host a double header event with some national teams action.
+`Swamp City Roller Derby`_ (link to Facebook as they seem to have no other presence?) host a double header event with some national teams action.
 
-.. _Swamp City Roller Derby:
+.. _Swamp City Roller Derby: https://www.facebook.com/swampcityrollerderby/
 
 - Swamp City Roller Rats (Palmerston North) home teams: Trauma Queens versus Quad Bombers
 - New Zealand Men's Roller Derby versus mashup team
@@ -141,6 +134,7 @@ those rules! This is a full 10 games of 5-teams round robin tournament, with tea
 .. _Gdańsk Chrome Sirens Roller Derby: https://www.instagram.com/chromesirensrollerderby/
 
 - Teams:
+
   - Tsunami Surfers (Gdańsk Chrome Sirens exhibition)
   - Seaquake Hunters (Gdańsk Chrome Sirens exhibition)
   - 3City Piranhas Roller Derby (Gdańsk)
@@ -363,6 +357,33 @@ Event starts: 1230 Saturday (doors open)
 
 Venue: Dalkeith Community Campus, 4 Cousland Road, Dalkeith, Scotland
 
+Sat: Brest, France
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
+
+.. __: https://www.facebook.com/events/312943566049684/
+.. __: http://flattrackstats.com/node/109953
+.. __: http://flattrackstats.com/node/109954
+.. __: http://flattrackstats.com/node/109955
+
+`B.M.O. Roller Derby Girls`_ host a Tournoi Interceltique, a battle of teams with Celtic history, including As Brigantias from A Coruña, Spain.
+
+.. _B.M.O. Roller Derby Girls: https://www.bmorollerderby.com/
+
+- Teams:
+
+  - B.M.O. Derby Girls (Brest)
+  - Roller Derby Rennes
+  - As Brigantias (A Coruña)
+
+Event starts: 1230 Saturday (doors open)
+
+Venue: Complexe Sportif du Petit Kerzu, 105bis Rue Jules Lesven, Brest, France
+
 
 Sat-Sun: Madrid, Spain
 --------------------------------
@@ -464,24 +485,35 @@ Event starts: 0900 Saturday
 
 Venue: Parque La Liberdad, Pattará, San José, Costa Rica
 
-
-https://www.facebook.com/events/2356265051085916/ Tlalpan, Mexico Copa Quinto Sol #2  **
-
-https://www.facebook.com/events/365303900986030/ (Guadalajara, Mexico - Copa Jericalla 2019 ) **
-Sat-Sun:
+Sat-Sun: Tlalpan, CDMX, Mexico
 --------------------------------
 
 `[FACEBOOK LINK]`__
 `[FTS LINK]`__
 
+.. __: https://www.facebook.com/events/2356265051085916/
 .. __:
-.. __:
 
-`Name`_ ...
+`Fugaz Roller Derby`_ hosts the second edition of the Copa Quinto Sol, a 6 teams, two-day Mexican tournament
+arranged as a Group stage (2 Groups of three) followed by placement bouts between the Groups. (Position N in Groups 1 and 2
+play for overall position 2N-1).
 
-.. _Name:
+.. _Fugaz Roller Derby: https://www.instagram.com/fugazrollerderby
 
-Event starts:
+- Group A
+
+  - Aguamalas (La Paz)
+  - Fugaz (Toluca/CDMX)
+  - Roller Derby Mérida Yucatán
+
+- Group B
+
+  - Reinas Rojas (Cancùn)
+  - Medusas (Pachuca)
+  - Vipers (Tijuana)
+
+
+Event starts: 0800 Saturday (doors open / registration)
 
 Venue:
 
