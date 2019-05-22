@@ -55,7 +55,7 @@ Sat-Sun: Albany, WA, Australia
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/324989004869260/
-.. __:
+.. __: http://flattrackstats.com/tournaments/110113/overview
 
 `Albany Roller Derby League`_ hosts the second fixture of this year's Boom State Clash, the Western-Australia-wide
 single-division tournament. This is a two day event, with 6 bouts in total.
@@ -248,7 +248,27 @@ Event starts: 1000 Saturday (doors open)
 
 Venue: Centro Sportivo Comunale "Pederzini" Calderara Di Reno, Via Giuseppe Garibaldi 8, Calderara Di Reno, Bologna, Italy
 
-Sat-Sun:
+Sat: Lucerne, Switzerland
+----------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/720615231675240/
+.. __: http://flattrackstats.com/bouts/109253/overview
+
+`The Hellveticats`_ host a single-header international game against Austria's Dust City!
+
+.. _The Hellveticats: http://www.thehellveticats.ch/
+
+- Hellveticats (Lucerne) versus Dust City Rollers (Graz)
+
+Event starts: 1600 Saturday (doors open)
+
+Venue: Allmend Mehrzweckhalle, Murmattweg 6, Luzern, Switzerland
+
+
+Sat-Sun: Belfort, France
 --------------------------------
 
 `[FACEBOOK LINK]`__
@@ -273,7 +293,7 @@ Sat: London, UK
 
 `Team Unicorn Roller Derby`_ host a one-day bootcamp on both blocking and jamming technique coached by Power of Scotland's (and now New Wheeled Order) Optimus Grime. This 4 hour mini-bootcamp is Open To All genders, and open to all experience levels (mins-passed).
 
-.. _Team Unicorn Roller Derby:
+.. _Team Unicorn Roller Derby: https://www.instagram.com/teamunicornrd/
 
 Event starts: 1200 Saturday
 
@@ -492,7 +512,7 @@ Sat-Sun: Tlalpan, CDMX, Mexico
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/2356265051085916/
-.. __:
+.. __: http://flattrackstats.com/tournaments/110121
 
 `Fugaz Roller Derby`_ hosts the second edition of the Copa Quinto Sol, a 6 teams, two-day Mexican tournament
 arranged as a Group stage (2 Groups of three) followed by placement bouts between the Groups. (Position N in Groups 1 and 2
@@ -515,7 +535,7 @@ play for overall position 2N-1).
 
 Event starts: 0800 Saturday (doors open / registration)
 
-Venue:
+Venue: Centro Deportivo Villa Olimpica, Avenida Insurgentes Sur, Tlalpan, Distro Federal, Mexico
 
 ..
   Sat-Sun:
