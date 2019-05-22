@@ -23,6 +23,7 @@ Locations are roughly organised East-West (with things before the weekend out se
 ..
   https://www.facebook.com/events/333810837320233/ DURBAN
   https://www.facebook.com/events/327994777859973/ LILLE
+  https://www.facebook.com/events/851776211835161/ CAEN "Workshop/Bootcamp"
   https://www.facebook.com/events/880579192333734/ RAINY CITY NSO BOOTCAMP
   https://www.facebook.com/events/404437160396499/ FREIBURG DOUBLE
   https://www.facebook.com/events/333713460740634/ DOM CITY (UTRECT) DOUBLE
