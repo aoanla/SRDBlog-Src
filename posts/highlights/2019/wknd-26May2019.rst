@@ -1,6 +1,6 @@
 .. title: Weekend Highlights: 26 May 2019
 .. slug: weekendhighlights-26052019
-.. date: 2019-05-24 13:50 UTC+01:00
+.. date: 2019-05-23 12:00 UTC+01:00
 .. tags: weekend highlights, south african roller derby, french roller derby, british roller derby, german roller derby, dutch roller derby, chilean roller derby, costa rican roller derby, australian roller derby, mexican roller derby
 .. category:
 .. link:
