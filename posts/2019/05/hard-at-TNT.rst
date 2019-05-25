@@ -26,6 +26,11 @@ Aalborg Roller Derby have a fantastic venue and were superb hosts throughout the
 
 The first game was against Belfast, and it seemed to fly by! After an anxious start we slowly settled into a rhythm and despite having four(!) foul outs (oops!) we’d cinched our first victory abroad! For me, I was happy with one win as Hulls Angels have never managed to claim a win in Europe before! But our offensive powerhouse Hi-Jaxxx spurred us all on for more as we prepared to take on the top seed of the tournament- Eindhoven’s Rockcity Rollers. 
 
+.. figure:: /images/2019/05/TNT-hard-01-migu.jpg
+	:alt: Hulls Angels (in Green) at TNT (Photo by: MiGu)
+
+	Hulls Angels (in Green) at TNT (Photo by: MiGu)
+
 I feel that it was this game in which we really started to hit our groove. The first game was full of nervous energy, but here we kept calm and focused and on the game plan.
 
 As the game got underway, our newly promoted All Star jammer Dani was smashing through walls as if they weren’t there, Purdy opened up holes for our jammers whilst simultaneously shutting down the opposition. Rockcity were tough but we were living up to our name. At the end of the game we managed to sneak a narrow victory!
@@ -37,6 +42,11 @@ Although both teams were beginning to run low on energy, Cologne went out hard a
 As we all got back to our creepy cabin, had a hot shower and nursed our aches and pains, it actually dawned on us…. What if? What if we could win this?
 
 Thankfully on the Sunday we only had one game- the hosts Aalborg’s Combat Bullies. 
+
+.. image:: /images/2019/05/TNT-hard-02-jen-smith.jpg
+	:alt: The Hulls Angels Bench! (Photo by: Jen Smith)
+
+	The Hulls Angels Bench! (Photo by: Jen Smith)
 
 Despite Aalborg already having played that day we knew that this would not have given us any advantage. We had been fortunate enough to have watched their previous games and they looked like strong hitters that played a very physical game! We weren’t wrong! 
 
@@ -52,3 +62,7 @@ Overall, it was a weekend of sweat ‘taches, strangling goose poses, wooden gia
 
 And I won a hat! #winnerwinnerchickendinner
 
+.. image:: /images/2019/05/TNT-hard-03-Wilken.jpg
+	:alt: Wilken! (Photo by: Darryl Brooks Photography)
+
+	Wilken! (Photo by: Darryl Brooks Photography)
