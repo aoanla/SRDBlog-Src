@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 01 June 2019
 .. slug: weekendhighlights-01062019
 .. date: 2019-05-29 12:00 UTC+01:00
-.. tags: weekend highlights, 
+.. tags: weekend highlights,
 .. category:
 .. link:
 .. description:
@@ -21,6 +21,10 @@ get themselves an actual webpage [we can help host one if you need help]).
 Locations are roughly organised East-West (with things before the weekend out sequence at the start).
 
 ..
+  https://www.facebook.com/events/1284107351764358/
+  https://www.facebook.com/events/2212510012148117/
+  https://www.facebook.com/events/713878569031884/
+
 
 Sun:
 --------------------------------
