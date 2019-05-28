@@ -1,5 +1,5 @@
 .. title: Weekend Highlights: 01 June 2019
-.. slug: weekendhighlights-01062019
+.. slug: weekendhighlights-02062019
 .. date: 2019-05-30 12:00 UTC+01:00
 .. tags: weekend highlights,
 .. category:
