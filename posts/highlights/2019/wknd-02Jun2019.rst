@@ -25,6 +25,8 @@ Locations are roughly organised East-West (with things before the weekend out se
   https://www.facebook.com/events/2212510012148117/
   https://www.facebook.com/events/713878569031884/
 
+  Also the officiating bootcamp for Osorno Deskariadas
+
 
 Sun:
 --------------------------------
