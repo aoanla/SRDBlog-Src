@@ -28,9 +28,11 @@ get themselves an actual webpage [we can help host one if you need help]).
 
 Locations are roughly organised East-West (with things before the weekend out sequence at the start).
 
+.. image:: /images/2019/05/01Jun-wkly-map.png
+  :alt: Map of all events (coded by type)
+  
 ..
-  Lion Girls (Roller Derby Leon) Scrimmage
-  Deskarriadas 5th Anniversay sctimmage
+  https://www.facebook.com/events/541711509567447/
 
 
 Sat: Levin, New Zealand
@@ -64,14 +66,14 @@ Sat: Maitland, NSW, Australia
 
 .. _Maitland Roller Derby: https://www.instagram.com/maitlandrollerderby/
 
-- Maitland Roller Derby versus The Northern Beaches ( )
+- Maitland Roller Derby versus The Northern Beaches (Curl Curl + environs, NSW)
 
 Event starts: 1800 Saturday (doors open)
 
 Venue: Maitland Federation Basketball Stadium, Maitland, NSW, Australia
 
 
-*SYDNEY MEN's TOURNAMENT (VELODRAMA II)*
+*SYDNEY MEN's TOURNAMENT (VELODRAMA II)* http://flattrackstats.com/tournaments/107644/overview
 
 
 Fri-Sun: Helsinki, Finland
@@ -220,6 +222,8 @@ We say "Sur5al tournament", but really this is a whole weekend of Roller Derby s
 .. _Roller Derby Calais: http://rollerderbycalaisis.fr/
 .. _Hit My Valentine: http://www.hitmyvalentine.com/
 
+*Flat Track Stats does not list Sur5al tournaments (and in any case, these will be teams created just for this event)*
+
 Event starts: 0930 Saturday (doors open)
 
 Venue: Forum Gambetta, 23 Boulevard Gambetta, Calais, France
@@ -289,7 +293,7 @@ Venue: Greenbank Sports Academy, Greenbank Lane, Liverpool, UK
 
 
 Sat-Sun: San Javier, Murcia, Spain
---------------------------------
+------------------------------------
 
 `[FACEBOOK LINK]`__
 `[FTS LINK]`__
@@ -315,7 +319,7 @@ Sat/Sun: Buenos Aires, Argentina
 
 .. __: https://www.facebook.com/events/445810552858623/
 
-`Wonderclan Roller Derby`_ host a "Magenta Party",
+`Wonderclan Roller Derby`_ host a "Magenta Party", *STUFF HERE*
 
 .. _Wonderclan Roller Derby: https://www.instagram.com/wonderclanrd
 
@@ -323,23 +327,32 @@ Event starts: midnight, Saturday
 
 Venue: Centro Cultural Otra Historia, Estomba 851, Villa Orturzar, Buenos Aires, Argentina
 
-Sat: Santiago, Chile
+Sat: Osorno, Chile
 --------------------------------
 
 `[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
 
-.. __: https://www.facebook.com/events/444973526259017/
+.. __: https://www.facebook.com/events/2318223015166613/
+.. __:
+.. __:
+.. __:
 
-`Metropolitan Roller Derby`_ host an fundraising evening of live comedy and music.
+`Deskarriadas`_ host a 5th birthday celebration, in the form of a triple-header round robin tournament! (The Sunday also has an event, which we'll mention in the Sunday appendix to this update.)
 
-.. _Metropolitan Roller Derby: http://www.rollerderby.cl/
+.. _Deskarriadas: https://www.instagram.com/osornodeskarriadasrd/
 
-- Live comedy with Nathalie Nicloux
-- DJ Negro Deam
+- Teams:
 
-Event starts: 2000 Saturday
+  - Deskarriadas (Osorno)
+  - Diosas Volcánicas (Puerto Montt)
+  - Indomitas (Valdivia)
 
-Venue: Estudio La Makinita, General Baquedano 557, Santiago, Chile
+Event starts: 0900 Saturday
+
+Venue: Club Deportivo Osorno, Calle Caupolicân 8, Osorno, Chile
 
 Sat: Quito, Ecuador
 --------------------------------
@@ -357,8 +370,33 @@ Event starts: 0900 Saturday
 Venue: Cumandá Parque Urbano, Avenue 24 de Mayo, Quito, Ecuador
 
 
-*XXxxXXX MEXICO*
 
+Sat-Sun: Querétaro, Mexico
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
+
+.. __: https://www.facebook.com/events/541711509567447/
+.. __:
+.. __:
+.. __:
+
+`Querétaro Roller Derby`_ host a triple header of Roller Derby, as a round robin between the hosts' Rock City and teams from neighboring regions!
+
+.. _Querétaro Roller Derby:
+
+- Teams:
+
+  - Rock City (Querétaro)
+  - División del Norte (Chihuahua)
+  - Ovejas Negras (Morelia)
+
+Event starts: 1130 Saturday
+
+Venue: Aud. Ciencias Naturales UAQ, Campus Juriquilla, Querétaro, Mexico
 
 =====
 
@@ -385,27 +423,27 @@ This invitational is of interest to us due to European participation in both the
 
 - WFTDA-tier Teams:
 
-  - Madison Roller Derby
-  - Team United Roller Derby
-  - North Star Roller Derby ( ) [Tier A and B]
-  - Toronto Roller Derby
-  - Ohio Roller Derby ( ) [Tier A and B]
-  - Winnipeg Roller Derby League
-  - Tri-City Roller Derby
-  - Gem City Roller Derby ( ) [Tier A and B]
+  - Madison Roller Derby (Madison, WI)
+  - Team United Roller Derby (Des Moines, IA)
+  - North Star Roller Derby (Minneapolis, MN) [Tier A and B]
+  - Toronto Roller Derby (Toronto, ON, Canada)
+  - Ohio Roller Derby (Colombus, OH) [Tier A and B]
+  - Winnipeg Roller Derby League (Winnepeg, MB, Canada)
+  - Tri-City Roller Derby (Waterloo, ON, Canada)
+  - Gem City Roller Derby (Dayton, OH) [Tier A and B]
   - Brewcity Bruisers (Milwaukee, WI) [Tier A and Tier B]
-  - DC Rollergirls
-  - Rage City Rollergirls
-  - **Lomme Roller Girls** (Lomme)
+  - DC Rollergirls (Washington, D.C.)
+  - Rage City Rollergirls (Anchorage, AK)
+  - **Lomme Roller Girls** (Lomme, France)
 
 - MRDA-tier Teams:
 
-  - St. Louis GateKeepers Roller Derby ()
-  - Bridgetown Roller Derby
-  - Texas Men’s Roller Derby
-  - **Manneken Beasts** (Brussels)
-  - YOUR MOM Men’s Roller Derby
-  - Chicago Bruise Brothers Roller Derby
+  - St. Louis GateKeepers Roller Derby (St Louis, MO)
+  - Bridgetown Roller Derby (Portland, OR)
+  - Texas Men’s Roller Derby (Mesquite area, TX)
+  - **Manneken Beasts** (Brussels, Belgium)
+  - YOUR MOM Men’s Roller Derby (Des Moines, IA)
+  - Chicago Bruise Brothers Roller Derby (Chicago, IL)
 
 Event starts: 0900 Friday (first game)
 
@@ -464,7 +502,7 @@ Sat-Sun: Los Angeles, CA, USA
 
   - Angel City Junior Derby versus Foothill Junior Foxtails (Fontana, CA)
 
-Event starts:
+Event starts: 0900 Saturday (doors open)
 
 Venue: 1519 W 139th St, Los Angeles, CA, USA
 
