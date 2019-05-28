@@ -30,9 +30,9 @@ Locations are roughly organised East-West (with things before the weekend out se
 
 .. image:: /images/2019/05/01Jun-wkly-map.png
   :alt: Map of all events (coded by type)
-  
+
 ..
-  https://www.facebook.com/events/541711509567447/
+  Do we need to add Sydney Velodrama (MRDA Down Under II)?
 
 
 Sat: Levin, New Zealand
@@ -60,7 +60,7 @@ Sat: Maitland, NSW, Australia
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/315746925789780/
-.. __:
+.. __: http://flattrackstats.com/bouts/110227/overview
 
 `Maitland Roller Derby`_ celebrate their 5th Birthday with a bout against The Northern Beaches, entertainment from Irrawang High School Drum Corp, birthday cake and a licensed bar!
 
@@ -72,8 +72,27 @@ Event starts: 1800 Saturday (doors open)
 
 Venue: Maitland Federation Basketball Stadium, Maitland, NSW, Australia
 
+Sat-Sun: Sydney, NSW, Australia
+---------------------------------
 
-*SYDNEY MEN's TOURNAMENT (VELODRAMA II)* http://flattrackstats.com/tournaments/107644/overview
+`[FTS LINK]`__
+
+.. __: http://flattrackstats.com/tournaments/107644
+
+`Sydney City SMASH`_ host another semi-secret MRDA tournament, *Velodrama II*, a closed event which they once again can't advertise much due to venue restrictions. (Which is also why we don't have a Facebook event to link to.) This will be a three-team round robin, with MRDA-Sanctioned bouts.
+
+.. _Sydney City SMASH: https://mrda.org/team/sydney-city-smash/
+
+- Teams:
+
+  - Sydney City SMASH
+  - Capital Carnage (Canberra M)
+  - Brisbane Men's Roller Derby
+
+Event starts: 1400 Saturday (first bout)
+
+Venue: Secret!
+
 
 
 Fri-Sun: Helsinki, Finland
@@ -85,7 +104,7 @@ Fri-Sun: Helsinki, Finland
 .. __: https://www.facebook.com/events/354371901825444/
 .. __: http://flattrackstats.com/tournaments/108270/overview
 
-`Kallio Rolling Rainbow`__ host the 2019 edition of Finland's big WFTDA-sanctioned invitational, the portmanteau Finvitational 2019! With 5 teams, including one from outside Europe, in an almost-round robin (only Middlesbrough versus Calgary is missing from the schedule), this is a packed two-day schedule on the weekend, with two games spilling forward into the Friday in a closed session. As is usual for Finnish events, there will be a livestream.
+`Kallio Rolling Rainbow`_ host the 2019 edition of Finland's big WFTDA-sanctioned invitational, the portmanteau Finvitational 2019! With 5 teams, including one from outside Europe, in an almost-round robin (only Middlesbrough versus Calgary is missing from the schedule), this is a packed two-day schedule on the weekend, with two games spilling forward into the Friday in a closed session. As is usual for Finnish events, there will be a livestream.
 
 .. _Kallio Rolling Rainbow: http://www.kalliorollingrainbow.fi
 
@@ -108,6 +127,7 @@ Sat-Sun: Prague, Czech Republic
 10 games are packed into one day (meaning that this is probably an elimination tournament, with some consolation bouts), with competitors from across Poland and Central and Eastern Europe!
 
 .. _Hard Breaking Dolls: https://hardbreakingdolls.cz/
+.. _Roller Derby Sevens: https://docs.google.com/document/d/1rsdpDACXou9PL_wIZgPhZltHvF0ScWmlcyfhH6uWTC4/
 
 - Teams:
 
@@ -180,11 +200,10 @@ Sat: Gent, Belgium
 
 .. __: https://www.facebook.com/events/1002943783428385/
 
-`GO-GO Gent Roller Derby`_ host Star Track, a mini-bootcamp on `Rolla Skate Club`_'s Short Track Roller Derby, followed by a mini-tournament using the rules. Coached by `UAE Roller Derby All-Stars`_\' Inga Knee'her!
+`GO-GO Gent Roller Derby`_ host Star Track, a mini-bootcamp on `Rolla Skate Club`_'s Short Track Roller Derby, followed by a mini-tournament using the rules. Coached by *UAE Roller Derby All-Stars`* Inga Knee'her!
 
 .. _GO-GO Gent Roller Derby: http://www.gogogent.be/en/home-default/
 .. _Rolla Skate Club: https://rollaskateclub.com/short-track-roller-derby-resources/
-.. _UAE Roller Derby All-Stars:
 
 - 1000 Saturday - Short Track Bootcamp
 - 1215 Saturday - closed door Short track mini-tournament
@@ -319,7 +338,7 @@ Sat/Sun: Buenos Aires, Argentina
 
 .. __: https://www.facebook.com/events/445810552858623/
 
-`Wonderclan Roller Derby`_ host a "Magenta Party", *STUFF HERE*
+`Wonderclan Roller Derby`_ host the first edition of their "Magenta Party", all-night dance and music events. This one has a "bizarre" theme, which we're not quite sure we're translating correctly, but...
 
 .. _Wonderclan Roller Derby: https://www.instagram.com/wonderclanrd
 
@@ -336,9 +355,9 @@ Sat: Osorno, Chile
 `[FTS LINK 3]`__
 
 .. __: https://www.facebook.com/events/2318223015166613/
-.. __:
-.. __:
-.. __:
+.. __: http://flattrackstats.com/bouts/110228/overview
+.. __: http://flattrackstats.com/bouts/110229/overview
+.. __: http://flattrackstats.com/bouts/110230/overview
 
 `Deskarriadas`_ host a 5th birthday celebration, in the form of a triple-header round robin tournament! (The Sunday also has an event, which we'll mention in the Sunday appendix to this update.)
 
@@ -363,7 +382,7 @@ Sat: Quito, Ecuador
 
 `Forajidas Roller Derby`_ host the first of three open-recruitment and try-derby sessions to help build roller derby in Quito, Ecuador.
 
-.. _Forajidas Roller Derby:
+.. _Forajidas Roller Derby: https://www.instagram.com/forajidasrollerderby
 
 Event starts: 0900 Saturday
 
@@ -380,13 +399,13 @@ Sat-Sun: Querétaro, Mexico
 `[FTS LINK 3]`__
 
 .. __: https://www.facebook.com/events/541711509567447/
-.. __:
-.. __:
-.. __:
+.. __: http://flattrackstats.com/node/110217
+.. __: http://flattrackstats.com/node/110218
+.. __: http://flattrackstats.com/node/110219
 
 `Querétaro Roller Derby`_ host a triple header of Roller Derby, as a round robin between the hosts' Rock City and teams from neighboring regions!
 
-.. _Querétaro Roller Derby:
+.. _Querétaro Roller Derby: https://www.instagram.com/rockcityrd/
 
 - Teams:
 
@@ -415,7 +434,7 @@ Fri-Sun: Milwaukee, WI, USA
 
 `Brewcity Bruisers`_ host the 10th edition of their annual invitational, the Midwest BrewHaHa! This is a multi-tier tournament with both MRDA-Sanctioned and WFTDA-Sanctioned bouts, as well as an unsanctioned B-tier for WFTDA leagues. With a huge number of participants, this is simply a tournament for WFTDA ranking, without a structure in itself.
 
-This invitational is of interest to us due to European participation in both the WFTDA-Sanctioned and MRDA-Sanctioned tiers, with France's *`Lomme Roller Girls`_*, and Belgium's *`Manneken Beasts`_* playing.
+This invitational is of interest to us due to European participation in both the WFTDA-Sanctioned and MRDA-Sanctioned tiers, with France's `Lomme Roller Girls`_, and Belgium's `Manneken Beasts`_ playing.
 
 .. _Brewcity Bruisers: http://www.brewcitybruisers.com/
 .. _Lomme Roller Girls: https://www.lommerollergirls.com/
@@ -486,7 +505,7 @@ Sat-Sun: Los Angeles, CA, USA
 .. __: https://www.facebook.com/events/346123355942806/
 .. __: http://flattrackstats.com/tournaments/109413/overview
 
-`Angel City Derby`_ host a Mayday Brawl-B-Q, a two-day tournament with a little less scale than the other USA invitationals above. What makes this one special is the inclusion of a Juniors bout, and the attendance of *`Baja Roller Derby`_* from Mexico. (Once again, the WFTDA part of the tournament is *almost* a round-robin, missing just Misery Loves Company versus SoCal).
+`Angel City Derby`_ host a Mayday Brawl-B-Q, a two-day tournament with a little less scale than the other USA invitationals above. What makes this one special is the inclusion of a Juniors bout, and the attendance of `Baja Roller Derby`_ from Mexico. (Once again, the WFTDA part of the tournament is *almost* a round-robin, missing just Misery Loves Company versus SoCal).
 
 .. _Angel City Derby: http://angelcityderby.com/
 .. _Baja Roller Derby: https://www.instagram.com/baja.rollerderby/
