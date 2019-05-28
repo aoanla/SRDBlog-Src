@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 01 June 2019
 .. slug: weekendhighlights-01062019
 .. date: 2019-05-28 13:50 UTC+01:00
-.. tags: weekend highlights,
+.. tags: weekend highlights, new zealand roller derby, australian roller derby, polish roller derby, finnish roller derby, czech roller derby, british roller derby, british Champs, german roller derby, belgian roller derby, french roller derby, short track roller derby, roller derby sevens, street roller derby, argentine roller derby, chilean roller derby, ecuadorian roller derby, mexican roller derby, spanish roller derby
 .. category:
 .. link:
 .. description:
@@ -16,7 +16,7 @@ Two highlights a weekend - Sat + (All Weekend); and then a smaller one for Sunda
 
 Both highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
-Other notability might also allow the extra event - great posters, notable teams, etc.
+Other notability might also allow the extra event - great posters, notable teams, etc. (League birthdays may count as "special" enough, at our discretion ;) )
 
 This weekend is particularly rich in short-format events, with Sur5al, Roller Derby Sevens, and Short Track Roller Derby all happening around the world! There's also a world premiere of the new Street Roller Derby ruleset (in Germany), which is another attempt at producing a simpler, easier-to-officiate version of the game.
 
@@ -31,8 +31,6 @@ Locations are roughly organised East-West (with things before the weekend out se
 ..
   Lion Girls (Roller Derby Leon) Scrimmage
   Deskarriadas 5th Anniversay sctimmage
-
-
 
 
 Sat: Levin, New Zealand
@@ -71,6 +69,9 @@ Sat: Maitland, NSW, Australia
 Event starts: 1800 Saturday (doors open)
 
 Venue: Maitland Federation Basketball Stadium, Maitland, NSW, Australia
+
+
+*SYDNEY MEN's TOURNAMENT (VELODRAMA II)*
 
 
 Fri-Sun: Helsinki, Finland
@@ -140,7 +141,7 @@ Unfortunately, this ruleset is currently only really being promoted on Facebook.
 
 - "Teams":
 
-  - H.O.S.S.A. ( )
+  - H.O.S.S.A. (North Germany / Netherlands )
   - Team Madstop Roller Derby (Potsdam)
 
 Event starts: 1500 Saturday
@@ -260,7 +261,7 @@ Sat: Salford, UK
 .. _Arcadia Roller Derby: http://www.arcadiarollerderby.co.uk/
 
 - Granite City Roller Derby (Aberdeen) versus Hulls Angels Roller Derby
-- Arcadia Roller Derby ( ) versus Hallam Hellcats Roller Derby (Sheffield/Hallam)
+- Arcadia Roller Derby (Manchester) versus Hallam Hellcats Roller Derby (Sheffield/Hallam)
 
 Event starts: 1015 Saturday (doors open)
 
@@ -356,7 +357,7 @@ Event starts: 0900 Saturday
 Venue: Cumandá Parque Urbano, Avenue 24 de Mayo, Quito, Ecuador
 
 
-
+*XXxxXXX MEXICO*
 
 
 =====
