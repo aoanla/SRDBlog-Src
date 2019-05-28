@@ -1,6 +1,6 @@
 .. title: Weekend Highlights: 01 June 2019
 .. slug: weekendhighlights-01062019
-.. date: 2019-05-28 13:50 UTC+01:00
+.. date: 2019-05-28 16:40 UTC+01:00
 .. tags: weekend highlights, new zealand roller derby, australian roller derby, polish roller derby, finnish roller derby, czech roller derby, british roller derby, british Champs, german roller derby, belgian roller derby, french roller derby, short track roller derby, roller derby sevens, street roller derby, argentine roller derby, chilean roller derby, ecuadorian roller derby, mexican roller derby, spanish roller derby
 .. category:
 .. link:
