@@ -80,3 +80,7 @@ So, this has been a great interview, really: but I want to hand over the mic to 
 Both me and callie think that junior roller derby needs to be spoken about and put out there a wee bit more and we are glad that there is more recognition about the sport.
 I'm also super glad about the fact that teams are opening up to 16 year olds as it's giving juniors more of a chance to train. 
 Thank you for the chance to be interviewed and I'm sorry for the long replies 😂
+
+
+Callie would just like to add that she would love to see more jrd teams in Scotland so there are more teams to play and gain more experience, and that some games between teams across the border and here become more frequent 😊
+And thank you, sounds fab 😁😁
