@@ -21,7 +21,13 @@ get themselves an actual webpage [we can help host one if you need help]).
 Locations are roughly organised East-West (with things before the weekend out sequence at the start).
 
 ..
+  https://www.facebook.com/events/402461327009419/ (VIC, Aus, triple)
 
+  https://www.facebook.com/events/764532987277067/ (Linz, Austra, single)
+
+  https://www.facebook.com/events/2253321384984533/ (BC double, suffolk)
+
+  Still trying to find some Latin American things except that recruitment
 
 
 Sun:
