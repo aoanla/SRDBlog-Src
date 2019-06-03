@@ -29,8 +29,33 @@ Locations are roughly organised East-West (with things before the weekend out se
   :alt: Map of all events (coded by type)
 
 ..
+  Decide on a French fixture, there's like 6 of them as usual
+  Decide on Australia fixtures
 
+  https://www.facebook.com/events/291611515116306/ (BC M, North Wales, BCR)
+  https://www.facebook.com/events/180657312834785/ (LRG bootcamp - maybe also mention their triple v Toulouse)
 
+  https://www.facebook.com/events/2106584422972996/ (Mean City double)
+
+  https://www.facebook.com/events/596004274251374/ (Dublin triple)
+
+  https://www.facebook.com/events/333498614025628/ (Örebro triple)
+
+  https://www.facebook.com/events/329683421260616/ (Vienna quadruple)
+
+  https://www.facebook.com/events/2324609651088003/ (Valencia RDWM Champs D1)
+
+  https://www.facebook.com/events/333943183987623/ Beijing Sur5al bootcamp!!
+
+  https://www.facebook.com/events/839282146433819/ (Oberhausen bootcamp)
+
+  https://www.facebook.com/events/2763434403731480/ (Regensburg double header Bundesliga)
+
+  https://www.facebook.com/events/357968664815055/ (Royal Rumble Tournament, Australia+NZ)
+
+  https://www.facebook.com/events/2284106951849123/ (Queenstown NZ bout)
+
+  What's happening in LAtin America???
 
 
 
