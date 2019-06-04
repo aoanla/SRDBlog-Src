@@ -29,9 +29,8 @@ Locations are roughly organised East-West (with things before the weekend out se
   :alt: Map of all events (coded by type)
 
 ..
-  Decide on a French fixture, there's like 6 of them as usual
+  Decide on a French fixture, there's like 6 of them as usual - Alerte a Malibout (mostly B), or the Championnat N2 finals?
 
-  https://www.facebook.com/events/180657312834785/ (LRG bootcamp - maybe also mention their triple v Toulouse)
 
 
 Sat: Queenstown, New Zealand
@@ -45,7 +44,7 @@ Sat: Queenstown, New Zealand
 
 `Queenstown Roller Derby`_ host the first game in a new series - the Southland Sushi - which we are hoping to find out more about later.
 
-.. _Queenstown Roller Derby:
+.. _Queenstown Roller Derby: https://www.instagram.com/queenstown_roller_derby/
 
 - Queenstown Roller Derby versus Bonnie Brawlers (Dunedin)
 
@@ -62,35 +61,37 @@ Sat-Mon: Brisbane, QLD, Australia
 .. __: https://www.facebook.com/events/357968664815055/
 .. __:
 
-`Name`_ host the 2019 edition of the Royal Rumble tournament, one of the famously huge regular Australiasian tournaments. This event has two divisions: an "indie" and a WFTDA division. The WFTDA bouts seem to be already set, to get WFTDA sanctioned games; the indie division is organised as a group
+`Northern Brisbane Rollers`_ host the 2019 edition of the Royal Rumble tournament, one of the famously huge regular Australiasian tournaments. This event has two divisions: an "indie" and a WFTDA division. The WFTDA bouts seem to be already set, to get WFTDA sanctioned games; the indie division is organised as a group
 stage (with 4 groups of 3), into additional approximate placement games for the #1 and #2 teams from the groups.
 
-.. _Name:
+It appears to us that the "Indie teams" bouts are also less than the standard 2x30 minute period length...
+
+.. _Northern Brisbane Rollers: http://northernbrisbanerollers.com.au/
 
 - WFTDA Teams:
 
   - Auckland Roller Derby League
   - Newcastle Roller Derby League
   - Sydney Roller Derby League
-  - Dead End Derby ( )
-  - Richter City Roller Derby ( )
+  - Dead End Derby (Christchurch)
+  - Richter City Roller Derby (Wellington)
   - Northern Brisbane Rollers
   - Coastal Assassins (Sydney)
-  - Northside Rollers ( )
-  - Western Australia Roller Derby ( )
+  - Northside Rollers (Melbourne)
+  - Western Australia Roller Derby (Perth metropolitan area)
 
 - Indie Teams:
 
-  - Central Coast Derby United ( )
+  - Central Coast Derby United (Niagara Park area)
   - Canberra Roller Derby B
-  - Varsity Derby League ( )
+  - Varsity Derby League (Canberra)
   - Adelaide Roller Derby
   - Van Diemen Rollers
   - Brisbane City Rollers
-  - East Coast Derby Dolls  ( )
-  - Westside Derby Dolls  ( )
-  - Tweed Valley Rollers ( )
-  - Inner West Roller Derby ( )
+  - East Coast Derby Dolls (Gold Coast)
+  - Westside Derby Dolls (west Melbourne)
+  - Tweed Valley Rollers (Tweed Heads)
+  - Inner West Roller Derby (Sydney)
   - Ballarat Roller Derby League
   - *Pot Luck Team*
 
@@ -127,6 +128,26 @@ Event starts: 0800 Saturday (registration), 0915 (introduction)
 
 Venue: Woodward Skate Center (which we think is now the Beijing International Fashion Sports Park), Weishanzhuang, Daxing, Beijing, China
 
+Sat-Sun: Turku, Finland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/599206623933289/
+.. __:
+
+`Dirty River Roller Derby`_ host the final tournament in the Finnish Championships (Suomi Cup) season! As with all Suomi Cup events, this is
+to be livestreamed via the Roller Derby Finland youtube.
+
+.. _Dirty River Roller Derby: https://dirtyriverrollerderby.com/
+
+- Dirty River Roller Derby (Turku) versus Kallio Rolling Rainbow Kinapori Fistfunkers (Kallio/Helsinki X)
+- Oulu Roller Derby versus Jyväskylä Roller Derby
+
+Event starts: 1330 Saturday (doors open)
+
+Venue: Kupittaan Palloiluhalli, Lemminkäisenkatu 32, Turku, Finland
 
 Sat: Vienna, Austria
 --------------------------------
@@ -240,6 +261,35 @@ Event starts: ?? Saturday
 
 Venue: Pflugbeil Arena, Bottroper Strasse 303, Oberhausen, Germany
 
+Sat: London, UK
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FACEBOOK LINK 1]`__
+`[FTS LINK A]`__
+`[FTS LINK B]`__
+
+
+.. __: https://www.facebook.com/events/180657312834785/
+.. __: https://www.facebook.com/events/1175343952643365/
+.. __: http://flattrackstats.com/node/109895
+.. __: http://flattrackstats.com/node/109896
+
+`London Rollergirls`_ host "The most Offensive Bootcamp You'll Ever Go To", a parallel 2-hour mini-workshop for offense for both
+Jammers and Blockers (since effective offense needs both to work together). Coached by Beth Lord and Delta Strike.
+
+This is followed by a double-header event, featuring, most excitingly, the best 2019 French National Champions, Nothing Toulouse against London A, in London's first home bout of the year!
+
+.. _London Rollergirls: http://londonrollergirls.com/
+
+- Offense (Jammer & Blocker) Workshop
+- London Brawling (London A) versus Nothing Toulouse (Toulouse A)
+- London Brawl Saints (London B) versus Hellfire Harlots (Nottingham A)
+
+Event starts: 1300 Saturday (workshop), 1630 (bouts)
+
+Venue: Tottenham Green Pools & Fitness, 1 Philip Lane, London, United Kingdom
+
 
 Sat: Mold, Flintshire, Wales
 --------------------------------
@@ -274,7 +324,7 @@ Sat: Glasgow, Scotland
 
 `Mean City Roller Derby`_ host a double-header event, with two OTA bouts.
 
-.. _Mean City Roller Derby:
+.. _Mean City Roller Derby: https://www.instagram.com/mean_city_roller_derby/
 
 - Rookie OTA bout
 - Mean City Roller Derby (Glasgow O) versus Fear & Lothian (Edinburgh O)
@@ -334,6 +384,27 @@ Sat-Sun: Valencia, Spain
 Event starts: 0900 Saturday (first bout)
 
 Venue: Pavelló Malva-Rosa, C/ Isabel de Villena 161, Valencia, Spain
+
+Sat: Buenos Aires, Argentina
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/856661544706612/
+.. __:
+
+`Chat Noir`_ host a double header of Roller Derby action, with Sailor City Rollers playing apparently two bouts. (The
+schedule, even this close to the event, still has a "?" for one of the teams...)
+
+.. _Chat Noir: https://www.instagram.com/chatnoir.rd/
+
+- Chat Noir (La Plata, Buenos Aires) versus Sailor City Rollers (Buenos Aires)
+- ?? versus Sailor City Rollers
+
+Event starts: 1330 Saturday
+
+Venue: Club Estrella del Sur, La Plata, Buenos Aires, Argentina
 
 Sat: Mexico City, Mexico
 --------------------------------
