@@ -25,7 +25,7 @@ get themselves an actual webpage [we can help host one if you need help]).
 
 Locations are roughly organised East-West (with things before the weekend out sequence at the start).
 
-.. image:: /images/2019/05/08Jun-wkly-map.png
+.. image:: /images/2019/06/08Jun-wkly-map.png
   :alt: Map of all events (coded by type)
 
 ..
@@ -53,7 +53,7 @@ Event starts: 1730 Saturday (doors open)
 Venue: Queenstown Events Centre, Queenstown, New Zealand
 
 Sat-Mon: Brisbane, QLD, Australia
---------------------------------
+-----------------------------------
 
 `[FACEBOOK LINK]`__
 `[FTS LINK]`__
@@ -260,6 +260,34 @@ The `Mine Monsters`_ of Oberhausen host a three day, triple-parallel-sessions bo
 Event starts: ?? Saturday
 
 Venue: Pflugbeil Arena, Bottroper Strasse 303, Oberhausen, Germany
+
+Sat-Sun: Nice, France
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/263121101223855/
+.. __:
+
+`Nice Roller Derby`_ host the 5th edition of their Alerte à Malibout international tournament on the French Riviera, with 2 days of Roller Derby to enjoy. (This is the other fixture that Lutèce are at, whilst their A team is away in Sweden!). With 12 games and 8 teams, we expect that this is some kind elimination format with consolation bouts.
+
+.. _Nice Roller Derby: https://www.instagram.com/nice_roller_derby/
+
+- Teams:
+
+  - Amsterdam Roller Derby B
+  - Bristol Roller Derby B
+  - Dublin Roller Derby C
+  - London Rockin Rollers B
+  - Lutèce Destroyeuses B (Paris B)
+  - Nantes Derby Girls B
+  - Nice Roller Derby A
+  - Roller Derby Lausanne A
+
+Event starts: 0900 Saturday
+
+Venue: 2 Impasse du Square Magnan, Nice, France
 
 Sat: London, UK
 --------------------------------
