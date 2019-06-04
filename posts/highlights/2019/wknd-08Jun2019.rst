@@ -24,6 +24,7 @@ Locations are roughly organised East-West (with things before the weekend out se
 
 .. image:: /images/2019/06/08Jun-wkly-map.png
   :alt: Map of all events (coded by type)
+  :width: 100 %
 
 ..
 
