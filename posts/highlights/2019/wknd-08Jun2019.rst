@@ -33,19 +33,6 @@ Locations are roughly organised East-West (with things before the weekend out se
 
   https://www.facebook.com/events/180657312834785/ (LRG bootcamp - maybe also mention their triple v Toulouse)
 
-  https://www.facebook.com/events/2106584422972996/ (Mean City double)
-
-  https://www.facebook.com/events/333498614025628/ (Örebro triple)
-
-  https://www.facebook.com/events/329683421260616/ (Vienna quadruple)
-
-
-
-  https://www.facebook.com/events/839282146433819/ (Oberhausen bootcamp)
-
-  https://www.facebook.com/events/2763434403731480/ (Regensburg double header Bundesliga)
-
-  What's happening in LAtin America??? - Tekilleras versus Mexico Roller Derby
 
 Sat: Queenstown, New Zealand
 --------------------------------
@@ -119,13 +106,139 @@ Sat-Sun: Beijing, China
 
 .. __: https://www.facebook.com/events/333943183987623/
 
-`Beijing Roller Derby`_ host a Roller Derby Sur5al Bootcamp,
+`Beijing Roller Derby`_ host a Roller Derby "Sur5al Bootcamp", an intensive bootcamp in all aspects of WFTDA derby. The morning includes an introductory session on what WFTDA derby is, into parallel sessions on skater-skills, and officiating-skills. After lunch, there are sessions on
+communication, followed by a practical series of skater drills (with on-the-job training for officials as part of this), finalising with a block of Sur5al-rules scrimmage to end the day.
+(For survivors still in Beijing on Sunday, there's a lunch debrief and get together.)
 
 .. _Beijing Roller Derby: https://beijingrollerderby.weebly.com/
 
-Event starts: 0800 Saturday
+- Morning:
 
-Venue: ?, Beijing, China
+  - Skater bootcamp
+  - Officiating bootcamp
+
+- Afteroon
+
+  - Practical skater drills & officiating
+  - Sur5al Scrimmage
+
+
+Event starts: 0800 Saturday (registration), 0915 (introduction)
+
+Venue: Woodward Skate Center (which we think is now the Beijing International Fashion Sports Park), Weishanzhuang, Daxing, Beijing, China
+
+
+Sat: Vienna, Austria
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
+`[FTS LINK B]`__
+
+.. __: https://www.facebook.com/events/329683421260616/
+.. __: http://flattrackstats.com/node/108329
+.. __: http://flattrackstats.com/node/108330
+.. __: http://flattrackstats.com/node/108331
+.. __: http://flattrackstats.com/node/108332
+
+`Vienna Roller Derby`_ host an astonishing quadruple header event, consisting of a triple-header A-teams round robin against
+Tampere and Lutece (Paris), and a B-teams game against Tampere too!
+
+.. _Vienna Roller Derby: http://www.viennarollerderby.org/
+
+- Vienna Roller Derby B versus Tampere Howlin' Rolls (Tampere B)
+- Vienna Roller Derby versus Tampere Roller Derby
+- Vienna Roller Derby versus Lutece Destroyeuses (Paris)
+- Tampere Roller Derby versus Lutecte Destroyeuses
+
+Event starts: 1030 Saturday (doors open)
+
+Venue: AHS Theodor-Kramer, Theodor Karamer Straße 3, Vienna, Austria
+
+
+Sat: Örebro, Sweden
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
+
+.. __: https://www.facebook.com/events/333498614025628/
+.. __: http://flattrackstats.com/bouts/110240/overview
+.. __: http://flattrackstats.com/bouts/110241/overview
+.. __: http://flattrackstats.com/bouts/110242/overview
+
+`Örebro Roller Derby`_ host "the Battle of Svealand 2019", an all-Swedish triple header round robin!
+
+.. _Örebro Roller Derby: http://orebrorollerderby.se/
+
+- Teams:
+
+  - Västerås Roller Derby versus Örebro Roller Derby
+  - Västerås Roller Derby versus Uppsala Roller Derby
+  - Uppsala Roller Derby versus Örebro Roller Derby
+
+Event starts: 1030 Saturday (doors open)
+
+Venue: 	Idrottshuset, SE-702 16 Örebro, Sweden
+
+
+Sat: Regensburg, Germany
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/2763434403731480/
+.. __: http://flattrackstats.com/tournaments/107938/overview
+
+`Roller Derby Regensburg`_ host a double-header event, including Bundesliga Division 3 fixture, and an Open To All genders bout featuring
+South German Men's Roller Derby!
+
+.. _Roller Derby Regensburg: http://esv1927.de/rollerderby/
+
+- Rolling Rat Pack (Regensburg A) versus Blockforest Roller Derby (Freiburg A) [Bundesliga D3]
+- South German Men's Roller Derby (Southern Germany O) versus "The Rest of the World" (OTA mashup team)
+
+*The second bout is not tracked by FTS as it contains a mashup team.*
+
+Event starts 1430 Saturday (doors open)
+
+Venue: Clermont-Ferrand-Allee 23, Regensburg, Germany
+
+
+Sat-Mon: Oberhausen, Germany
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/839282146433819/
+
+The `Mine Monsters`_ of Oberhausen host a three day, triple-parallel-sessions bootcamp and workshop extravaganza, Open To All genders.
+
+.. _Mine Monsters: http://minemonsters.de/
+
+- Skating Bootcamp:
+
+  - Coached by Bee A. Baracus (Munich / Team Germany) & Coffin Cutie (Dresden / Team Germany)
+  - Min-skills and some initial scrimmage level.
+
+- Skating Officials / Referees Bootcamp:
+
+  - Coached by The Incredible Hans (Hannover)
+
+- Non-Skating Officials Bootcamp:
+
+  - Coached by Franka Frattura
+
+- Workshops on Monday TBA
+
+Event starts: ?? Saturday
+
+Venue: Pflugbeil Arena, Bottroper Strasse 303, Oberhausen, Germany
 
 
 Sat: Mold, Flintshire, Wales
@@ -148,6 +261,28 @@ Sat: Mold, Flintshire, Wales
 Event starts: 1330 Saturday (doors open)
 
 Venue: Deeside Leisure Centre, Chester Rd, Mold, Flintshire, Wales
+
+
+Sat: Glasgow, Scotland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/2106584422972996/
+.. __:
+
+`Mean City Roller Derby`_ host a double-header event, with two OTA bouts.
+
+.. _Mean City Roller Derby:
+
+- Rookie OTA bout
+- Mean City Roller Derby (Glasgow O) versus Fear & Lothian (Edinburgh O)
+
+Event starts: 1130 Saturday (doors open)
+
+Venue: ARC Health & Fitness, Cowcaddens Road, Glasgow, Scotland
+
 
 Sat: Greystones, Ireland
 --------------------------------
@@ -199,6 +334,26 @@ Sat-Sun: Valencia, Spain
 Event starts: 0900 Saturday (first bout)
 
 Venue: Pavelló Malva-Rosa, C/ Isabel de Villena 161, Valencia, Spain
+
+Sat: Mexico City, Mexico
+--------------------------------
+
+`[FACEBOOK LINK (flyer)]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/TeKillerAssRollerDerby/photos/a.326458764104337/2188455244571337/?type=3
+.. __:
+
+`Liga Roller Derby Ciudad de Mexico`_ 's Tekillerass host Mexico City Roller Derby's Xolas for a game!
+
+.. _Liga Roller Derby Ciudad de Mexico: https://www.instagram.com/tekillerassrd/
+
+- Tekillerass (LRDCM A / Mexico City) versus Xolas (MCRD B?)
+
+Event starts: 1400 Saturday
+
+Venue: Deportivo Salvador Allende, Av. Antonio Díaz Soto y Gama, U.H. Vicente Guerrero, Mexico City, Mexico
+
 
 ..
   Sat-Sun:
