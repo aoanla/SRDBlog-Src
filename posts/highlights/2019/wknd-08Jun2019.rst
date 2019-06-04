@@ -1,23 +1,20 @@
 .. title: Weekend Highlights: 08 June 2019
 .. slug: weekendhighlights-08062019
 .. date: 2019-06-04 16:40 UTC+01:00
-.. tags: weekend highlights,
+.. tags: weekend highlights, austrian roller derby, australian roller derby, new zealand roller derby, chinese roller derby, swedish roller derby, finnish roller derby, german roller derby, british roller derby, scottish roller derby, welsh roller derby, spanish roller derby, national tournaments, mexican roller derby, argentine roller derby, french roller derby
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: aoanla
 
-There are far too many valuable fixtures to cover all of them (especially in France and the UK, which tend to
-have multiple tournaments, bootcamps etc all on one weekend), but we also don't want to be so strict as to have
-just 1 per country. So, we'll be doing the following:
+As there's a bit less on this weekend, we're doing the one update of Highlights for Saturday through Monday.
 
-Two highlights a weekend - Sat + (All Weekend); and then a smaller one for Sunday.
-
-Both highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
+The ruless are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
 Other notability might also allow the extra event - great posters, notable teams, etc. (League birthdays may count as "special" enough, at our discretion ;) )
 
+This weekend has some excitingly huge tournaments, in Australia in particular, but also France; as well as some big bootcamps (in Germany, and China). It's also the weekend of the last fixtures in the French and Finnish national tournaments - and the first ever fixture in the ARDE-run Spanish National Championships!
 
 In a bid to make this list as useful as possible, we've avoided links to Facebook except where noted.
 (Links to Teams are to non-Facebook resources - Instagram, or actual team pages - we'd strongly recommend that Teams
@@ -29,7 +26,6 @@ Locations are roughly organised East-West (with things before the weekend out se
   :alt: Map of all events (coded by type)
 
 ..
-  Decide on a French fixture, there's like 6 of them as usual - Alerte a Malibout (mostly B), or the Championnat N2 finals?
 
 
 
@@ -40,7 +36,7 @@ Sat: Queenstown, New Zealand
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/2284106951849123/
-.. __:
+.. __: http://flattrackstats.com/bouts/110289/overview
 
 `Queenstown Roller Derby`_ host the first game in a new series - the Southland Sushi - which we are hoping to find out more about later.
 
@@ -59,7 +55,7 @@ Sat-Mon: Brisbane, QLD, Australia
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/357968664815055/
-.. __:
+.. __: http://flattrackstats.com/tournaments/110290
 
 `Northern Brisbane Rollers`_ host the 2019 edition of the Royal Rumble tournament, one of the famously huge regular Australiasian tournaments. This event has two divisions: an "indie" and a WFTDA division. The WFTDA bouts seem to be already set, to get WFTDA sanctioned games; the indie division is organised as a group
 stage (with 4 groups of 3), into additional approximate placement games for the #1 and #2 teams from the groups.
@@ -135,7 +131,7 @@ Sat-Sun: Turku, Finland
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/599206623933289/
-.. __:
+.. __: http://flattrackstats.com/tournaments/106172/overview
 
 `Dirty River Roller Derby`_ host the final tournament in the Finnish Championships (Suomi Cup) season! As with all Suomi Cup events, this is
 to be livestreamed via the Roller Derby Finland youtube.
@@ -268,7 +264,7 @@ Sat-Sun: Nice, France
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/263121101223855/
-.. __:
+.. __: http://flattrackstats.com/tournaments/110291
 
 `Nice Roller Derby`_ host the 5th edition of their Alerte à Malibout international tournament on the French Riviera, with 2 days of Roller Derby to enjoy. (This is the other fixture that Lutèce are at, whilst their A team is away in Sweden!). With 12 games and 8 teams, we expect that this is some kind elimination format with consolation bouts.
 
@@ -303,14 +299,14 @@ Sat: London, UK
 .. __: http://flattrackstats.com/node/109895
 .. __: http://flattrackstats.com/node/109896
 
-`London Rollergirls`_ host "The most Offensive Bootcamp You'll Ever Go To", a parallel 2-hour mini-workshop for offense for both
-Jammers and Blockers (since effective offense needs both to work together). Coached by Beth Lord and Delta Strike.
+`London Rollergirls`_ host "The most Offensive Bootcamp You'll Ever Go To", a parallel 2-hour mini-workshop for offence for both
+Jammers and Blockers (since effective offence needs both to work together). Coached by Beth Lord and Delta Strike.
 
 This is followed by a double-header event, featuring, most excitingly, the best 2019 French National Champions, Nothing Toulouse against London A, in London's first home bout of the year!
 
 .. _London Rollergirls: http://londonrollergirls.com/
 
-- Offense (Jammer & Blocker) Workshop
+- Offence (Jammer & Blocker) Workshop
 - London Brawling (London A) versus Nothing Toulouse (Toulouse A)
 - London Brawl Saints (London B) versus Hellfire Harlots (Nottingham A)
 
@@ -348,7 +344,7 @@ Sat: Glasgow, Scotland
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/2106584422972996/
-.. __:
+.. __: http://flattrackstats.com/bouts/110286/overview
 
 `Mean City Roller Derby`_ host a double-header event, with two OTA bouts.
 
@@ -356,6 +352,9 @@ Sat: Glasgow, Scotland
 
 - Rookie OTA bout
 - Mean City Roller Derby (Glasgow O) versus Fear & Lothian (Edinburgh O)
+
+
+*The Rookie bout is not listed in FTS, as they are mashup teams.*
 
 Event starts: 1130 Saturday (doors open)
 
@@ -413,14 +412,14 @@ Event starts: 0900 Saturday (first bout)
 
 Venue: Pavelló Malva-Rosa, C/ Isabel de Villena 161, Valencia, Spain
 
-Sat: Buenos Aires, Argentina
+Sun: Buenos Aires, Argentina
 --------------------------------
 
 `[FACEBOOK LINK]`__
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/856661544706612/
-.. __:
+.. __: http://flattrackstats.com/node/110280
 
 `Chat Noir`_ host a double header of Roller Derby action, with Sailor City Rollers playing apparently two bouts. (The
 schedule, even this close to the event, still has a "?" for one of the teams...)
@@ -430,18 +429,18 @@ schedule, even this close to the event, still has a "?" for one of the teams...)
 - Chat Noir (La Plata, Buenos Aires) versus Sailor City Rollers (Buenos Aires)
 - ?? versus Sailor City Rollers
 
-Event starts: 1330 Saturday
+Event starts: 1330 Sunday
 
 Venue: Club Estrella del Sur, La Plata, Buenos Aires, Argentina
 
-Sat: Mexico City, Mexico
+Sun: Mexico City, Mexico
 --------------------------------
 
 `[FACEBOOK LINK (flyer)]`__
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/TeKillerAssRollerDerby/photos/a.326458764104337/2188455244571337/?type=3
-.. __:
+.. __: http://flattrackstats.com/node/110279
 
 `Liga Roller Derby Ciudad de Mexico`_ 's Tekillerass host Mexico City Roller Derby's Xolas for a game!
 
@@ -449,7 +448,7 @@ Sat: Mexico City, Mexico
 
 - Tekillerass (LRDCM A / Mexico City) versus Xolas (MCRD B?)
 
-Event starts: 1400 Saturday
+Event starts: 1400 Sunday
 
 Venue: Deportivo Salvador Allende, Av. Antonio Díaz Soto y Gama, U.H. Vicente Guerrero, Mexico City, Mexico
 
