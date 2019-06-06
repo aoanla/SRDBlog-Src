@@ -113,7 +113,7 @@ Other problems are more diverse: for example, like `2x4 Roller Derby`_ in Argent
 
 .. _2x4 Roller Derby: https://www.instagram.com/2x4rd/
 
-.. figure:: /images/2019/06/P-Town-Sept2016-Marko-Van-Der_Zwan.jpg
+.. figure:: /images/2019/06/P-Town-Sept2016-Marko-Van-Der-Zwan.jpg
   :alt: P-Town Roller Derby intraleague photo, both jammers exiting the pack.
 
   P-Town Roller Derby intraleague, Sept 2016 [Photo: Marko Van Der Zwan]
