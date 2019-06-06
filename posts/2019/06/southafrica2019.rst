@@ -1,4 +1,4 @@
-.. title: XXXYYY - Roller Derby in South Africa
+.. title: Skating at the tip of Africa: Roller Derby in South Africa
 .. slug: rollerderby-za-2019
 .. date: 2019-06-06 12:00:00 UTC+01:00
 .. tags: south african roller derby, cape town rollergirls, golden city rollers, durban roller derby, derbyfest, p-town roller derby, cairollers
@@ -43,10 +43,9 @@ This growth-then-correction is not unique to Golden City: `Durban Roller Derby`_
 
 .. _Durban Roller Derby: https://www.instagram.com/durbanrollerderby
 
-Recruitment, then is
+In fact, retention is a problem which all the leagues cite, and there's one common underlying factor: cost. Roller skating is not a big thing in South Africa. With no local suppliers, every piece of kit has to be imported from outside the continent, adding significantly to the cost.
+Even if there were local suppliers, however, the average income in South Africa is much lower than that in the USA or Western Europe, so kit is an expensive luxury. (Less than half of the population of the country earns more than $7000 a year.)
 
-In fact, retention is a problem which all the leagues cite, and there's one common underlying factor: cost. Roller skating is not a big thing in South Africa, and, with no local suppliers, every piece of kit has to be imported from outside the continent.
-Even if there were local suppliers, however, the average income in South Africa is much lower than that in the USA or Western Europe, so kit is an expensive luxury. (Less than half of the population earns more than $7000 a year.)
 The `Derby Without Borders`_ project has collected for Golden City Rollers previously,
 
 .. _Derby Without Borders: http://derbywithoutborders.org/
@@ -79,7 +78,7 @@ Cape Town Rollergirls
 
   Short Track has been especially useful as we struggle to retain and recruit officials. Usually anyone that is willing and able to participate wants to play and is needed for the roster! We haven't ever had full rosters, so we usually play with the minimum number or players for any given format. But the reduced number of officials in Short Track has allowed our very small membership to continue playing bouts.
 
-The ability to hold regular home-teams game is important for all the leagues in South Africa, as the cost of even travelling to play each other is high, in terms of money and time. (And, whilst P-Town and Golden City are "only" an hour apart, the former is too small to play a full-size game at present.) [This is somewhat similar to the situation for some leagues in Australia, and even parts of the USA, where].
+The ability to hold regular home-teams game is important for all the leagues in South Africa, as the cost of even travelling to play each other is high, in terms of money and time. (And, whilst P-Town and Golden City are "only" an hour apart, the former is too small to play a full-size game at present.) [This is somewhat similar to the situation for some leagues in Australia, and even parts of the USA, where travel times can also be large, and "true" league structures are still relevant.].
 
 .. figure:: /images/2019/06/NDF2018-allthreeteams-DougCarlson-Mira9.jpg
   :alt: Skaters from Durban, Golden City and Pretoria on track in one of the Black v White bouts at the 2018 National Derby Fest.
@@ -87,7 +86,7 @@ The ability to hold regular home-teams game is important for all the leagues in 
   Skaters from Durban, Golden City and Pretoria on track in one of the Black v White bouts at the 2018 National Derby Fest. [Photo: Mira 9 Photography]
 
 That said, the South African community as a whole, represented by the South African Roller Derby Association, has organised an annual tournament - National Derby Fest - for the last three years.
-We've previously written about this in `more depth`_, but ...
+We've previously written about this in `more depth`_, and we encourage readers to look out for the 2019 edition this November.
 
 .. _more depth: https://www.scottishrollerderbyblog.com/posts/2018/10/31/south-africas-national-derby-fest-2018-three-years-of-festivals/
 
@@ -95,7 +94,7 @@ Where you can't play actual Roller Derby, leagues have continued to engage with 
 
 Durban RD have been particularly active in this, hosting monthly Social Beach Skates along the long beachfront promenade. (Some of these also raise funds for other causes.)
 
-CTR have found that open skate events, including roller discos, are by far their most effective sources of revneue, and now add one to the end of each of their home-teams events.
+CTR have found that open skate events, including roller discos, are by far their most effective sources of revenue, and now add one to the end of each of their home-teams events.
 
 Cape Town
     We've also taken to hosting roller discos after a Short Track bout. We wouldn't get the spectator numbers without it! And we wouldn't get the bouting experience with all the excitement and anxiety and preparation without knowing it was a public bout. So really, the two are always married for us. ... The roller discos are quite popular because there just isn't anywhere else to roller skate in the City! Plus, we have skates and safety gear we hire out, and most people don't have their own. We draw little kids right on up to members of old school roller rinks that host reunions with their skating pals from a couple decades ago! They ... have literally allowed our league to keep the lights on and doors open this year.
@@ -119,7 +118,7 @@ Other problems are more diverse: for example, like `2x4 Roller Derby`_ in Argent
 
   P-Town Roller Derby intraleague, Sept 2016 [Photo: Marko Van Der Zwan]
 
-With the high relative cost of engaging in Roller Derby in South Africa comes a related issue in South Africa: inclusivity. Whilst around 80% of the population of South Africa is classed as "Black African" by the country's own demographics\*, non-white South Africans are overwhelmingly more likely to be in poverty - about half of all "Black Africans" and 20% of "coloured" South Africans, compared to one or two percent of white South Africans. This inherently introduces a basis into the accessibility of an expensive sport like Roller Derby, and means that, at present, South African derby is much "whiter" than South Africa itself.
+With the high relative cost of engaging in Roller Derby in South Africa comes a related issue in South Africa: inclusivity. Whilst around 80% of the population of South Africa is classed as "Black African" by the country's own demographics\*, non-white South Africans are also overwhelmingly more likely to be in poverty - about half of all "Black Africans" and 20% of "coloured" South Africans, compared to one or two percent of white South Africans. This inherently introduces a basis into the accessibility of an expensive sport like Roller Derby, and means that, at present, South African derby is much "whiter" than South Africa itself.
 
 Even worse, there is also a large disparity within the South African population in terms of language (English is only the 4th most common first language in South Africa, with Zulu, Xhosa and Afrikaans all more widespread - and most Roller Derby resources are not available in any of those languages); and in terms of geographical segregation, with the poorer (and less white) population tending to live in different places to the middle classes.
 
@@ -179,6 +178,8 @@ Whilst some of the features of South African Roller Derby are unique to their lo
 
 Eastern and Central Europe, Latin America and East Asia, face issues with the expense of importing kit from abroad, and the lack of a "skating culture". Many countries, from the USA, through Australia and indeed most of Europe, face issues with inequality and inclusion on "racial" and other demographic grounds.
 Almost every league has had, or will have, recruitment issues at some point in its existence.
+
+We'd like to encourage the community to continue to talk to itself, worldwide, and share problems, and solutions, with leagues far apart, as well as close together.
 
 ----
 
