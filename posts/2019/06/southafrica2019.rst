@@ -166,7 +166,7 @@ Golden City, of course, has a FTS rating and ranking - but this is exceptionally
 .. image:: /images/2019/06/CaiRollers-crowdfunder.jpg
   :alt: Promotional image for the CaiRollers' fundraiser to travel to South Africa.
 
-The `Cairollers`_ are raising funds to fly all the way from Cairo to Johannesburg, to play (at least) one game of Roller Derby - the first ever trans-African roller derby game in history. [We'd hope that this might be made more "value for money" by scheduling a few more games whilst their over, but this is all highly dependent on funds at present].
+The `Cairollers`_ are raising funds to fly all the way from Cairo to Johannesburg, to play (at least) one game of Roller Derby - the first ever trans-African roller derby game in history. [We'd hope that this might be made more "value for money" by scheduling a few more games whilst they're over, but this is all highly dependent on funds at present].
 
 .. _Cairollers: http://www.cairollers.com/
 
