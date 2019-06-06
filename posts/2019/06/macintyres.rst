@@ -35,11 +35,6 @@ Skye
 
   Nothing has really changed for us as we were still juniors (except the rules, haha) but the changes make Derby. We can adapt to it and grow from learning all these new things that are being introduced. I love that derby is becoming more mainstream and the sport that we love and spend most of our time playing, is becoming bigger and more people are growing to love Roller Derby too 🙂
 
-.. figure:: /images/2019/06/Skye1.jpg
-  :alt: Skye, looking pensive.
-
-  Skye [Photo: Laura MacDonald]
-
 *So, for you, Skye, you're now on the Bairn City Rollers, was that a big change for you, moving from Juniors to the BCR training and bouting ?*
 
 Skye
@@ -58,10 +53,10 @@ Callie
 
   I was feeling really accomplished: I've been playing Roller Derby for a very long time, and to get an award for a very exciting game was so good.  To hear the Bombinos shouting encouraging words was a fantastic feeling, too.
 
-.. figure:: /images/2019/06/Callie1.jpg
-  :alt: Picture of Callie, Jamming, for Lincolnshire Bombinos
+.. figure:: /images/2019/06/Skye1.jpg
+  :alt: Skye, looking pensive.
 
-  Callie, jamming [Photo: `incidentlight`_]
+  Skye [Photo: Laura MacDonald]
 
 *So, let's talk about the game in more detail!
 How was it being benched by / benching your sister?*
@@ -85,10 +80,6 @@ Skye
 
   All I wanted to do was help lead them to victory, and they did us proud with an over 100 point lead 😊😊
 
-.. figure:: /images/2019/06/Skye2.jpg
-  :alt: Skye, jamming, in Bairn City Rollers bout.
-
-  Skye [Photo: David Prentice]
 
 *And are you tempted to try more non-competitive roles in future (announcing? Refereeing?)
 (Callie: how do you feel about trying a non-skating role? Anything tempt you?)*
@@ -100,6 +91,11 @@ Skye
   I would potentially look at refereeing as I got older. I would happily do the cake stall at derby games again though 😂
 
   I would love to bench again and I would be more than happy to help out as an NSO, but coaching, benching, and skating is where it's at for me at this exact moment in time. I'm even thinking about attending the Coaching bootcamp in York later this year [ ], because I know there is a lot of junior skating talent that is ready to be developed and I want to be one of the people that could help 😊😊.
+
+.. figure:: /images/2019/06/Callie1.jpg
+  :alt: Picture of Callie, Jamming, for Lincolnshire Bombinos
+
+  Callie, jamming [Photo: `incidentlight`_]
 
 *So, Callie: what interests you about benching?*
 
@@ -122,8 +118,6 @@ Skye
   Yeah 202x. I've made friends with Eve who is about to age up to the adult teams and she may potentially try out as well 😊
 
 
-.. figure:: callie2.jpg
-
 Callie
   For me, it's attending more games with the other Juniors, aiming for Team GB: I would love to represent Scottish Junior Derby as part of that.
   I want to help my sister coach and develop other kids, as well as me, until I am 16 and can move to an adult team. Then I want to push myself as far as I can with that. Team GB is a huge focus for me for the future.
@@ -139,6 +133,12 @@ Callie
 
   Skye is coaching the kids [at Rollerstop] right now but I know she has an idea that I hope she can develop.
   It's doing concentrated training for level 3 skaters with a view to getting them ready for going to an adult team. Also for Junior British Champs if it happens and for trying out for Team GB. Right now it's just an idea, but it would let kids like me train on a level that perhaps some newer skaters aren't at yet, and would hopefully give them drive to get there and join in.
+
+.. figure:: /images/2019/06/Skye2.jpg
+  :alt: Skye, jamming, in Bairn City Rollers bout.
+
+  Skye [Photo: David Prentice]
+
 
 *Skye, do you want to talk a bit about that plan too?*
 
