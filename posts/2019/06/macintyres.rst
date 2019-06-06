@@ -13,7 +13,12 @@ Scottish Junior Roller Derby's first club, Fierce Valley Roller Cubs, is no more
 
 We thought it was a good time to talk to Skye ("Bee"), and Callie ("Cal-amity") MacIntyre; earlier this year, Skye (guest) bench-coached the victorious Lincolnshire Bombinos away against Newcastle Junior Roller Derby, with Callie awarded Best Jammer in the same bout. They both have a lot of past experience, and ideas for the future, of Roller Derby, so what better people to talk to?
 
-.. figure:: benching-and-skating.jpg
+.. figure:: /images/2019/06/Callie_and_Skye.jpg
+  :alt: Picture of the Lincolnshire Bombinos team, including Callie, and Skye (Bench coach)
+
+  Lincolnshire Bombinos, with Callie (#999) and Skye (Bench, right). [Photo: `incidentlight`_]
+
+.. _incidentlight: https://www.incidentlight.co.uk/
 
 *So I guess we'll start with a bit of history: how long has it been since you two started derby?*
 
@@ -30,7 +35,10 @@ Skye
 
   Nothing has really changed for us as we were still juniors (except the rules, haha) but the changes make Derby. We can adapt to it and grow from learning all these new things that are being introduced. I love that derby is becoming more mainstream and the sport that we love and spend most of our time playing, is becoming bigger and more people are growing to love Roller Derby too 🙂
 
-.. figure:: skye1.jpg
+.. figure:: /images/2019/06/Skye1.jpg
+  :alt: Skye, looking pensive.
+
+  Skye [Photo: Laura MacDonald]
 
 *So, for you, Skye, you're now on the Bairn City Rollers, was that a big change for you, moving from Juniors to the BCR training and bouting ?*
 
@@ -50,7 +58,10 @@ Callie
 
   I was feeling really accomplished: I've been playing Roller Derby for a very long time, and to get an award for a very exciting game was so good.  To hear the Bombinos shouting encouraging words was a fantastic feeling, too.
 
-.. figure:: callie1.jpg
+.. figure:: /images/2019/06/Callie1.jpg
+  :alt: Picture of Callie, Jamming, for Lincolnshire Bombinos
+
+  Callie, jamming [Photo: `incidentlight`_]
 
 *So, let's talk about the game in more detail!
 How was it being benched by / benching your sister?*
@@ -74,7 +85,10 @@ Skye
 
   All I wanted to do was help lead them to victory, and they did us proud with an over 100 point lead 😊😊
 
-.. figure:: skye2.jpg
+.. figure:: /images/2019/06/Skye2.jpg
+  :alt: Skye, jamming, in Bairn City Rollers bout.
+
+  Skye [Photo: David Prentice]
 
 *And are you tempted to try more non-competitive roles in future (announcing? Refereeing?)
 (Callie: how do you feel about trying a non-skating role? Anything tempt you?)*
