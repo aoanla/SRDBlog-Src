@@ -1,6 +1,6 @@
 .. title: The MacIntyres Take Over Roller Derby
 .. slug: the_macintyres_take_over_roller_derby
-.. date: 2019-06-06 09:00:00 UTC+01:00
+.. date: 2019-06-07 10:00:00 UTC+01:00
 .. tags: junior roller derby, scottish roller derby, coaching, team gb junior roller derby, fierce valley roller cubs
 .. category:
 .. link:
