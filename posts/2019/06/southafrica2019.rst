@@ -1,6 +1,6 @@
 .. title: XXXYYY - Roller Derby in South Africa
 .. slug: rollerderby-za-2019
-.. date: 2019-06-10 12:00:00 UTC+01:00
+.. date: 2019-06-06 12:00:00 UTC+01:00
 .. tags: south african roller derby, cape town rollergirls, golden city rollers, durban roller derby, derbyfest, p-town roller derby, cairollers
 .. category:
 .. link:
@@ -19,11 +19,11 @@ Geography informs the way in which Roller Derby develops in a country, and South
 
   Map of South Africa's population density, with leagues marked. [Underlay: Htonl (Public domain, Wikipedia)]
 
-South Africa is a large country - its area is about twice that of France - but with a relatively small population - about 80% that of France. And that population is very unevenly spread across the country: the dense province of Gauteng, containing Johannesburg and Pretoria contains about a quarter of South Africa's entire population, with another fifth concentrated around Durban in the south-east province of KwaZulu-Hatal, and a further eighth around Cape Town in the Western Cape.
+South Africa is a large country - its area is about twice that of France - but with a relatively small population - about 80% that of France. And that population is very unevenly spread across the country: the dense province of **Gauteng**, containing Johannesburg and Pretoria, contains about a *quarter* of South Africa's entire population, with another fifth concentrated around Durban in the south-east province of **KwaZulu-Hatal**, and a further eighth around Cape Town in the **Western Cape**.
 
 Unlike in most European countries, then, the 4 leagues of South Africa - located in those 4 named cities - have difficulty even travelling to play each other on a regular basis.
 
-Add to this the fact that the only other country with Roller Derby in Africa is Egypt, at the other end of the continent, and you can get a feel for how dedicated and unique the solutions adapted by the South African leagues have had to be.
+Add to this the fact that the only other country with Roller Derby in Africa is *Egypt*, at the other end of the continent, and you can get a feel for how dedicated and unique the solutions adapted by the South African leagues have had to be.
 
 In this article, we'll be discussing in some depth both those problems, and their solutions, so click on to read more:
 
@@ -114,6 +114,9 @@ Other problems are more diverse: for example, like `2x4 Roller Derby`_ in Argent
 
 .. _2x4 Roller Derby: https://www.instagram.com/2x4rd/
 
+.. figure:: /images/2019/06/this-is-a-placeholder.jpg
+  :alt: We need another image here to break up the text.
+
 With the high relative cost of engaging in Roller Derby in South Africa comes a related issue in South Africa: inclusivity. Whilst around 80% of the population of South Africa is classed as "Black African" by the country's own demographics\*, non-white South Africans are overwhelmingly more likely to be in poverty - about half of all "Black Africans" and 20% of "coloured" South Africans, compared to one or two percent of white South Africans. This inherently introduces a basis into the accessibility of an expensive sport like Roller Derby, and means that, at present, South African derby is much "whiter" than South Africa itself.
 
 Even worse, there is also a large disparity within the South African population in terms of language (English is only the 4th most common first language in South Africa, with Zulu, Xhosa and Afrikaans all more widespread - and most Roller Derby resources are not available in any of those languages); and in terms of geographical segregation, with the poorer (and less white) population tending to live in different places to the middle classes.
@@ -173,7 +176,7 @@ You can donate to the Cairollers travel fund here: https://www.indiegogo.com/pro
 Whilst some of the features of South African Roller Derby are unique to their location, or country; we hope that it's obvious that there's a lot of commonalities with other Roller Derby communities worldwide.
 
 Eastern and Central Europe, Latin America and East Asia, face issues with the expense of importing kit from abroad, and the lack of a "skating culture". Many countries, from the USA, through Australia and indeed most of Europe, face issues with inequality and inclusion on "racial" and other demographic grounds.
-Almost every league has had, or will have, recruitment issues at some point in its existence. 
+Almost every league has had, or will have, recruitment issues at some point in its existence.
 
 ----
 
