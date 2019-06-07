@@ -56,7 +56,7 @@ Callie
 .. figure:: /images/2019/06/Skye1.png
   :alt: Skye, looking pensive.
 
-  Skye [Photo: Laura MacDonald]
+  Skye [Photo: David Prentice]
 
 *So, let's talk about the game in more detail!
 How was it being benched by / benching your sister?*
@@ -137,7 +137,7 @@ Callie
 .. figure:: /images/2019/06/Skye2.png
   :alt: Skye, jamming, in Bairn City Rollers bout.
 
-  Skye [Photo: David Prentice]
+  Skye [Photo: Dave Moore]
 
 
 *Skye, do you want to talk a bit about that plan too?*
