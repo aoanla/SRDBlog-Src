@@ -85,7 +85,7 @@ The ability to hold regular home-teams game is important for all the leagues in 
 
   Skaters from Durban, Golden City and Pretoria on track in one of the Black v White bouts at the 2018 National Derby Fest. [Photo: Mira 9 Photography]
 
-That said, the South African community as a whole, represented by the South African Roller Derby Association, has organised an annual tournament - National Derby Fest - for the last three years.
+That said, the South African community as a whole has organised an annual tournament - National Derby Fest - for the last three years. There's so far, there hasn't been a edition of it with all four leagues presenting full teams, but all four have attended - and contributed skaters to mixed teams, at least - each one.
 We've previously written about this in `more depth`_, and we encourage readers to look out for the 2019 edition this November.
 
 .. _more depth: https://www.scottishrollerderbyblog.com/posts/2018/10/31/south-africas-national-derby-fest-2018-three-years-of-festivals/
@@ -185,4 +185,4 @@ We'd like to encourage the community to continue to talk to itself, worldwide, a
 
 \* South Africa has five categories for demographic analysis of the population - "Black African", "Coloured", "Asian",  "White" and "Other". Respondants to surveys must self-identify as one of these categories, for the purposes of census data.
 
-Thanks to: Dianne "DiFibrillator" Silva (Chair) & Delia "Block Nez Monster" du Toit (Secretary) from Golden City Rollers, StingRay from Cape Town Rollergirls, Lucia from Durban Ciy Rollers and Laura from P-Town Roller Derby for contributing to this article.
+Thanks to: Dianne "DiFibrillator" Silva (Chair) & Delia "Deeablo" du Toit (Secretary) from Golden City Rollers, StingRay from Cape Town Rollergirls, Lucia from Durban Ciy Rollers and Laura from P-Town Roller Derby for contributing to this article.
