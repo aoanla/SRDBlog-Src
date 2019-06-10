@@ -39,14 +39,6 @@ Locations are roughly organised East-West (with things before the weekend out se
 
   [Do we need another UK thing as well as the 2 Scottish things?]
 
-  https://www.facebook.com/events/836877446692466/ La Classique Georgia W Tush (for Helsinki who are present)
-
-  https://www.facebook.com/events/447853592641913/ Whakatane, NZ (single header, Top 10 Champs)
-
-  https://www.facebook.com/events/181506542795567/ (Newcastle, Aus - Art Fundrasier!)
-
-  https://www.facebook.com/events/848974395442226/ (Gippsland Pride Cup, VIC, Aus)
-
   https://www.facebook.com/events/2264613460533189/ Ljubljana, Slovenia game!
 
   https://www.facebook.com/events/281160812790317/ Bootcamp, Brno, Czech Republic
@@ -66,6 +58,95 @@ Locations are roughly organised East-West (with things before the weekend out se
   https://www.facebook.com/events/1145528735625590/ Windsor, England, Royal Windsor v Glasgow
 
   https://www.facebook.com/events/349058779053002 (ARRD Summer Tournament, unfortunately with UnitedSk8s)
+
+
+Sat: Whakatāne, New Zealand
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/447853592641913/
+.. __: http://flattrackstats.com/tournaments/110265/overview
+
+`Whakatāne Roller Derby`_ host a single header event as part of this year's Top 10 NZ Roller Derby Championships series.
+
+.. _Whakatāne Roller Derby: https://www.instagram.com/whakatanerollerderby/
+
+- Brawl Stars (Whakatāne) versus Pirate City Rollers All-Stars (Auckland)
+
+Event starts: 1600 Saturday (doors open)
+
+Venue: Whakatāne War Memorial Hall, 7 Short Street, Whakatāne, New Zealand
+
+Sat: Newcastle, NSW, Australia
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/181506542795567/
+
+`Newcastle Roller Derby League`_ is hosting a pretty unique fundraiser:
+they're hosting an art exhibition of digital portraits of each member (skaters and bench staff) of their Dockyard Dames (A team), each created, and signed, by Sammi Jurd. Each and every 40x50cm portrait will then be auctioned off to the highest bidder!
+
+.. _Newcastle Roller Derby League: http://www.newcastlerollerderby.org.au/
+
+Event starts: 1830 Saturday
+
+Venue: Newcastle ArtSpace, 91 Chinchen Street, Tighes Hill, Newcastle, NSW, Australia
+
+Sat-Sun: Lardner, VIC, Australia
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/848974395442226/
+
+`Gippsland Ranges Roller Derby`_ host the first ever Gippsland Pride Cup, in association with Pride Cup Australia. As well as an exhibition bout against the Australian trans-and-gender-diverse exhibition team, the Gender Ending Story (who also have one of the best team names in the sport), the event will also feature an Open-to-All genders low-contact scrimmage to start. (And the usual stalls, events and other ancillary features.)
+
+.. _Gippsland Ranges Roller Derby: https://www.gippslandrangesrollerderby.com/
+
+- Low contact rules scrimmage (OTA) (20 min periods)
+- Gippsland Ranges versus Gender Ending Story (trans and gender-diverse exhibition team)
+
+Event starts: 0900 Saturday ("doors open")
+
+Venue: Lardner Park, 155 Burnt Store Road, Lardner, VIC, Australia
+
+=====
+
+
+Additionally, these events in North America are of interest due to the attendance of other teams:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Thurs-Sun: Montreal, QC, Canada
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/836877446692466/ La Classique Georgia W Tush (for Helsinki who are present)
+.. __: http://flattrackstats.com/tournaments/109378
+
+`Montreal Roller Derby`_ host the 2019 edition of La Classique Georgia W Tush. This is a three-legged tournament, with (WFTDA Sanctioned) A team division, a B team division (for much of the same leagues as the A teams), and a smaller Juniors division!
+This is of interest to us because of the attendance of *Helsinki Roller Derby (A and B)*, and *Victorian Roller Derby League (A)*.
+
+.. _Montreal Roller Derby: http://mtlrollerderby.com/
+
+- Teams attending:
+
+  - **Victorian Roller Derby League** (Victoria, Australia) [A]
+  - Gotham Girls Roller Derby (NY, NY, USA) [A,B,Juniors]
+  - Arch Rival Roller Derby (x, MO, USA) [A,B]
+  - Montreal Roller Derby (QC, CA) [A,B,Juniors]
+  - Jacksonville Roller Derby (FL, USA) [A]
+  - **Helsinki Roller Derby** (Finland) [A,B]
+  - Tri-City Roller Derby (ON, CA) [Juniors]
+
+Event starts: 1830 Thurs (doors open for semi-private single bout.) 0900 Friday (doors open for main event)
+
+Venue: Arena St-Louis, 5633 Rue Saint Dominique, Montreal, QC, Canada
+
 
 ..
   Sat-Sun:
