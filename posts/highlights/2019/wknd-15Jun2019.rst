@@ -29,8 +29,14 @@ Locations are roughly organised East-West (with things before the weekend out se
   [Too many French fixtures to pick]
   [Check all the Latin American things, as they're not on FB Events as usual]
     Rock N Roller Queens have a thing with the Roller Dance Bogota ?
-    Kuopio Roller Derby have a thing.
-    
+      https://www.facebook.com/events/797096274017458/ Rock N Roller Queens
+
+      https://www.facebook.com/events/664530867321876/ Buenos Aires, Argentina 2x4 Scrimmage
+
+  Kuopio Roller Derby have a thing.
+    https://www.facebook.com/KuopioRollerDerby/photos/a.445000215523380/2331920330164683/?type=3
+    (open scrimmage, no FB event)
+
   [Do we need another UK thing as well as the 2 Scottish things?]
 
   https://www.facebook.com/events/836877446692466/ La Classique Georgia W Tush (for Helsinki who are present)
