@@ -76,25 +76,25 @@ but Cape Town Rollergirls (CTR) have been trialling more established short-forma
 Cape Town Rollergirls
   The Sevens and Short Track formats were fun and quite enjoyable! They were really our only options after the league's membership had reduced substantially.
 
-  Short Track has been especially useful as we struggle to retain and recruit officials. Usually anyone that is willing and able to participate wants to play and is needed for the roster! We haven't ever had full rosters, so we usually play with the minimum number or players for any given format. But the reduced number of officials in Short Track has allowed our very small membership to continue playing bouts.
+  Short Track has been especially useful as we struggle to retain and recruit officials. Usually anyone that is willing and able to participate wants to play and is needed for the roster! We haven't ever had full rosters, so we usually play with the minimum number of players for any given format. But the reduced number of officials in Short Track has allowed our very small membership to continue playing bouts.
 
 The ability to hold regular home-teams game is important for all the leagues in South Africa, as the cost of even travelling to play each other is high, in terms of money and time. (And, whilst P-Town and Golden City are "only" an hour apart, the former is too small to play a full-size game at present.) [This is somewhat similar to the situation for some leagues in Australia, and even parts of the USA, where travel times can also be large, and "true" league structures are still relevant.].
 
 .. figure:: /images/2019/06/NDF2018-allthreeteams-DougCarlson-Mira9.jpg
   :alt: Skaters from Durban, Golden City and Pretoria on track in one of the Black v White bouts at the 2018 National Derby Fest.
 
-  Skaters from Durban, Golden City and Pretoria on track in one of the Black v White bouts at the 2018 National Derby Fest. [Photo: Mira 9 Photography]
+  Skaters from Cape Town, Durban, Golden City and P-Town on track in one of the Black v White bouts at the 2018 National Derby Fest. [Photo: Mira 9 Photography]
 
 That said, the South African community as a whole has organised an annual tournament - National Derby Fest - for the last three years. There's so far, there hasn't been a edition of it with all four leagues presenting full teams, but all four have attended - and contributed skaters to mixed teams, at least - each one.
 We've previously written about this in `more depth`_, and we encourage readers to look out for the 2019 edition this November.
 
 .. _more depth: https://www.scottishrollerderbyblog.com/posts/2018/10/31/south-africas-national-derby-fest-2018-three-years-of-festivals/
 
-Where you can't play actual Roller Derby, leagues have continued to engage with the community in any way you can whilst wearing skates. (Not entirely selflessly, given that the more people there are on skates in South Africa, the more potential recruits there are for Derby
+Where they can't play actual Roller Derby, leagues have continued to engage with the community in any way they can whilst wearing skates. (Not entirely selflessly, given that the more people there are on skates in South Africa, the more potential recruits there are for Derby!)
 
 Durban RD have been particularly active in this, hosting monthly Social Beach Skates along the long beachfront promenade. (Some of these also raise funds for other causes.)
 
-CTR have found that open skate events, including roller discos, are by far their most effective sources of revenue, and now add one to the end of each of their home-teams events.
+CTR have found that open skate events, including roller discos, are by far their most effective sources of revenue, and now add one to the end of each of their intra-league events.
 
 Cape Town
     We've also taken to hosting roller discos after a Short Track bout. We wouldn't get the spectator numbers without it! And we wouldn't get the bouting experience with all the excitement and anxiety and preparation without knowing it was a public bout. So really, the two are always married for us. ... The roller discos are quite popular because there just isn't anywhere else to roller skate in the City! Plus, we have skates and safety gear we hire out, and most people don't have their own. We draw little kids right on up to members of old school roller rinks that host reunions with their skating pals from a couple decades ago! They ... have literally allowed our league to keep the lights on and doors open this year.
@@ -158,10 +158,14 @@ However, Team ZA is literally the only time that most of the South African commu
 Golden City Rollers
   Besides a few clinics with international coaches, our only real contact with players in other countries has been at the World Cup so far.
 
-As well as being the oldest team in South Africa, Golden City are also the only team to have joined the WFTDA: serving Apprenticeship from late 2014, and achieving full membership in early 2016. Given the lack of nearby existing WFTDA members, this required significantly more than the average dedication to achieve, as completing their "graduation" sanctioned bouts was a hugely expensive undertaking.
+As well as being the oldest team in South Africa, Golden City were also the only team to have joined the WFTDA, until this year: serving Apprenticeship from late 2014, and achieving full membership in early 2016. Given the lack of nearby existing WFTDA members, this required significantly more than the average dedication to achieve, as completing their "graduation" sanctioned bouts was a hugely expensive undertaking.
 Despite those same prohibitive costs having prevented Golden City from achieving a formal WFTDA rating and ranking since becoming members, the league still has this as their end goal. In the meantime, they value the connection to worldwide roller derby that membership gives them, and the (proportional, but small) influence that comes with it.
 
-Golden City, of course, has a FTS rating and ranking - but this is exceptionally stale as well, given the lack of games on record for them... but this is going to change very soon, if Egypt's only Roller Derby league have anything to do with it!
+(As part of WFTDA's `alteration of their league membership process in 2019`__, Cape Town Rollergirls became the second South African league to gain full membership, as all current Apprentice leagues were promoted to Full Members in order to clear the queue for the new system to be implemented.)
+
+.. __: https://wftda.com/wftda-membership-and-rankings-policy-updates-2019/
+
+Golden City, of course, have a FTS rating and ranking - but this is exceptionally stale as well, given the lack of games on record for them... but this is going to change very soon, if Egypt's only Roller Derby league have anything to do with it!
 
 .. image:: /images/2019/06/CaiRollers-crowdfunder.jpg
   :alt: Promotional image for the CaiRollers' fundraiser to travel to South Africa.
@@ -185,4 +189,4 @@ We'd like to encourage the community to continue to talk to itself, worldwide, a
 
 \* South Africa has five categories for demographic analysis of the population - "Black African", "Coloured", "Asian",  "White" and "Other". Respondants to surveys must self-identify as one of these categories, for the purposes of census data.
 
-Thanks to: Dianne "DiFibrillator" Silva (Chair) & Delia "Deeablo" du Toit (Secretary) from Golden City Rollers, StingRay from Cape Town Rollergirls, Lucia from Durban Ciy Rollers and Laura from P-Town Roller Derby for contributing to this article.
+Thanks to: Dianne "DiFibrillator" Silva (Chair) & Delia "Deeablo" du Toit (Secretary) from Golden City Rollers, Rachael "StingRay" Allgaier (Admin Chair) from Cape Town Rollergirls, Lucia de Almeida ( ) from Durban Ciy Rollers and Laura "Misty Crashtag" El Capitano (Social Media Chair?) from P-Town Roller Derby for contributing to this article.
