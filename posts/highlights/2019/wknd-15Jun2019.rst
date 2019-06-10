@@ -39,8 +39,6 @@ Locations are roughly organised East-West (with things before the weekend out se
 
   [Do we need another UK thing as well as the 2 Scottish things?]
 
-  https://www.facebook.com/events/1145528735625590/ Windsor, England, Royal Windsor v Glasgow
-
   https://www.facebook.com/events/349058779053002 (ARRD Summer Tournament, unfortunately with UnitedSk8s)
 
 
@@ -141,7 +139,7 @@ Sat: Brno, Czech Republic
 
 Event starts: 0900 Saturday
 
-Venue: ???, Brno, Czech Republic
+Venue: Jana Babáka 5, Brno, Czech Republic
 
 Sat-Sun: Ljubljana, Slovenia
 --------------------------------
@@ -232,6 +230,7 @@ Sat: The Hague, Netherlands
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/269900730456926/
+.. __: http://flattrackstats.com/node/110294
 .. __: http://flattrackstats.com/node/110293
 
 `Parliament of Pain`_ end their season with a triple header of Roller Derby. This is particularly exciting, as it includes an OTA gender policy bout!
@@ -272,6 +271,59 @@ The entire event is to raise money for Brussels Derby Pixies' trip to California
 Event starts: 0900 Saturday (bootcamp)
 
 Venue: Unknown, Brussels, Belgium
+
+Sat: Windsor, UK
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/1145528735625590/
+.. __: http://flattrackstats.com/node/109972
+
+`Royal Windsor Roller Derby`_ host a single header just for Glasgow Roller Derby. (The two teams last played back in 2016, when Glasgow hosted, and managed a close win - there's been a bit of change for both teams since, so this return bout will be interesting.)
+
+.. _Royal Windsor Roller Derby: http://www.royalwindsorrollerderby.co.uk/
+
+Event starts: 1600 Saturday (doors open)
+
+Venue: Windsor Leisure Centre, Clewer Mead, Stovell Rd, Windsor, UK
+
+Sat-Sun: Dalkeith, Scotland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
+`[FTS LINK 4]`__
+
+.. __: https://www.facebook.com/events/349058779053002
+.. __: http://flattrackstats.com/node/109944
+.. __: http://flattrackstats.com/node/110266
+.. __: http://flattrackstats.com/node/110267
+.. __: http://flattrackstats.com/node/110283
+
+`Auld Reekie Roller Derby`_ host a Summer Tournament over this weekendm with a bunch of international and national bouts. With teams from the UK, Sweden, and within Scotland itself, and a rookie game
+
+.. _Auld Reekie Roller Derby: http://auldreekierollerderby.com/
+
+ - Saturday:
+
+  - Birmingham Blitz Dames versus Auld Reekie All Stars (Edinburgh A)
+  - New Skaters Debut Game
+  - Gothenburg Roller Derby versus Birmingham Blitz Dames
+
+- Sunday:
+
+  - ASTROs (Edinburgh C) versus Bonnie Colliders (Dundee B)
+  - Auld Reekie All Stars versus Gothenburg
+
+*New Skaters game is not listed in FTS, as the teams are not rateable*
+
+Event starts: 1030 Saturday (doors open)
+
+Venue: Dalkeith Community Campus, 4 Cousland Road, Dalkeith, Scotland
 
 =====
 
