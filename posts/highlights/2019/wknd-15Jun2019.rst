@@ -26,21 +26,6 @@ Locations are roughly organised East-West (with things before the weekend out se
 
 ..
 
-  [Too many French fixtures to pick]
-  [Check all the Latin American things, as they're not on FB Events as usual]
-    Rock N Roller Queens have a thing with the Roller Dance Bogota ?
-      https://www.facebook.com/events/797096274017458/ Rock N Roller Queens
-
-      https://www.facebook.com/events/664530867321876/ Buenos Aires, Argentina 2x4 Scrimmage
-
-  Kuopio Roller Derby have a thing.
-    https://www.facebook.com/KuopioRollerDerby/photos/a.445000215523380/2331920330164683/?type=3
-    (open scrimmage, no FB event)
-
-  [Do we need another UK thing as well as the 2 Scottish things?]
-
-  https://www.facebook.com/events/349058779053002 (ARRD Summer Tournament, unfortunately with UnitedSk8s)
-
 
 Sat: Whakatāne, New Zealand
 --------------------------------
@@ -272,6 +257,34 @@ Event starts: 0900 Saturday (bootcamp)
 
 Venue: Unknown, Brussels, Belgium
 
+Sat-Sun: Pertuis, France
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/419081812214096/
+.. __: pending
+
+`Marseille Roller Derby Club`_ host "Paca l'eau, bientôt la bagarre", a "Regional Tournament" for the teams of Provence-Alpes-Côte d'Azur.
+
+.. _Marseille Roller Derby Club: http://www.marseillerollerderby.fr/
+
+- Teams involved:
+
+  - Les Amazones (Pays d'Aix)
+  - Nice Roller Derby
+  - Sisters in Arms (Gap)
+  - Toxic Ladies (Toulon)
+  - Marseille Roller Derby Club
+  - Rabbit Skulls B (Avignon B)
+  - Roller Derby Club Bastiacciu (Bastia)
+
+Event starts: 0930 Saturday
+
+Venue: "Stade Verdun" Pertuis, Avenue de Verdun, Pertuis, France
+
+
 Sat: Windsor, UK
 --------------------------------
 
@@ -324,6 +337,42 @@ Sat-Sun: Dalkeith, Scotland
 Event starts: 1030 Saturday (doors open)
 
 Venue: Dalkeith Community Campus, 4 Cousland Road, Dalkeith, Scotland
+
+Sat: Buenos Aires, Argentina
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/664530867321876/
+
+`2x4 Roller Derby`_ host a double header of scrimmage, with both B/C level WFTDA-gender policy, and ABC level "mixed" (Open To All) options.
+This scrimmage raises funds for 2x4 Team C to attend the second edition of the Impakto Mixto tournament in La Rioja in July.
+
+.. _2x4 Roller Derby: https://www.instagram.com/2x4rd/
+
+- BC level WFTDA-policy scrimmage
+- ABC level OTA scrimmage
+
+Event starts: 1500 Saturday (first game)
+
+Venue: Curapaligüe 1406, Buenos Aires, Argentina
+
+Sat: Bogotá, Colombia
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/797096274017458/
+
+`Rock N Roller Queens`_ are just one of the skating-related clubs participating in the 3rd annual Fiesta Roller Dance Bogotá, a celebration of all kinds of skates-related things in the city. (This edition is branding itself as "Urban", so we expect a different focus to previous editions.)
+
+.. _Rock N Roller Queens:
+
+Event starts: 1800 Saturday
+
+Venue: La k-zona Galería Comercial Cultural, Calle 15 # 9-64, Bogotá, Colombia
+
+
 
 =====
 
