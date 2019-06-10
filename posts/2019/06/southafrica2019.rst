@@ -78,7 +78,7 @@ Cape Town Rollergirls
 
   Short Track has been especially useful as we struggle to retain and recruit officials. Usually anyone that is willing and able to participate wants to play and is needed for the roster! We haven't ever had full rosters, so we usually play with the minimum number of players for any given format. But the reduced number of officials in Short Track has allowed our very small membership to continue playing bouts.
 
-The ability to hold regular home-teams game is important for all the leagues in South Africa, as the cost of even travelling to play each other is high, in terms of money and time. (And, whilst P-Town and Golden City are "only" an hour apart, the former is too small to play a full-size game at present.) [This is somewhat similar to the situation for some leagues in Australia, and even parts of the USA, where travel times can also be large, and "true" league structures are still relevant.].
+The ability to hold regular home team games is important for all the leagues in South Africa, as the cost of even travelling to play each other is high, in terms of money and time. (And, whilst P-Town and Golden City are "only" an hour apart, the former is too small to play a full-size game at present.) [This is somewhat similar to the situation for some leagues in Australia, and even parts of the USA, where travel times can also be large, and "true" league structures are still relevant.].
 
 .. figure:: /images/2019/06/NDF2018-allthreeteams-DougCarlson-Mira9.jpg
   :alt: Skaters from Durban, Golden City and Pretoria on track in one of the Black v White bouts at the 2018 National Derby Fest.
@@ -86,7 +86,7 @@ The ability to hold regular home-teams game is important for all the leagues in 
   Skaters from Cape Town, Durban, Golden City and P-Town on track in one of the Black v White bouts at the 2018 National Derby Fest. [Photo: Mira 9 Photography]
 
 That said, the South African community as a whole has organised an annual tournament - National Derby Fest - for the last three years. There's so far, there hasn't been a edition of it with all four leagues presenting full teams, but all four have attended - and contributed skaters to mixed teams, at least - each one.
-We've previously written about this in `more depth`_, and we encourage readers to look out for the 2019 edition this November.
+We've previously written about this in `more depth`_, and we encourage readers to look out for the 2019 edition this November. The, currently rather informal, Roller Derby South Africa national committee organises the NDF - but we expect more to happen with RDSA in the future.
 
 .. _more depth: https://www.scottishrollerderbyblog.com/posts/2018/10/31/south-africas-national-derby-fest-2018-three-years-of-festivals/
 
@@ -118,9 +118,9 @@ Other problems are more diverse: for example, like `2x4 Roller Derby`_ in Argent
 
   P-Town Roller Derby intraleague, Sept 2016 [Photo: Marko Van Der Zwan]
 
-With the high relative cost of engaging in Roller Derby in South Africa comes a related issue in South Africa: inclusivity. Whilst around 80% of the population of South Africa is classed as "Black African" by the country's own demographics\*, non-white South Africans are also overwhelmingly more likely to be in poverty - about half of all "Black Africans" and 20% of "coloured" South Africans, compared to one or two percent of white South Africans. This inherently introduces a basis into the accessibility of an expensive sport like Roller Derby, and means that, at present, South African derby is much "whiter" than South Africa itself.
+With the high relative cost of engaging in Roller Derby in South Africa comes a related issue in South Africa: inclusivity. Whilst around 80% of the population of South Africa is classed as "Black African" by the country's own demographics\*, non-white South Africans are also overwhelmingly more likely to be in poverty - about half of all "Black Africans" and 20% of "coloured" South Africans, compared to one or two percent of white South Africans. This inherently introduces a bias into the accessibility of an expensive sport like Roller Derby, and means that, at present, South African derby is much whiter than South Africa itself.
 
-Even worse, there is also a large disparity within the South African population in terms of language (English is only the 4th most common first language in South Africa, with Zulu, Xhosa and Afrikaans all more widespread - and most Roller Derby resources are not available in any of those languages); and in terms of geographical segregation, with the poorer (and less white) population tending to live in different places to the middle classes.
+Even worse, there is also a large disparity within the South African population in terms of language (English is only the 4th most common first language in South Africa, with Zulu, Xhosa and Afrikaans all more widespread - and most Roller Derby resources are not available in any of those languages); and in terms of geographical segregation, with the poorer (and Black/POC) population tending to live in different, and often far-flung, places to the middle classes.
 
 (This kind of coupled bias, of course, is not unique to South Africa, but South Africa has one of the highest levels of income inequality in the world, so the effect is even stronger here.)
 
@@ -134,7 +134,7 @@ Durban Roller Derby are developing a project alongside "`Skate With Intention`_"
 
 .. _Skate With Intention: https://www.facebook.com/pg/girlslongboardcrew/
 
-CTR, meanwhile, have taken the issue to heart more deeply, with a "Diversity and Inclusivity" Committee operating since 2017 to work on all aspects of recruitment, retention and support of all types of people in South Africa. At present, they're working on both cultural improvements (increased awareness of privilege and bias, and actively addressing issues when they arise; changes to their league Constitution where necessary to improve inclusivity) and exploring other avenues for tackling this complex problem.
+CTR, meanwhile, have taken the issue to heart more deeply, with a "Diversity and Inclusivity Committee" operating since 2017 to work on all aspects of recruitment, retention and support of all types of people in South Africa. At present, they're working on both cultural improvements (increased awareness of privilege and bias, and actively addressing issues when they arise; changes to their league Constitution where necessary to improve inclusivity) and exploring other avenues for tackling this complex problem.
 
 Whilst we've talked about the problems of Roller Derby *within* South Africa, the elephant in the room is the problem of Roller Derby *outside* South Africa; or, rather, how far away all the rest of it is.
 
@@ -165,7 +165,9 @@ Despite those same prohibitive costs having prevented Golden City from achieving
 
 .. __: https://wftda.com/wftda-membership-and-rankings-policy-updates-2019/
 
-Golden City, of course, have a FTS rating and ranking - but this is exceptionally stale as well, given the lack of games on record for them... but this is going to change very soon, if Egypt's only Roller Derby league have anything to do with it!
+Golden City, of course, have a `Flat Track Stats`_ rating and ranking - but this is exceptionally stale as well, given the lack of games on record for them... but this is going to change very soon, if Egypt's only Roller Derby league have anything to do with it!
+
+.. _Flat Track Stats: http://flattrackstats.com/teams/56917
 
 .. image:: /images/2019/06/CaiRollers-crowdfunder.jpg
   :alt: Promotional image for the CaiRollers' fundraiser to travel to South Africa.
@@ -187,6 +189,6 @@ We'd like to encourage the community to continue to talk to itself, worldwide, a
 
 ----
 
-\* South Africa has five categories for demographic analysis of the population - "Black African", "Coloured", "Asian",  "White" and "Other". Respondants to surveys must self-identify as one of these categories, for the purposes of census data.
+\* South Africa has five categories for demographic analysis of the population - "Black African", "Coloured", "Indian/Asian",  "White" and "Other". Respondants to surveys must self-identify as one of these categories, for the purposes of census data; the actual self-identification of individuals who are classified as one of the first three categories varies with politics and age ("Black" and "People of Colour" being the usual identifications).
 
 Thanks to: Dianne "DiFibrillator" Silva (Chair) & Delia "Deeablo" du Toit (Secretary) from Golden City Rollers, Rachael "StingRay" Allgaier (Admin Chair) from Cape Town Rollergirls, Lucia de Almeida ( ) from Durban Ciy Rollers and Laura "Misty Crashtag" El Capitano (Social Media Chair?) from P-Town Roller Derby for contributing to this article.
