@@ -39,18 +39,6 @@ Locations are roughly organised East-West (with things before the weekend out se
 
   [Do we need another UK thing as well as the 2 Scottish things?]
 
-  https://www.facebook.com/events/2264613460533189/ Ljubljana, Slovenia game!
-
-  https://www.facebook.com/events/281160812790317/ Bootcamp, Brno, Czech Republic
-
-  https://www.facebook.com/events/527146777815468/ Helsinki, Finland, Helsinki Coast Quads continue to be frivolus.
-
-  https://www.facebook.com/events/2100072273446756/ Stockholm Bootcamp
-
-  https://www.facebook.com/events/237146370525199/ Darmstadt, Germany weekend of derby
-
-  https://www.facebook.com/events/682467468864073/ Zurich, Switzerland doubleheader
-
   https://www.facebook.com/events/269900730456926/ The Hague, NL (triple header)
 
   https://www.facebook.com/events/370272297150397/ Brussels, bootcamp + mini tournament etc 2 days
@@ -95,7 +83,7 @@ Event starts: 1830 Saturday
 
 Venue: Newcastle ArtSpace, 91 Chinchen Street, Tighes Hill, Newcastle, NSW, Australia
 
-Sat-Sun: Lardner, VIC, Australia
+Sat: Lardner, VIC, Australia
 --------------------------------
 
 `[FACEBOOK LINK]`__
@@ -112,6 +100,134 @@ Sat-Sun: Lardner, VIC, Australia
 Event starts: 0900 Saturday ("doors open")
 
 Venue: Lardner Park, 155 Burnt Store Road, Lardner, VIC, Australia
+
+Sat-Sun: Helsinki, Finland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/527146777815468/
+
+`Helsinki Coast Quads`_ ...
+
+.. _Helsinki Coast Quads: https://www.instagram.com/hkicoastquads/
+
+Event starts: 1400 Saturday
+
+Venue: Viikin Monitoimitalo, Maakaari 3, Helsinki, Finland
+
+Sat-Sun: Stockholm, Sweden
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/2100072273446756/
+
+`Stockholm Roller Derby`_ host a 2-day bootcamp, aimed at intermediate (1 year experience post mins), open to WFTDA-gender-policy conforming skaters. Coaches are drawn from Stockholm All-Stars' packed roster, and include: Thunder (one-on-one blocking), Party-O ("Spin-to-Win" for jammers), Slinky (working the outside line for jammers), Chaos (aggressive blocking), Maurine (transitions and backward skating for jammers), Foxen ("The Tripod puzzle" for blockers).
+
+.. _Stockholm Roller Derby:
+
+Event starts: 1100 Saturday
+
+Venue: Vallentuna Ishall B-hallen, Parkvägen 3, Vallentuna, Sweden
+
+
+Sat: Brno, Czech Republic
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/281160812790317/
+
+`Roller Derby Brno Freakshow`_ host a bootcamp in the east of the Czech Republic, coached by Dublin Roller Derby's MuFasta (coach for Dublin C), and Holo-Whip. This is a post-min-skills intro to intermediate bootcamp, Open To All genders. As usual, it will end with a scrimmage for everyone to practice what they've learned.
+
+.. _Roller Derby Brno Freakshow:
+
+Event starts: 0900 Saturday
+
+Venue: ???, Brno, Czech Republic
+
+Sat-Sun: Ljubljana, Slovenia
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FACEBOOK LINK (BOUT)]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/319780038935960/
+.. __: https://www.facebook.com/events/2264613460533189/
+.. __: http://flattrackstats.com/bouts/108538/overview
+
+`Roller Derby Ljubljana`_ are part of the `Ljubljana Pride`_ series of events, starting this week, with two events on Saturday.
+Firstly, they will be part of an open round table on "The Role of Roller Derby in the Queer Community", where they'll be joined by representatives from Grenoble's Cannibal Marmots.
+They'll then go on to play the Cannibal Marmots in a free open bout as part of the Pride Parade.
+
+.. _Roller Derby Ljubljana: https://www.instagram.com/rollerderbyljubljana/
+.. _Ljubljana Pride: http://ljubljanapride.org
+
+- Round Table Discussion
+- Roller Derby Ljubljana versus Cannibal Marmots Bééé (Grenoble B)
+
+Event starts: 1730 Saturday (round table), 1900 Saturday (bout)
+
+Venue: Športno društvo GIB, Drenikova 32, Ljubljana, Slovenia
+
+Sat-Sun: Darmstadt, Germany
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK Bundesliga D2]`__
+`[FTS LINK Bundesliga D1]`__
+
+.. __: https://www.facebook.com/events/237146370525199/
+.. __: http://flattrackstats.com/node/110037
+.. __: http://flattrackstats.com/tournaments/107929/overview
+.. __: http://flattrackstats.com/tournaments/107926/overview
+
+
+`Riot Rollers Darmstadt`_ host a whole weekend of Roller Derby, with 5 games across Saturday and Sunday. Of these, there's even a Bundesliga D1 bout, as Darmstadt play Dresden, and a Bundesliga D2 game as Bembel Town play Cologne!
+
+.. _Riot Rollers Darmstadt: https://rsc-darmstadt.de/
+
+- Saturday:
+
+  - Dresden Pioneers (Dresden A) versus Namur Roller Girls
+  - Bembel Town Rollergirls (Frankfurt) versus Cologne Roller Derby [Bundesliga D2]
+  - Riot Rollers A versus Dresden Pioneers [Bundesliga D1]
+
+- Sunday:
+
+  - Riot Rollers B versus Köln Mixed team
+  - Roller Grrrl Gang (Frankfurt) versus Mixed Team
+
+*Sunday games are not listed on FTS as one team is unrateable.*
+
+Event starts: 1500 Saturday (doors open)
+
+Venue: LZZ Darmstadt, Kranichsteiner St 86, Darmstadt, Germany
+
+Sat-Sun: Zurich, Switzerland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+
+.. __: https://www.facebook.com/events/682467468864073/
+.. __: http://flattrackstats.com/node/108861
+.. __: http://flattrackstats.com/node/108862
+
+`Zürich City Roller Derby`_ host an international double header of Roller Derby, facing teams from Sweden and England!
+
+.. _Zürich City Roller Derby: https://www.rollerderby.ch/en/home-2/
+
+- AllstarZ (Zürich A) versus The Royal Army (Royal Swedish A | Stockholm )
+- BruiseZ (Zürich B) versus Hellfire Harlots B (Nottingham)
+
+Event starts: 1500 Saturday (doors open)
+
+Venue: Sportanlage Fronwald, Fronwaldstrasse, Zürich, Switzerland
 
 =====
 
