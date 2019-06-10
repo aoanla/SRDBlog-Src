@@ -39,10 +39,6 @@ Locations are roughly organised East-West (with things before the weekend out se
 
   [Do we need another UK thing as well as the 2 Scottish things?]
 
-  https://www.facebook.com/events/269900730456926/ The Hague, NL (triple header)
-
-  https://www.facebook.com/events/370272297150397/ Brussels, bootcamp + mini tournament etc 2 days
-
   https://www.facebook.com/events/1145528735625590/ Windsor, England, Royal Windsor v Glasgow
 
   https://www.facebook.com/events/349058779053002 (ARRD Summer Tournament, unfortunately with UnitedSk8s)
@@ -141,7 +137,7 @@ Sat: Brno, Czech Republic
 
 `Roller Derby Brno Freakshow`_ host a bootcamp in the east of the Czech Republic, coached by Dublin Roller Derby's MuFasta (coach for Dublin C), and Holo-Whip. This is a post-min-skills intro to intermediate bootcamp, Open To All genders. As usual, it will end with a scrimmage for everyone to practice what they've learned.
 
-.. _Roller Derby Brno Freakshow:
+.. _Roller Derby Brno Freakshow: https://twitter.com/Freakshowrdb
 
 Event starts: 0900 Saturday
 
@@ -228,6 +224,54 @@ Sat-Sun: Zurich, Switzerland
 Event starts: 1500 Saturday (doors open)
 
 Venue: Sportanlage Fronwald, Fronwaldstrasse, Zürich, Switzerland
+
+Sat: The Hague, Netherlands
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/269900730456926/
+.. __: http://flattrackstats.com/node/110293
+
+`Parliament of Pain`_ end their season with a triple header of Roller Derby. This is particularly exciting, as it includes an OTA gender policy bout!
+
+.. _Parliament of Pain: https://www.parliamentofpain.nl/
+
+- Aces of Pain (PoP O \| The Hague) versus One Hit Wonders (Suck City O | Breda)
+- Queens of PoP (PoP A) versus Holy Wheels Menace (Liège A)
+- Mysterious third bout
+
+Event starts: 1300 Saturday (doors open)
+
+Venue: Oranjeplein, Slicherstraat 11, The Hague, Netherlands
+
+Sat-sequence: Brussels, Belgium
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/370272297150397/
+
+`Brussels Roller Derby League`_ host a two-day bootcamp-and-scrimmage weekend, with an evolving schedule. The Saturday beginners skater bootcamp is coached by: Hell Freya, Mardisturbia, Bundy Nelson (Team Belgium + Brussels A) and Meta Cagole (Brussels A), plus Kenny Jean coaching off-skates sessions.
+The Sunday is a day of various scrimmage events, including "Special rules" games - and a sneak-preview of Brussels' new C team!
+The entire event is to raise money for Brussels Derby Pixies' trip to California for the Deep Blue Derby Tournament in September.
+
+.. _Brussels Roller Derby League: https://www.instagram.com/brussels_rollerderby/
+
+- Saturday:
+
+  - Bootcamp (Mins-passed Skaters, Referees and NSOs)
+
+- Sunday:
+
+  - Beginners mins-passed scrimmage versus Brussels C
+  - Brussels A/B versus The World (short-format scrimmage with fun rules)
+  - Three team round robin tournament scrimmage.
+
+Event starts: 0900 Saturday (bootcamp)
+
+Venue: Unknown, Brussels, Belgium
 
 =====
 
