@@ -32,6 +32,8 @@ Locations are roughly organised East-West (with things before the weekend out se
   https://www.facebook.com/events/2292261411047390/
   https://www.facebook.com/events/2080633558732883/
 
+  https://www.facebook.com/events/349311699120116/ Oslo, try derby
+
 
 Sun:
 --------------------------------
