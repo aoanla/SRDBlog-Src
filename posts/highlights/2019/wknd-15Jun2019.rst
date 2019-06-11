@@ -1,18 +1,20 @@
 .. title: Weekend Highlights: 15 June 2019
 .. slug: weekendhighlights-15062019
 .. date: 2019-06-11 14:10 UTC+01:00
-.. tags: weekend highlights,
+.. tags: weekend highlights, new zealand roller derby, australian roller derby, finnish roller derby, swedish roller derby, czech roller derby, slovenian roller derby, german roller derby, belgian roller derby, dutch roller derby, swiss roller derby, french roller derby, british roller derby, scottish roller derby, colombian roller derby, argentine roller derby, junior roller derby
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: aoanla
 
-As there's a bit less on this weekend, we're doing the one update of Highlights for Saturday through Monday.
+This weekend's highlights are back to our two update format (partly because of the density of events in the UK and France, so we want to give more time to breathe).
 
 The rules are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
 Other notability might also allow the extra event - great posters, notable teams, etc. (League birthdays may count as "special" enough, at our discretion ;) )
+
+The Scottish clause here gives us two updates for the UK, one in Scotland and one down south! Meanwhile, in general, this is obviously a weekend for bootcamps, with 3 of them in Europe, and two of those full weekend events!
 
 In a bid to make this list as useful as possible, we've avoided links to Facebook except where noted.
 (Links to Teams are to non-Facebook resources - Instagram, or actual team pages - we'd strongly recommend that Teams
@@ -87,7 +89,8 @@ Sat-Sun: Helsinki, Finland
 
 .. __: https://www.facebook.com/events/527146777815468/
 
-`Helsinki Coast Quads`_ ...
+`Helsinki Coast Quads`_ host the return of their tendency to host end-of-season scrimmage events with knowingly silly themes.
+This time, they're memorialising the retirement of a certain Not-Safe-For-Work derby name, but we think this is probably just an excuse for a scrimmage followed by a sauna.
 
 .. _Helsinki Coast Quads: https://www.instagram.com/hkicoastquads/
 
@@ -104,7 +107,7 @@ Sat-Sun: Stockholm, Sweden
 
 `Stockholm Roller Derby`_ host a 2-day bootcamp, aimed at intermediate (1 year experience post mins), open to WFTDA-gender-policy conforming skaters. Coaches are drawn from Stockholm All-Stars' packed roster, and include: Thunder (one-on-one blocking), Party-O ("Spin-to-Win" for jammers), Slinky (working the outside line for jammers), Chaos (aggressive blocking), Maurine (transitions and backward skating for jammers), Foxen ("The Tripod puzzle" for blockers).
 
-.. _Stockholm Roller Derby:
+.. _Stockholm Roller Derby: http://rollerderby.se/
 
 Event starts: 1100 Saturday
 
@@ -261,7 +264,7 @@ Sat-Sun: Pertuis, France
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
+`[FTS LINK (pending details from organisers)]`__
 
 .. __: https://www.facebook.com/events/419081812214096/
 .. __: pending
@@ -317,7 +320,7 @@ Sat-Sun: Dalkeith, Scotland
 .. __: http://flattrackstats.com/node/110267
 .. __: http://flattrackstats.com/node/110283
 
-`Auld Reekie Roller Derby`_ host a Summer Tournament over this weekendm with a bunch of international and national bouts. With teams from the UK, Sweden, and within Scotland itself, and a rookie game
+`Auld Reekie Roller Derby`_ host a Summer Tournament over this weekendm with a bunch of international and national bouts. With teams from the UK, Sweden, and within Scotland itself, and a rookie game.
 
 .. _Auld Reekie Roller Derby: http://auldreekierollerderby.com/
 
@@ -364,9 +367,9 @@ Sat: Bogotá, Colombia
 
 .. __: https://www.facebook.com/events/797096274017458/
 
-`Rock N Roller Queens`_ are just one of the skating-related clubs participating in the 3rd annual Fiesta Roller Dance Bogotá, a celebration of all kinds of skates-related things in the city. (This edition is branding itself as "Urban", so we expect a different focus to previous editions.)
+`Rock N Roller Queens`_ [link to Facebook, as website link down] are just one of the skating-related clubs participating in the 3rd annual Fiesta Roller Dance Bogotá, a celebration of all kinds of skates-related things in the city. (This edition is branding itself as "Urban", so we expect a different focus to previous editions.)
 
-.. _Rock N Roller Queens:
+.. _Rock N Roller Queens: https://www.facebook.com/RockNRollerQueens/
 
 Event starts: 1800 Saturday
 
@@ -396,9 +399,9 @@ This is of interest to us because of the attendance of *Helsinki Roller Derby (A
 
 - Teams attending:
 
-  - **Victorian Roller Derby League** (Victoria, Australia) [A]
+  - **Victorian Roller Derby League** (VIC, Australia) [A]
   - Gotham Girls Roller Derby (NY, NY, USA) [A,B,Juniors]
-  - Arch Rival Roller Derby (x, MO, USA) [A,B]
+  - Arch Rival Roller Derby (St Louis, MO, USA) [A,B]
   - Montreal Roller Derby (QC, CA) [A,B,Juniors]
   - Jacksonville Roller Derby (FL, USA) [A]
   - **Helsinki Roller Derby** (Finland) [A,B]
