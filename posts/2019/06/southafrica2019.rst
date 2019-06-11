@@ -41,7 +41,7 @@ At their peak, during the 2011/2012 season, Golden City had three full-strength 
 
 This growth-then-correction is not unique to Golden City: `Durban Roller Derby`_, 500km south-east, and on the coast, saw a similar pattern. From founding in 2012, they flourished to a peak of 3 home teams and even a fellow men's team in 2015, but currently sit at a more stable single-team structure.
 
-.. _Durban Roller Derby: https://www.instagram.com/durbanrollerderby
+.. _Durban Roller Derby: http://www.durbanrollerderby.co.za/
 
 In fact, retention is a problem which all the leagues cite, and there's one common underlying factor: cost. Roller skating is not a big thing in South Africa. With no local suppliers, every piece of kit has to be imported from outside the continent, adding significantly to the cost.
 Even if there were local suppliers, however, the average income in South Africa is much lower than that in the USA or Western Europe, so kit is an expensive luxury. (Less than half of the population of the country earns more than $7000 a year.)
@@ -68,8 +68,9 @@ Golden City
 
   Cape Town Rollergirls' first ever Short Track Roller Derby Bout [Photo: Mira 9 Photography]
 
-but Cape Town Rollergirls (CTR) have been trialling more established short-formats. In 2017, they held the first ever `Roller Derby Sevens`_ tournament in South Africa, and this year they've embarked on a series of public `Short Track Roller Derby`_ bouts.
+but `Cape Town Rollergirls`_ (CTR) have been trialling more established short-formats. In 2017, they held the first ever `Roller Derby Sevens`_ tournament in South Africa, and this year they've embarked on a series of public `Short Track Roller Derby`_ bouts.
 
+.. _Cape Town Rollergirls: http://www.capetownrollergirls.com/
 .. _Roller Derby Sevens: https://docs.google.com/document/d/1rsdpDACXou9PL_wIZgPhZltHvF0ScWmlcyfhH6uWTC4/edit
 .. _Short Track Roller Derby: https://rollaskateclub.com/short-track-roller-derby-resources/
 
@@ -80,13 +81,14 @@ Cape Town Rollergirls
 
 The ability to hold regular home team games is important for all the leagues in South Africa, as the cost of even travelling to play each other is high, in terms of money and time. (And, whilst P-Town and Golden City are "only" an hour apart, the former is too small to play a full-size game at present.) [This is somewhat similar to the situation for some leagues in Australia, and even parts of the USA, where travel times can also be large, and "true" league structures are still relevant.].
 
+That said, the South African community as a whole has organised an annual tournament - National Derby Fest - for the last three years. There's so far, there hasn't been a edition of it with all four leagues presenting full teams, but all four have attended - and contributed skaters to mixed teams, at least - each one.
+We've previously written about this in `more depth`_, and we encourage readers to look out for the 2019 edition this November. The, currently rather informal, Roller Derby South Africa national committee organises the NDF - but we expect more to happen with RDSA in the future.
+
 .. figure:: /images/2019/06/NDF2018-allthreeteams-DougCarlson-Mira9.jpg
   :alt: Skaters from Durban, Golden City and Pretoria on track in one of the Black v White bouts at the 2018 National Derby Fest.
 
   Skaters from Cape Town, Durban, Golden City and P-Town on track in one of the Black v White bouts at the 2018 National Derby Fest. [Photo: Mira 9 Photography]
 
-That said, the South African community as a whole has organised an annual tournament - National Derby Fest - for the last three years. There's so far, there hasn't been a edition of it with all four leagues presenting full teams, but all four have attended - and contributed skaters to mixed teams, at least - each one.
-We've previously written about this in `more depth`_, and we encourage readers to look out for the 2019 edition this November. The, currently rather informal, Roller Derby South Africa national committee organises the NDF - but we expect more to happen with RDSA in the future.
 
 .. _more depth: https://www.scottishrollerderbyblog.com/posts/2018/10/31/south-africas-national-derby-fest-2018-three-years-of-festivals/
 
@@ -189,6 +191,6 @@ We'd like to encourage the community to continue to talk to itself, worldwide, a
 
 ----
 
-\* South Africa has five categories for demographic analysis of the population - "Black African", "Coloured", "Indian/Asian",  "White" and "Other". Respondants to surveys must self-identify as one of these categories, for the purposes of census data; the actual self-identification of individuals who are classified as one of the first three categories varies with politics and age ("Black" and "People of Colour" being the usual identifications).
+\* South Africa has five categories for demographic analysis of the population - "Black African", "Coloured", "Indian/Asian",  "White" and "Other". Respondents to surveys must self-identify as one of these categories, for the purposes of census data; the actual self-identification of individuals who are classified as one of the first three categories varies with politics and age ("Black" and "People of Colour" being the usual identifications).
 
-Thanks to: Dianne "DiFibrillator" Silva (Chair) & Delia "Deeablo" du Toit (Secretary) from Golden City Rollers, Rachael "StingRay" Allgaier (Admin Chair) from Cape Town Rollergirls, Lucia de Almeida ( ) from Durban Ciy Rollers and Laura "Misty Crashtag" El Capitano (Social Media Chair?) from P-Town Roller Derby for contributing to this article.
+Thanks to: Dianne "DiFibrillator" Silva (Chair) & Delia "Deeablo" du Toit (Secretary) from Golden City Rollers, Rachael "StingRay" Allgaier (Admin Chair) from Cape Town Rollergirls, Lucia de Almeida ( ) from Durban City Rollers and Laura "Misty" Pretorius (Marketing Head) from P-Town Roller Derby for contributing to this article.
