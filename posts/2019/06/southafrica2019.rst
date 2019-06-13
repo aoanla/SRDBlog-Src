@@ -1,6 +1,6 @@
 .. title: Skating at the tip of Africa: Roller Derby in South Africa
 .. slug: rollerderby-za-2019
-.. date: 2019-06-06 12:00:00 UTC+01:00
+.. date: 2019-06-14 10:00:00 UTC+01:00
 .. tags: south african roller derby, cape town rollergirls, golden city rollers, durban roller derby, derbyfest, p-town roller derby, cairollers
 .. category:
 .. link:
@@ -63,10 +63,10 @@ Golden City's approach has been to look at a more home-brew solution for this:
 Golden City
   This year, we're looking at having round robin-style mini-games within the league to give skaters goals to work for while we build up our numbers again.
 
-.. figure:: /images/2019/06/CapeTownShortTrack-DougCarlson-Mira9.jpg
-  :alt: Cape Town Rollergirls' first ever Short Track Roller Derby bout.
+.. figure:: /images/2019/06/CapeTownShortTrack-PaulFischer-BlackBirdProduction.jpg
+  :alt: Cape Town Rollergirls' second Short Track Roller Derby bout.
 
-  Cape Town Rollergirls' first ever Short Track Roller Derby Bout [Photo: Mira 9 Photography]
+  Cape Town Rollergirls' second Short Track Roller Derby Bout [Photo: Paul Fischer/Black Bird Production]
 
 but `Cape Town Rollergirls`_ (CTR) have been trialling more established short-formats. In 2017, they held the first ever `Roller Derby Sevens`_ tournament in South Africa, and this year they've embarked on a series of public `Short Track Roller Derby`_ bouts.
 
