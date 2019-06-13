@@ -19,7 +19,7 @@ Geography informs the way in which Roller Derby develops in a country, and South
 
   Map of South Africa's population density, with leagues marked. [Underlay: Htonl (Public domain, Wikipedia)]
 
-South Africa is a large country - its area is about twice that of France - but with a relatively small population - about 80% that of France. And that population is very unevenly spread across the country: the dense province of **Gauteng**, containing Johannesburg and Pretoria, contains about a *quarter* of South Africa's entire population, with another fifth concentrated around Durban in the south-east province of **KwaZulu-Hatal**, and a further eighth around Cape Town in the **Western Cape**.
+South Africa is a large country - its area is about twice that of France - but with a relatively small population - about 80% that of France. And that population is very unevenly spread across the country: the dense province of **Gauteng**, containing Johannesburg and Pretoria, contains about a *quarter* of South Africa's entire population, with another fifth concentrated around Durban in the south-east province of **KwaZulu-Natal**, and a further eighth around Cape Town in the **Western Cape**.
 
 Unlike in most European countries, then, the 4 leagues of South Africa - located in those 4 named cities - have difficulty even travelling to play each other on a regular basis.
 
@@ -193,4 +193,4 @@ We'd like to encourage the community to continue to talk to itself, worldwide, a
 
 \* South Africa has five categories for demographic analysis of the population - "Black African", "Coloured", "Indian/Asian",  "White" and "Other". Respondents to surveys must self-identify as one of these categories, for the purposes of census data; the actual self-identification of individuals who are classified as one of the first three categories varies with politics and age ("Black" and "People of Colour" being the usual identifications).
 
-Thanks to: Dianne "DiFibrillator" Silva (Chair) & Delia "Deeablo" du Toit (Secretary) from Golden City Rollers, Rachael "StingRay" Allgaier (Admin Chair) from Cape Town Rollergirls, Lucia de Almeida ( ) from Durban City Rollers and Laura "Misty" Pretorius (Marketing Head) from P-Town Roller Derby for contributing to this article.
+Thanks to: Dianne "DiFibrillator" Silva (Chair) & Delia "Deeablo" du Toit (Secretary) from Golden City Rollers; Rachael "StingRay" Allgaier (Admin Chair) from Cape Town Rollergirls; Lucia "Lunacy" de Almeida (Ex-Chair), Natalie "Chocovicious" Hendricks (Vice-Chair) and Trudy "Booty Trap" Fursman (Current Chair) from Durban City Rollers; and Laura "Misty" Pretorius (Marketing Head) from P-Town Roller Derby, for contributing to this article.
