@@ -300,7 +300,7 @@ Sat-Sun: Pertuis, France
   - 3rd Place game : 3eme versus 4eme (2 x 30 min)
   - Men's open subscription game (2 x 20 min)
   - artistic roller skating demo
-  - Final : 2eme versus 1er (2 x 30 min) 
+  - Final : 2eme versus 1er (2 x 30 min)
 
 Event starts: 0915 Saturday (doors open)
 
@@ -386,15 +386,39 @@ Sat: Bogotá, Colombia
 
 .. __: https://www.facebook.com/events/797096274017458/
 
-`Rock N Roller Queens`_ [link to Facebook, as website link down] are just one of the skating-related clubs participating in the 3rd annual Fiesta Roller Dance Bogotá, a celebration of all kinds of skates-related things in the city. (This edition is branding itself as "Urban", so we expect a different focus to previous editions.)
+`Rock N Roller Queens`_ [link to Facebook, as website link down] and `Combativas Revoltosas`_ are just one of the skating-related clubs participating in the 3rd annual Fiesta Roller Dance Bogotá, a celebration of all kinds of skates-related things in the city. (This edition is branding itself as "Urban", so we expect a different focus to previous editions.)
 
 .. _Rock N Roller Queens: https://www.facebook.com/RockNRollerQueens/
+.. _Combativas Revoltosas: https://www.instagram.com/combativasrevoltosas/
 
 Event starts: 1800 Saturday
 
 Venue: La k-zona Galería Comercial Cultural, Calle 15 # 9-64, Bogotá, Colombia
 
 
+Sat-Sun: Queretaro, Mexico
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK (pending actual details)]`__
+
+.. __: https://www.facebook.com/events/1279070155592794/
+.. __: pending
+
+`Rock City Roller Derby`_ (previously known as Queretaro Roller Derby) are hosting a "cuadrangular" tournament against their neighbours in central Mexico. Given this is a two day event, we'd imagine it's a full round robin, with 6 games in total. At present, "La Mala Copa" has no complete announced schedule, but we know teams are:
+
+.. _Rock City Roller Derby: https://www.instagram.com/rockcityrd/
+
+- Teams:
+
+  - Rock City Roller Derby (Queretaro)
+  - Minervas Roller Derby (Guadalajara)
+  - Discordias Roller Derby
+  - Mexico City Roller Derby
+
+Event starts: 1200 Saturday ??
+
+Venue: UAQ Campus Juriquilla, Av. de las Ciencias Sin Número, Campus Juriquilla,  Juriquilla, Queretaro, Mexico
 
 =====
 
