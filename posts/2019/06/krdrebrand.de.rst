@@ -1,12 +1,12 @@
-.. title: Gastbeitrag: Saving RGA by Becoming KRD
-.. slug: savingrga_krd2019de
+.. title: Gastbeitrag: Wie wir durch KRD RGA retten
+.. slug: savingrga_krd2019
 .. date: 2019-06-17 10:00:00 UTC+01:00
 .. tags: german roller derby, rebranding, kaiserslautern roller derby, guest posts
 .. category:
 .. link:
 .. description:
 .. type: text
-.. author: srd
+.. author: SRD
 
 *Kürzlich wurden die "Roller Girls of the Apocalypse" in Kaiserslautern einem umfassenden Rebranding unterzogen. Nicht nur die Art, in der Sie ein einzelnes Substantiv ändern, sondern eine vollständige Änderung zu "Kaiserslautern Roller Derby", zusammen mit einem vollständigen Ersatz des jeweiligen Ligalogos und der entsprechenden Farben!*
 
@@ -25,7 +25,7 @@ Schließlich mussten wir uns fragen, ob dies ein nachhaltiges Modell für unsere
 .. TEASER_END
 
 Was ist die Marke eines Teams?
---------------------------------
+-------------------------------------------
 
 Marken sind äußerlich - sie sind die Wahrnehmung anderer von dir. Eine Marke entsteht an der Schnittstelle zwischen der Darstellung deines Teams in der Welt und der Wahrnehmung deines Teams durch andere. Während wir über den zukünftigen Weg von RGA nachgedacht haben, kam es zu vielen Diskussionen (unter anderem, weil das Vorstandsmitglied, das das Rebranding initiierte, vor dessen Fertigstellung in die USA zurückgekehrt ist und es von anderen Händen übernommen wurde). Wir haben folgendes festgestellt: Wir wissen, dass wir unseren Wettbewerbsstatus in Europa beibehalten wollen. Dazu müssen wir mehr Stabilität in unserer Mitgliedschaft schaffen. Die Umbenennung von RGA in Kaiserslautern Roller Derby (KRD) ist unser erster Schritt auf unserem Weg dorthin.
 
@@ -35,12 +35,12 @@ Marken sind äußerlich - sie sind die Wahrnehmung anderer von dir. Eine Marke e
   Das neue Kaiserslautern Roller Derby-Logo in Gold-Schwarz-Gelb.
 
 1.  Was ist in einem Namen? Inklusivität
-===================================
+========================================================
 
 Die ursprüngliche Absicht des Rebrands war es, alle Geschlechter stärker einzubeziehen, und wir beschlossen, dass es an der Zeit war, unseren Namen zu ändern. Erstens sind wir keine Mädchen: Wir sind starke, sportliche Frauen. Zweitens sind wir nicht alle Frauen, weil wir männliche Officials haben, die Teil unseres Teams sind und der Name "Roller Girls" sie ausschließt. Schließlich wollten wir auch sicherstellen, dass sich Transgender oder nicht-binäre Personen willkommen fühlen, und wir tun unser Bestes, um uns von geschlechtsspezifischen Identifikatoren zu entfernen.
 
 2.	Wer wir sind und wer wir sein wollen (Vision, Mission, Grundwerte)
-========================================================================
+================================================================================
 
 Wir wollen zwar mehr Individuen einbeziehen, aber auch unseren Wettbewerbsvorteil beibehalten. Unsere schwierigen Gespräche klangen also so: „Wir sind wettbewerbsfähig!“ „Was meinst du? Wir haben nur ein paar erfahrene Skater, alle anderen sind neu.“ oder„Die meisten unserer Spieler sind nur für kurze Zeit in Europa - sie wollen reisen, nicht die ganze Zeit mit Roller Derby verbringen!“ oder „Wir können wegen unserer Verluste nicht gegen die gleichen Mannschaften wie letztes Jahr spielen, unsere Spieler sind zu neu. Auf diesem Niveau können wir nicht mehr spielen." Wir müssen die Wahrheit erkennen. In manchen Jahren werden wir ein unglaubliches Team haben, das mit den Besten von ihnen Schritt für Schritt mithalten kann. In anderen Jahren wird es sein, als würden wir mit den frischesten Skatern von vorne anfangen. Und es ist niemandes Schuld. Das ist RGA als Verein.
 
@@ -54,7 +54,7 @@ Wir haben uns also daran gemacht, eine Vision, Mission und Grundwerte zu entwick
   Das alte „RollerGirls of the Apocalypse"-Logo, in Grün und Schwarz mit Strahlenwarnungen!
 
 3.	3.	Was ist in einem Namen? Teil 2: Wirklich Deutsch werden
-==================================================================
+============================================================================
 
 Mit unserem Verständnis unserer Vision und Mission führte uns dies zurück zur Frage der Inklusivität. Der Name RGA hat uns nicht an eine Region oder Stadt gebunden, daher ist es nicht offensichtlich, dass wir ein Team mit einer Heimatstadt sind. Durch die Umbenennung und die damit verbundene Nennung unserer Heimatstadt Kaiserslautern können wir diese Barriere überwinden.
 
