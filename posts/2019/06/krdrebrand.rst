@@ -6,7 +6,7 @@
 .. link:
 .. description:
 .. type: text
-.. author: srd
+.. author: SRD
 
 *Recently, Kaiserslautern's Roller Girls of the Apocalypse underwent an extensive rebrand - not just the kind where you change a single noun, but a complete alteration of their league to "Kaiserslautern Roller Derby", along with a complete replacement of their league logo and colours!*
 
@@ -27,7 +27,7 @@ Eventually, we had to question if this is a sustainable model for our league. We
 .. TEASER_END
 
 What is a League’s Brand?
----------------------------
+-------------------------------------
 
 Brands are outward – they are others’ perceptions of you. A brand is created at the intersection of how you portray your league to the world and how your league is perceived by others. RGA went through several discussions when considering our path forward (partly because the board member who initiated the rebrand moved back to the USA before it was complete and it was taken over by other hands). We came up with the following: We know we want to maintain our competitive status in Europe. To do that, we need to create more stability in our membership. RGA’s rebrand to Kaiserslautern Roller Derby (KRD) is our first step in our roadmap to get there.
 
@@ -37,12 +37,12 @@ Brands are outward – they are others’ perceptions of you. A brand is created
   The new Kaiserslautern Roller Derby logo, in gold-black-and-yellow.
 
 1.	What’s in a Name? Inclusivity
-===================================
+=============================================
 
 The original intent of the rebrand was to be more inclusive of gender, so we determined it was time to change our name. First, we aren’t girls: we are strong, athletic women. Second, we aren’t all women, because we have male officials who are part of our league and the name “Roller Girls” excludes them. Finally, we also wanted to make sure transgender or gender binary individuals feel welcome, so we are doing our best to move away from gendered identifiers.
 
 2.	Who We Are vs. Who We Want to Be (Vision, Mission, Core Values)
-=====================================================================
+===========================================================================
 
 Although we want to be more inclusive of individuals, we also want to maintain our competitive edge. Thus, our difficult conversations sounded like this: “We are competitive!” “What do you mean? We only have a few veteran skaters, everyone else is new.” Or “Most of our players are only in Europe for a short time – they want to travel, not spend all their time practicing roller derby!” Or “We can’t play the same teams we played last year due to attrition. Our players are too new. We can’t play at that level anymore.” We need to recognize the truth. Some years we’ll have an incredible team that can go toe-stop to toe-stop with the best of them. Other years it’s like we are starting over with the freshest skaters. And it’s no one’s fault. That’s what RGA is as a league.
 
@@ -56,7 +56,7 @@ So, we set about developing a vision, mission and core values that we hope will 
   The Old "RollerGirls of the Apocalypse" logo, in green and black with radiation signs!
 
 3.	What’s in a Name? Part 2: Truly Becoming German
-======================================================
+============================================================
 
 With our understanding of our vision and mission, this led us back to the question of inclusivity. The name RGA did not tie us to a region or town, so there is no immediate recognition that we are a hometown team. Changing our name to include our hometown, Kaiserslautern, allows us to overcome this barrier.
 
