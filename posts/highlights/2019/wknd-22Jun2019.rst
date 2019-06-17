@@ -35,9 +35,28 @@ Locations are roughly organised East-West (with things before the weekend out se
 
     https://www.facebook.com/events/650227622094819/ Hull's Anagels OTA endurance scrim
 
-    
+    https://www.facebook.com/events/471369396944353/ Big Island Brawl, Hawai'i - for Okinawa Roller Derby from *20th*
 
+    White Night Furies open Short Track - VK https://vk.com/wall-59330463_1801
 
+    Lots of stuff in France and UK
+
+    What else is happening?
+
+    ECDX
+
+    Rotterdam thing? https://www.facebook.com/events/297305280816451/
+
+    Lisbon thing? https://www.facebook.com/events/2394054117497124/
+
+    Sodisco v Panam v Kamiquadz thing!
+
+    Oxford/Leeds/Dundee?! https://www.facebook.com/events/287859508796299/
+
+    Argentina? Mexico? Costa Rica? Brazil?
+    https://www.facebook.com/ReinasRojasRDCancun/photos/a.405719752903562/1437797306362463/?type=3 Some skate thing in Cancùn, Mexico, not purely derby
+
+    Triangular Bandido Chile, Viña del Mar
 
 
 ..
