@@ -14,7 +14,7 @@ The rules are, as usual: highlights limited to 1 event per country, with an "ext
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
 Other notability might also allow the extra event - great posters, notable teams, etc. (League birthdays may count as "special" enough, at our discretion ;) )
 
-The Scottish clause here gives us two updates for the UK, one in Scotland and one down south! Meanwhile, in general, this is obviously a weekend for bootcamps, with 3 of them in Europe, and two of those full weekend events!
+This is a good weekend for tournaments - with two tournaments of interest to us in the USA (ECDX, where a lot of European, as well as US, teams try to get last-minute games for WFTDA eligibility requirements; and Hawai'i's Big Island Brawl, as Okinawa are there); but also two National or quasi-National tournaments in Europe (Spain's first ever Division 2 playoffs, and the sort-of-Italian-national-tournament Skake Im Ring).
 
 In a bid to make this list as useful as possible, we've avoided links to Facebook except where noted.
 (Links to Teams are to non-Facebook resources - Instagram, or actual team pages - we'd strongly recommend that Teams
@@ -26,15 +26,38 @@ Locations are roughly organised East-West (with things before the weekend out se
   :alt: Map of all events (coded by type)
   :width: 100 %
 
-..
-    https://www.facebook.com/events/650227622094819/ Hull's Anagels OTA endurance scrim
+.. TEASER_END
 
-    Lots of stuff in France and UK
 
-    Sodisco v Panam v Kamiquadz thing!
+Sat: Wanganui, New Zealand
+--------------------------------
 
-    Argentina? Mexico? Costa Rica? Brazil?
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK Top 10]`__
+`[FTS LINK 3]`__
 
+.. __: https://www.facebook.com/events/400371230564121/
+.. __: null
+.. __: null
+.. __: http://flattrackstats.com/tournaments/110265/overview
+.. __: http://flattrackstats.com/bouts/110341/overview
+
+`West Coast Bombers`_ host their annual All Day Derby event, an 8-team quadruple header including New Zealand Top 10 Champs bouts, and Men's derby.
+
+.. _West Coast Bombers: https://wcbombers.weebly.com/
+
+Event starts: 1030 Saturday
+
+- West Coast Bombers "Night Witches" ( ) versus Taranaki Roller Derby
+- West Coast Bombers "Squadron" versus Hellmilton Roller Ghouls (Hamilton)
+- Whenua Fatales (Kapiti/Horowhenua) versus Iron Maidens (Bay City Rollers \| Napier/Hastings ) [Top 10 Champs]
+- No City Skaters (Lower North NZ M) versus Northern Gents (Upper North NZ M)
+
+*First two bouts pending FTS links until we can map the teams to rated teams*
+
+Venue: Jubilee Stadium, Wanganui, New Zealand
 
 Sat: Rockhampton, QLD, Australia
 --------------------------------
@@ -43,11 +66,13 @@ Sat: Rockhampton, QLD, Australia
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/428401301046357/
-.. __:
+.. __: null
 
 `Rocky Roller Derby`_ host the 2019 edition of the "Skate of Origin" mini-tournament for regional leagues. We know that this is a triple-header, but there's no public details of the actual teams on Facebook atm...
 
 .. _Rocky Roller Derby: https://www.instagram.com/rockyrollerderby/
+
+*No FTS entries yet, since we don't have team details*
 
 Event starts: 1530 Saturday
 
@@ -69,7 +94,6 @@ Event starts: 1930 Wednesday
 Venue: Bypass Channel emb. 134-136-138 k231, St Petersburg, Russia
 
 
-
 Sat-Sun: Collalbo, Italy
 --------------------------------
 
@@ -77,7 +101,7 @@ Sat-Sun: Collalbo, Italy
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/423438998225036/
-.. __:
+.. __: http://flattrackstats.com/tournaments/110476
 
 `Alp'n Rockets`_ host Skate im Ring 2019, the "Golden Edition" of the annual Italian tournament. This year 8 teams compete over two days, in two groups. This is the closest Italy gets to an "official national tournament", and we've debated using this in our National Champions page here at SRD for Italy.
 
@@ -105,30 +129,113 @@ Sat-Sun: Collalbo, Italy
 
   - full length Placement games (between teams of equivalent position in each group)
 
+*FTS tournament link currently empty of games, pending schedule etc, FTS does not normally list 30 minute games*
+
 Event starts: 0930 Saturday
 
 Venue: Arena Ritten, Zaberbach 15, Collalbo, Trentino-Alto Adige, Italy
+
+Sat: Oslo, Norway
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/809888646076909/
+
+`Oslo Roller Derby`_ invite everyone involved with the team to join them in their part of Oslo's Pride Parade this weekend.
+
+.. _Oslo Roller Derby: http://oslorollerderby.no/
+
+Event starts: 1300 Saturday (assembly time)
+
+Venue: Krysset Grønlandsleiret-Platous, Oslo, Norway
+
+
+Sat-Sun: Bochum, Germany
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/428465704603323/
+
+`RhurPott Roller Derby`_ host an open lecture on Roller Derby - both the sport, and particularly its importance as an exemplar for political, feminist, socio-critical sports governance. (And then they'll have an open bar!)
+
+.. _RhurPott Roller Derby: https://www.ruhrpottrollerderby.de/
+
+Event starts: 1900 Saturday
+
+Venue: Oval Office Bar, Saladin-Schmitt-Straße 2, Bochum, Germany
+
 
 Sat: Rotterdam, Netherlands
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
 
 .. __: https://www.facebook.com/events/297305280816451/
-.. __:
+.. __: http://flattrackstats.com/bouts/107822/overview
+.. __: http://flattrackstats.com/bouts/107875/overview
 
 `Rotterdam Roller Derby`_ host an international double header with opponents from France and Germany.
 
 .. _Rotterdam Roller Derby: http://rotterdamrollerderby.nl/
 
-- Death Row Honeys (Rotterdam A) versus Lomme Roller Girls Glorious Batardes ( )
+- Death Row Honeys (Rotterdam A) versus Lomme Roller Girls Glorious Batardes (Lomme B)
 - Killer Bees (Rotterdam B) versus Bremen Meatgrinders
 
 Event starts: 1300 Saturday (doors open)
 
 Venue: Sportcentrum West, Spaanseweg 2-4, Rotterdam, Netherlands
 
+Sat: Paris, France
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
+
+.. __: https://www.facebook.com/events/421854691726525/
+.. __: http://flattrackstats.com/bouts/110308/overview
+.. __: http://flattrackstats.com/bouts/110309/overview
+.. __: http://flattrackstats.com/bouts/110310/overview
+
+
+`Panam Squad`_ host a triple-header of MRDA sanctioned derby, with London's Southern Discomfort and Montpellier's Kamiquadz.
+
+.. _Panam Squad: https://www.instagram.com/panamsquad/
+
+- Knights of Discomfort (London MA) versus Kamiquadz (Montpellier MA)
+- Panam Squad (Paris MA) versus Knights of Discomfort
+- Panam Squad versus Kamiquadz
+
+Event starts: midday Saturday (first game)
+
+Venue: Gymnase des Fillettes, 54 Boulevard Ney, Paris, France
+
+Sat: Newcastle-upon-Tyne, UK
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/868774843475083/
+
+`Newcastle Roller Girls`_ host a home teams tournament, with a little bit of mystery Tyne&Fear at the end.
+
+.. _Newcastle Roller Girls: https://www.newcastlerollergirls.co.uk/
+
+- Blue Star Bruisers versus Toon Raiders (NRG)
+- Toon Raiders versus War Lasses (NRG)
+- War Lasses versus Blue Star Bruisers (NRG)
+- Tyne and Fear (Newcastle M) versus "guests"
+
+*No FTS links as home teams games are normally not rateable*
+
+Event starts: 1230 Saturday (doors open)
+
+Venue: Benfield Sports Centre, Benfield Road, Newcastle upon Tyne
 
 Sat: Leeds, UK
 --------------------------------
@@ -186,6 +293,29 @@ Event starts: 1000 Saturday (doors open?)
 
 Venue: Pabellon Municipal de la Manga Km12, La Manga, Murcia, Spain
 
+Sat: Cork, Ireland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/456854865137741/
+.. __: http://flattrackstats.com/bouts/110477/overview
+
+`Cork City Firebirds`_ host a double header event in the south of Ireland - a local bout and mixed public scrimmage!
+
+.. _Cork City Firebirds: https://www.instagram.com/corkcityfirebirds/
+
+- Cork City Firebirds versus Galway City Roller Derby
+- Mixed scrimmage (Open To All genders)
+
+*First bout only on FTS as obviously you can't rate a scrimmage.*
+
+Event starts: 1300 Saturday (doors open)
+
+Venue: Little Island Sports Complex, Wallingstown, Cork
+
+
 Sat: Lisbon, Portugal
 --------------------------------
 
@@ -209,27 +339,29 @@ Sat-Sun: Cancùn, Mexico
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
 
 .. __: https://www.facebook.com/ReinasRojasRDCancun/photos/a.405719752903562/1437797306362463/?type=3
-.. __:
 
-`Name`_ ...
+`Reinas Rojas`_ are participating in Go Skate Day, or at least the bit of it in Cancùn... (Go Skate Day is one of those "international" days which, in this case, celebrates mostly skateboards and longboards, but also other wheeled things.)
 
-.. _Name:
+.. _Reinas Rojas: https://www.instagram.com/reinasrojasrd
 
-Event starts:
+Event starts: 1500 Saturday
 
-Venue:
+Venue: Unidad Deportiva Cecilio Chi, Cancùn, Mexico
 
 Sat-Sun: Viña del Mar, Chile
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
 
 .. __: https://www.facebook.com/events/713538029065281/
-.. __:
+.. __: http://flattrackstats.com/bouts/110478/overview
+.. __: http://flattrackstats.com/bouts/110479/overview
+.. __: http://flattrackstats.com/bouts/110480/overview
 
 `Tacones Bandidos Roller Derby`_ host a "Triangular Bandidos", a triple-header round robin of Chilean Roller Derby. This event is free to the public!
 
@@ -258,7 +390,7 @@ Thurs-Sun: Hilo, HI, USA
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/471369396944353/
-.. __:
+.. __: http://flattrackstats.com/tournaments/110481
 
 `Paradise Roller Girls`_ host the 2019 edition of the Big Island Brawl, Hawai'i's yearly international invitational tournament. As well as three teams based on the Islands themselves, there's a host of visiting teams - of interest to us, Okinawa Roller Derby! This will be run as a two-group initial phase, followed by placement games via an elimination tournament.
 
@@ -280,6 +412,7 @@ Thurs-Sun: Hilo, HI, USA
     - Pacific Roller Derby (O'ahu, HI)
     - Peninsula Roller Girls (Redwood City, CA)
 
+*Due to load on FTS, we've not populated the tournament's list of bouts yet. This will come.*
 
 Event starts: 0900 Thursday (first game)
 
@@ -294,10 +427,10 @@ Fri-Sun: Feasterville, PA, USA
 .. __: https://www.facebook.com/ECDX2019/
 .. __: http://flattrackstats.com/tournaments/108401/overview
 
-`Philly Roller Girls`_ host the 2019 edition of ECDX; as usual the final chance for WFTDA teams to get in a lot of sanctioned games before the eligibility cut-off, as well as a great collection of MRDA and JRDA sanctioned bouts for their own ratings.
+`Philly Roller Derby`_ host the 2019 edition of ECDX; as usual the final chance for WFTDA teams to get in a lot of sanctioned games before the eligibility cut-off, as well as a great collection of MRDA and JRDA sanctioned bouts for their own ratings.
 As such, it's of interest to us because of the attendance of London Rollergirls, Rainy City Roller Derby (Oldham, UK), Bear City Roller Derby (Berlin, DE), Crime City Rollers (Malmö, SWE) and Paris Rollergirls in the WFTDA bracket. As far as we can see, there are no teams from outside North America in the MRDA or JRDA brackets this year.
 
-.. _Philly Roller Girls:
+.. _Philly Roller Derby: http://www.phillyrollerderby.com/
 
 - Teams attending:
 
@@ -307,10 +440,8 @@ As such, it's of interest to us because of the attendance of London Rollergirls,
     - Fredericksburg Roller Derby
     - Charlottesville Derby Dames
     - Detroit Roller Derby
-    - Philly Block Party
-    - Philly Liberty Belles
+    - Philly Roller Derby (A&B&C)
     - Charlottesville Belmont Bruisers
-    - Philly Citywide Specials
     - Windy City Rollers (Chicago)
     - *Paris Rollergirls*
     - Texas Rollergirls (A&B)
@@ -319,18 +450,18 @@ As such, it's of interest to us because of the attendance of London Rollergirls,
     - Santa Cruz Derby Girls
     - Grand Raggidy Roller Derby
     - Dub City Roller Derby
-    - Bear City Roller Derby (Berlin)
+    - *Bear City Roller Derby* (Berlin)
     - Queen City Roller Girls
     - Jet City Roller Derby
-    - Crime City Rollers
+    - *Crime City Rollers* (Malmö)
     - Gotham Roller Derby (A&B)
 
   - MRDA tier:
 
     - Mohawk Valley Roller Derby
     - St Louis (A&B)
-    - Magic City Misfits ( )
-    - Penn Jersey Hooligans ( )
+    - Magic City Misfits
+    - Penn Jersey Hooligans
 
   - JRDA tier:
 
