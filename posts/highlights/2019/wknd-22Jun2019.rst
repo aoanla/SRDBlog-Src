@@ -1,6 +1,6 @@
 .. title: Weekend Highlights: 22 June 2019
 .. slug: weekendhighlights-22062019
-.. date: 2019-06-18 10:00 UTC+01:00
+.. date: 2019-06-18 16:40 UTC+01:00
 .. tags: weekend highlights,
 .. category:
 .. link:
