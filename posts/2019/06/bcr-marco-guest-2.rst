@@ -1,6 +1,6 @@
 .. title: BCR Host the final game day of Champs Tier 2 North
 .. slug: bcr_host_final_game_day_bct2nm
-.. date: 2019-06-23 12:00:00 UTC+01:00
+.. date: 2019-06-19 13:00:00 UTC+01:00
 .. tags: bairn city rollers,tournaments,scottish roller derby,british championships
 .. category:
 .. link:
@@ -21,5 +21,5 @@ Both games are shaping up to be quite a close battle as by their results so far 
 
 Doors are at 1.15pm and tickets are only £5 on the door, find out more and keep up to date on the Facebook event page https://en-gb.facebook.com/events/2402082363156371/
 
-.. figure:: /images/2019/06/BCR-flyer
+.. figure:: /images/2019/06/BCR-flyer.png
   :alt: Flyer for the final fixtuer in British Champs Tier 2 M N; 29th June, 2019 at Grangemouth Sports Complex.
