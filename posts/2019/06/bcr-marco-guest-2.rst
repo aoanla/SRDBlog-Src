@@ -1,6 +1,6 @@
 .. title: BCR Host the final game day of Champs Tier 2 North
 .. slug: bcr_host_final_game_day_bct2nm
-.. date: 2019-06-19 13:00:00 UTC+01:00
+.. date: 2019-06-19 12:40:00 UTC+01:00
 .. tags: bairn city rollers,tournaments,scottish roller derby,british championships
 .. category:
 .. link:
@@ -8,7 +8,9 @@
 .. type: text
 .. author: despicablev
 
-Bairn City Rollers started off their 2019 and their champs campaign in the best way possible (you can read more about that here) . Their two wins in their first two Champs games saw them sit third in their group with six points despite having played one less game than the two teams above them, who had played three each. Their next two games came against those two teams: first they took on North Wales Mens and then T&F: Inglorious B\*Stars. Both opponents took the wins in very hard fought games ending their 2019 Champs season 1st and 2nd in the group, 2 weeks ago.
+`Bairn City Rollers`_ started off their 2019 and their champs campaign in the best way possible (you can read more about that here) . Their two wins in their first two Champs games saw them sit third in their group with six points despite having played one less game than the two teams above them, who had played three each. Their next two games came against those two teams: first they took on North Wales Mens and then T&F: Inglorious B\*Stars. Both opponents took the wins in very hard fought games ending their 2019 Champs season 1st and 2nd in the group, 2 weeks ago.
+
+.. _Bairn City Rollers: https://www.instagram.com/bairncityrollers
 
 .. figure:: /images/2019/06/MRDAside2-2019.png
   :alt: British Champs Tier 2 M N leaderboard, showing the current state of play, including BCR at the middle of the table.
