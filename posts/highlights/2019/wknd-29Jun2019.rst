@@ -1,6 +1,6 @@
 .. title: Weekend Highlights: 29 June 2019
 .. slug: weekendhighlights-29062019
-.. date: 2019-06-24 16:40 UTC+01:00
+.. date: 2019-06-24 20:40 UTC+01:00
 .. tags: weekend highlights, austrian roller derby, mexican roller derby, british roller derby, british championships, german roller derby, czech roller derby, irish roller derby, french roller derby, belgian roller derby, australian roller derby, new zealand roller derby, costa rican roller derby, brazilian roller derby, italian roller derby, norwegian roller derby, national tournament, estonian roller derby
 .. category:
 .. link:
@@ -14,7 +14,7 @@ The rules are, as usual: highlights limited to 1 event per country, with an "ext
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
 Other notability might also allow the extra event - great posters, notable teams, etc. (League birthdays may count as "special" enough, at our discretion ;) )
 
-We've broken our rule slightly for Germany this weekend, as it's important not to miss the Mine Monsters' birthday game, but also it's a good weekend for the German Bundesliga in Erfurt.
+We've broken our rule slightly for Germany this weekend, as it's important not to miss the Mine Monsters' birthday game, but also it's a good weekend for the German Bundesliga in Erfurt. And as usual there's so much stuff in France, we're giving them two entries for two two-day events...
 
 There's also two firsts this weekend; the first ever Tasmanian Tournament kicks off in Australia, and the first ever Norwegian National Tournament (and Championship) is this weekend in Sadnes!
 
@@ -33,10 +33,6 @@ Locations are roughly organised East-West (with things before the weekend out se
 ..
 
 
-
-
-
-
 Sat: Tahuanui, New Zealand
 --------------------------------
 
@@ -45,15 +41,15 @@ Sat: Tahuanui, New Zealand
 `[FTS LINK 2]`__
 
 .. __: https://www.facebook.com/events/354083425305584/
-.. __:
-.. __:
+.. __: http://flattrackstats.com/bouts/110609/overview
+.. __: http://flattrackstats.com/bouts/110608/overview
 
 `Nelson Bays Roller Derby`_ host a double header of New Zealand derby for their A and B teams!
 
 .. _Nelson Bays Roller Derby: http://www.skatenelson.nz/nelson-bays-roller-derby.html
 
-- Shipwreckers (Nelson Bay X) versus Timaru Derby Dames
-- Sirens of Smash (Nelson Bay Y) versus Bonnie Brawlers (Dunedin Derby Z)
+- Shipwreckers (Nelson Bay B) versus Timaru Derby Dames
+- Sirens of Smash (Nelson Bay A) versus Bonnie Brawlers (Dunedin Derby Z)
 
 Event starts: 1630 Satuday (doors open)
 
@@ -79,18 +75,18 @@ Sat: Devonport, TAS, AUZ
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/456674851812631/
-.. __:
 
 `Van Diemen Rollers`_ host the first ever fixture in the new `Tasmania Roller Derby Tournament`_ for 2019! This new initiative is a 3 fixture tournament between the three leagues of the island, resulting in a champion by the middle of October.
 
 .. _Van Diemen Rollers: https://www.instagram.com/vandiemenrollers/
 .. _Tasmania Roller Derby Tournament:
 
-- Crooked Butchers ( ) versus Swiss Army Wives ( )
-- Devil State Derby League ( ) versus Crooked Butchers ( )
+- Crooked Butchers (Van Diemen) versus Swiss Army Wives (Van Diemen)
+- Devil State Derby League (Launceton) versus Crooked Butchers (Van Diemen)
+
+*FTS is currently not tracking these, as Van Diemen's two "home teams" aren't tracked.*
 
 Event starts: 1630 Saturday (doors open)
 
@@ -197,10 +193,8 @@ Sat-Sun: Oberhausen, Germany
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/452588158649151
-.. __:
 
 The `Mine Monsters`_ of Oberhausen are celebrating their 4th birthday with a "co-ed" (by which they mean Open To All genders) bout against Nijmegens's Roadkill Rollers. We're also promised "a few surprises" along with this bout, so it's probably worth turning up just for that...
 
@@ -219,7 +213,7 @@ Fri-Sun: Sadnes, Norway
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/260385608194477/
-.. __:
+.. __: http://flattrackstats.com/tournaments/107823
 
 `Oil City Rollers`_ host the first ever Norwegian National Championship in history, as part of the NM-veka, a Norway sports wide broadcasting collaboration between the Norwegian national broadcaster (NRK), the Norwegian Olympic and Paralymic Committee and the Norwegian Confederation of Sports.
 The full schedule is not available at present, and we are promised a livestream of the event.
@@ -285,6 +279,41 @@ Sat-Sun: Caen, France
 Event starts: 0945 Saturday (doors open)
 
 Venue: Halle Des Granges Rshc. 15 Rue du Carel, Caen, France
+
+Sat-Sun: Toulouse, France
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+`[FTS LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/310099089652283/359780218017503/
+.. __: http://flattrackstats.com/node/110591
+.. __: http://flattrackstats.com/node/110592
+.. __: http://flattrackstats.com/node/110593
+
+`Roller Derby Toulouse`_ host a two day event: on Saturday, a quadruple header featuring almost all of RDT's teams and a roller disco; on Sunday a whole Sur5al tournament!
+
+.. _Roller Derby Toulouse: http://www.rollerderbytoulouse.com/
+
+- Saturday:
+
+  - Rainbow Furies (Toulouse C) versus Spring Blocks (Mérignac B)
+  - Barons Cathares (Toulouse MB) versus  LugdunHom (Lyon M)
+  - Blocka Nostra (Toulouse B) versus Faux Soyeuses (Lyon A)
+  - Nothing Toulouse (Toulouse A) versus Montignac & Friends
+
+- Sunday:
+
+  - Sur5al tournament (all day)
+
+*Nothing Toulouse bout not in FTS as the opponents can't be rated*
+
+Event starts: 1130 Saturday (first bout)
+
+Venue: Gymnase du Château de l'Hers, Chemin de Limayrac, Toulouse, France
+
 
 Sat: Grangemouth, Scotland
 --------------------------------
