@@ -31,15 +31,10 @@ Locations are roughly organised East-West (with things before the weekend out se
 .. TEASER_END
 
 ..
-  https://www.facebook.com/events/2402082363156371/ BCR Champs hosting
-
-  https://www.facebook.com/events/423339118459713/ Dublin Double header
 
 
 
-  Dark Side Roller Derby - Roller Derby intro Costa Rica  https://www.facebook.com/darksiderollerderby/photos/a.422820884559476/1250954565079433/?type=3
 
-  Blue Jay Rollers Festa Junina event Brazil https://www.facebook.com/events/2359147364366655/ (yes, not owned by BJR themeselves for some reason)
 
 
 Sat: Tahuanui, New Zealand
@@ -242,7 +237,7 @@ Event starts: 0900 Friday
 
 Venue: Giskehallen, Jønningsheiveien 47, Sandnes, Norway (Fri-Sat) : Vågen idrettshall, Holbergs gate 23, Sandnes, Norway (Sun)
 
-Sat-Sun: Antwerp, Belgium
+Sat: Antwerp, Belgium
 --------------------------------
 
 `[FACEBOOK LINK]`__
@@ -265,18 +260,106 @@ Sat-Sun: Caen, France
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
 
 .. __: https://www.facebook.com/events/2245324512190398/ Caen first edition of Bikin'it
-.. __:
+.. __: http://flattrackstats.com/node/109665
+.. __: http://flattrackstats.com/node/109666
+.. __: http://flattrackstats.com/node/109667
 
-`Name`_ ...
+`Roller Derby Caen`_ host the first ever "Bikin'it" Summer Tournament, featuring teams from nearby in France! This is a two-day event, for a 3 team round robin, and rookies bonus game, on the Saturday, and a picnic on the Sunday!
 
-.. _Name:
+.. _Roller Derby Caen: http://roller-derby-caen.fr/
 
-Event starts:
+- Saturday schedule
 
-Venue:
+  - Caen rookies versus Rennes rookies
+  - Pétroleuses (Caen B) versus Mortal Condate (Rennes B)
+  - Mortal Condate versus Cherboobs (ASH)
+  - Cherboobs versus Pétroleuses
+
+*Rookie bout not listed on FTS as it's not rateable*
+
+Event starts: 0945 Saturday (doors open)
+
+Venue: Halle Des Granges Rshc. 15 Rue du Carel, Caen, France
+
+Sat: Grangemouth, Scotland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/2402082363156371/
+.. __: http://flattrackstats.com/tournaments/106482/overview
+
+`Bairn City Rollers`_ host the final fixtures of the `British Championships`_ Tier 2 North (MRDA-side). As we `reported earlier`__ , these two bouts are important for the teams in them, although they cannot change the promotion from this division.
+
+.. _Bairn City Rollers: https://www.instagram.com/bairncityrollers
+.. _British Championships: https://www.britishchamps.com/
+.. __: https://www.scottishrollerderbyblog.com/posts/2019/06/bcr_host_final_game_day_bct2nm/
+
+- Bairn City OTA (Falkirk/Stirling O) versus Inhuman League (Sheffield M)
+- Teesside Skate Invaders (Teeside M) versus Knights of Oldham (Oldham M)
+
+Event starts: 1315 Saturday (doors open)
+
+Venue: Grangemouth Sports Complex, Abbots Road, Grangemouth, Scotland
+
+Sat: Greystones, Ireland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+
+.. __: https://www.facebook.com/events/423339118459713/
+.. __: http://flattrackstats.com/bouts/107894/overview
+.. __: http://flattrackstats.com/bouts/107895/overview
+
+`Dublin Roller Derby`_ host an exciting international Irish double header, as Scranton/Wilkes Barre's B team travel all the way over the Atlantic for some derby. This is also Dublin Pride weekend, and we believe that Dublin Roller Derby are planning to be part of the Parade as well.
+
+.. _Dublin Roller Derby: http://www.dublinrollerderby.com/
+
+- Dublin B versus Low Rolling Deuces (Wilkes Barre B)
+- East Coast Cyclones (Wicklow) versus Low Rolling Deuces
+
+Event starts: 1200 Saturday (doors open)
+
+Venue: Shoreline Leisure Greystones, Mill Road, Greystones, Ireland
+
+Sat: San Jose, Costa Rica
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/darksiderollerderby/photos/a.422820884559476/1250500695124820/?type=3
+
+`Dark Side Roller Derby`_ host an open Introductory Workshop on Roller Derby, for the public and anyone interested in the sport.
+
+.. _Dark Side Roller Derby: https://www.instagram.com/darksiderollerderby/
+
+Event starts: 1300 Saturday
+
+Venue: Polideportivo Aranjuez, San Jose, Costa Rica
+
+
+Sat: Curitiba, Brazil
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/2359147364366655/
+
+`Blue Jay Rollers`_ host a Festa Junina (Brazilian traditional "midsummer" festival, except in midwinter) for all interested. The thing that interests us most is what we think is "target shooting" being advertised...
+
+.. _Blue Jay Rollers: http://bluejayrollers.com.br/
+
+Event starts: 1600 Saturday
+
+Venue: Alberto Bolliger, 120-Juvevê, Curitiba, Brazil
 
 =====
 
