@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 06 July 2019
 .. slug: weekendhighlights-06072019
 .. date: 2019-07-01 20:40 UTC+01:00
-.. tags: weekend highlights, new zealand roller derby, australian roller derby, british roller derby, finnish roller derby, national tournament, german roller derby, french roller derby, roller derby sevens, argentine roller derby, irish roller derby, junior roller derby, bootcamp, italian roller derby
+.. tags: weekend highlights, new zealand roller derby, australian roller derby, british roller derby, finnish roller derby, national tournament, german roller derby, french roller derby, roller derby sevens, argentine roller derby, irish roller derby, junior roller derby, bootcamp, italian roller derby, spanish roller derby, ecuadorian roller derby, mexican roller derby
 .. category:
 .. link:
 .. description:
@@ -17,6 +17,8 @@ Other notability might also allow the extra event - great posters, notable teams
 In a bid to make this list as useful as possible, we've avoided links to Facebook except where noted.
 (Links to Teams are to non-Facebook resources - Instagram, or actual team pages - we'd strongly recommend that Teams
 get themselves an actual webpage [we can help host one if you need help]).
+
+There's not one, but two national championships decided this weekend, as the finals of the Finnish National Championships and the first ever ARDE Spanish National Championships both fall here.
 
 Locations are roughly organised East-West (with things before the weekend out sequence at the start).
 
@@ -36,7 +38,7 @@ Sat-Sun: Auckland, New Zealand
 
 
 .. __: https://www.facebook.com/events/414225859426650/
-.. __:
+.. __: http://flattrackstats.com/bouts/110715/overview
 
 
 `Pirate City Rollers`_ host a double header, including junior derby!
@@ -100,7 +102,7 @@ Sat: Vantaa, Finland
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/1100157786835037/
-.. __:
+.. __: http://flattrackstats.com/tournaments/106172/overview
 
 
 `Roller Derby Finland`_ this season's final of the Finnish National championships. As well as the 4 teams competing in a single elimination for the
@@ -127,7 +129,7 @@ Sat: Kassel, Germany
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/452657885303848/
-.. __:
+.. __: http://flattrackstats.com/bouts/110716/overview
 
 `Kassel Roller Derby`_ host a single header event, against Münster's finest
 
@@ -155,6 +157,39 @@ Event starts: 1900 Friday
 
 Venue: Casa Arcobaleno, Via Bernardino Lanino 3/A, Turin, Italy
 
+Sat-Sun: Fontenay-aux-Roses, France
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
+`[FTS LINK 4]`__
+`[FTS LINK 5]`__
+`[FTS LINK 6]`__
+
+.. __: https://www.facebook.com/events/2389118391153083/
+.. __: http://flattrackstats.com/node/110708
+.. __: http://flattrackstats.com/node/110709
+.. __: http://flattrackstats.com/node/110710
+.. __: http://flattrackstats.com/node/110711
+.. __: http://flattrackstats.com/node/110712
+.. __: http://flattrackstats.com/node/110713
+
+`Lutece Destroyeuses`_ host an international 4 team tournament over two days (for a full round-robin) as an end of season event. The Summer Games 2019 features teams from Slovenia, France and Sweden!
+
+.. _Lutece Destroyeuses: http://lutecedestroyeuses.com/
+
+- Teams:
+
+  - Roller Derby Ljubljana
+  - Helltown Hellcats (Helsingborg)
+  - Les Canailles (Lutece B \| Paris)
+  - San Culottes (Paris Rollergirls B)
+
+Event starts: 1000 Saturday (doors open?)
+
+Venue: 7 Rue des Potiers, 92260 Fontenay-aux-Roses, France
 
 Sat: Stamford, UK
 --------------------------------
@@ -191,6 +226,43 @@ Sat: Leeds, UK
 Event starts: 1200 Saturday
 
 Venue: Morley Leisure Centre, Queensway, Morley, Leeds, UK
+
+
+Sat-Sun: Manchester, UK
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/347853202582932/
+.. __: http://flattrackstats.com/tournaments/106480
+
+
+`Manchester Roller Derby`_ host the final fixture in the British Championships Tier 1 North! With the top sport already taken by Liverpool Roller Birds, it's a battle for second place, and against relegation here. Sheffield Steel, in the bottom spot, cannot avoid relegation in their game against Auld Reekie - but Auld Reekie will need to win impressively to stand a chance of taking the second playoffs place to play for the Championship. That's also only possible if Manchester's Checkerbroads, currently in that second playoffs spot, find neighbours Rainy Revolution too much to handle - a situation which is also the Oldham team's only way out of that second relegation spot!
+
+.. _Manchester Roller Derby: http://www.manchesterrollerderby.com
+
+- Checkerbroads (Manchester A) versus Rainy City Revolution (Rainy City B \| Oldham)
+- Sheffield Steel Roller Derby versus Auld Reekie Reserves (Auld Reekie B \| Edinburgh)
+
+Event starts: 1200 Saturday (doors open)
+
+Venue: University of Salford Sports Centre, University Road, Salford, UK
+
+Thurs: Carlisle, UK
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/3240538399305132/
+
+`Border City Roller Derby`_  celebrate their 4th Birthday with a Stars v Stripes scrim - participation open to anyone mins-passed (or mins-passed without laps, or almost mins-passed if your coach vouches for you).
+
+.. _Border City Roller Derby: https://bordercityrollers.com/
+
+Event starts: 2000 Thursday
+
+Venue: Harraby Campus Sports, Carlisle, Cumbria, UK
 
 
 Sat-Sun: Nantes, France
@@ -236,6 +308,51 @@ Event starts: 1200 Saturday
 
 Venue: Shoreline Leisure Greystones, Mill Road, Greystones, Ireland
 
+Sat-Sun: Madrid, Spain
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+`[FTS LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/451205958776250/
+.. __: http://flattrackstats.com/tournaments/109701/overview
+.. __: http://flattrackstats.com/tournaments/109702/overview
+.. __: http://flattrackstats.com/tournaments/110723/overview
+
+`Roller Derby Madrid`_ host the first ever `ARDE`_ Spanish National Championships over this weekend, with both the Men's division (three teams) and the finalists from the WFTDA-gender division qualifiers compete for their respective cups, including a Division 2 cup for the top teams there.
+
+.. _Roller Derby Madrid: http://www.rollerderbymadrid.com/
+.. _ARDE: http://arderollerderby.es/
+
+- Teams:
+
+  - MRDA-division 1
+
+    - MadRiders (Madrid M)
+    = Lobishomes (Galicia M)
+    - Easo Hooks (Donostia/San Sebastián M)
+
+  - WFTDA-division 1
+
+    - Roller Derby Madrid A
+    - Rayo Dockers (Valencia)
+    - Ingles de Acero All-Stars (Barcelona A)
+    - Black Thunders Derby Dames (Madrid)
+
+  - WFTDA-division 2
+
+    - Roller Derby Madrid B
+    - As Brigantias (A Coruña)
+    - Sereas Bravas  (Vigo)
+    - Frankensteam (Salamanca / Bad'n'Roller (Badalona) / Cáceres)
+
+Event starts: 0900 Saturday (doors open)
+
+Venue: Basico Sport Center, C.D.M Las Cruces, Avda. de los Poblados 72. Madrid, Spain
+
+
 Sat-Sun: Coimbra, Portugal
 --------------------------------
 
@@ -260,6 +377,20 @@ Event starts: 1100 Saturday (doors open)
 
 Venue: Pavilhão Multidesportos, Dr. Mário Mexia, Coimbra, Portugal
 
+Sat-Sun: Medellín, Colombia
+--------------------------------
+
+`[FACEBOOK LINK (Flyer)]`__
+
+.. __: https://www.facebook.com/radicalderby/photos/a.335061944026554/388519688680779/?type=3
+
+`Radical Derby`_ host a bootcamp on Roller Derby and Roller Skating aimed at developing the technical aspects of both sports. This bootcamp is coached by Bogota Bone Breakers' Moonsun. This is part of an initiative which Radical Derby have been loudly promoting recently to develop the skating community in Colombia as a whole.
+
+.. _Radical Derby: https://www.instagram.com/radicalderby/
+
+Event starts: unknown
+
+Venue: Coliseo Carlos, Mauro Hoyos & Skate Park de la 4 sur; Medellín, Antioquia, Colombia
 
 
 Sat-Mon: La Rioja, Argentina
@@ -267,18 +398,14 @@ Sat-Mon: La Rioja, Argentina
 
 `[FACEBOOK LINK]`__
 `[FTS LINK]`__
-`[FTS LINK]`__
-`[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/363780394232313/
-.. __:
-.. __:
-.. __:
+.. __: http://flattrackstats.com/tournaments/110729/overview
 
 `Roller Derby La Rioja`_ host the second edition of Impakto Mixto, a multi-division Argentine tournament, with WFTDA-gender, MRDA-gender and OTA tiers. This is also the first time you'll see some of the competing teams on track, with Golondrinas Negras playing here for the first time in public.
 The event will also host a triple-themed officiating + support clinic, coached by Primavera (refereeing), Captain Rex (NSOing), El Espanto (First Aid)!
 
-.. _Roller Derby La Rioja:
+.. _Roller Derby La Rioja: https://www.instagram.com/rollerderby.larioja2019/
 
 - WFTDA-gender teams:
 
@@ -304,27 +431,34 @@ Event starts: 0800 Saturday
 
 Venue: Catamarca 364, La Rioja, Argentina
 
-
-
-
-Sat-Sun:
+Sat: Quito, Ecuador
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
-`[FTS LINK]`__
-`[FTS LINK]`__
 
-.. __:
-.. __:
-.. __:
-.. __:
+.. __: https://www.facebook.com/events/356127068372629/
 
-`x`_ host
+`Forajidas Roller Derby`_ continue their series of open skate recruitment days to build roller derby in Ecuador!
 
-.. _x:
+.. _Forajidas Roller Derby: https://www.instagram.com/forajidasrollerderby/
+
+Event starts: 0900 Saturday
+
+Venue: Cumandá Parque Urbano, Av. 24 de Mayo, Quito, Ecuador
 
 
-Event starts:
+Sat: Mexico City, Mexico
+--------------------------------
 
-Venue:
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/2384718191799619/
+
+`EMEXRD`_  and the `Asociación Mexicana de Roller Derby`_ co-host a two-day clinic on officiating and skating with Ninja Sassem (former MRDA Officating Director, WFTDA Level 3 certified referee) and Spin Diesel (3 times Team USA Men's Roller Derby skater)!
+
+.. _EMEXRD: https://www.instagram.com/emexrd2017/
+.. _Asociación Mexicana de Roller Derby: https://rollerderbymexico.com/inicio
+
+Event starts: 0900 Saturday
+
+Venue: Deportivo Morelos Delegación Cuauhtémoc, Rivero Y Peralvillo, Mexico City, Mexico
