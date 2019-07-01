@@ -22,7 +22,7 @@ There's not one, but two national championships decided this weekend, as the fin
 
 Locations are roughly organised East-West (with things before the weekend out sequence at the start).
 
-.. image:: /images/2019/06/06Jul-wkly-map.png
+.. image:: /images/2019/07/06Jul-wkly-map.png
   :alt: Map of all events (coded by type)
   :width: 100 %
 
