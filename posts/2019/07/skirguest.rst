@@ -46,7 +46,7 @@ Other than the amazing between game entertainment that Ducks IM Ring provided, B
 
   Hazzard, skating with Stryx (versus Roma). [Photo: `NSP 189`_]
 
-.. _NSP 189; https://www.facebook.com/nsp189/
+.. _NSP 189: https://www.facebook.com/nsp189/
 
 The tournament was also heavily sponsored which allowed Alp’n to make the event free to spectators.
 
