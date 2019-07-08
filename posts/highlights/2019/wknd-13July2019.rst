@@ -1,6 +1,6 @@
 .. title: Weekend Highlights: 13 July 2019
 .. slug: weekendhighlights-13072019
-.. date: 2019-07-08 20:40 UTC+01:00
+.. date: 2019-07-08 19:40 UTC+01:00
 .. tags: weekend highlights, new zealand roller derby, australian roller derby, british roller derby, mexican roller derby, french roller derby, short track roller derby, italian roller derby, german roller derby, national tournaments
 .. category:
 .. link:
