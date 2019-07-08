@@ -8,7 +8,9 @@
 .. type: text
 .. author: aoanla
 
-This weekend's highlights are back to our 1 update format as this is a little quieter.
+This weekend's highlights are back to our 1 update format as this is a little quieter. There's a bunch of exciting "summer" events on, though, which we should highlight up here: in the UK, Eastbourne Extreme takes derby outside and to the coast for a 2 day mixed tournament; in France, Saint-Gratien once again hosts the pan-France Tournament of 6 Regions; and in Bundaberg, Australia, the 2019 SKATE of Emergency continues to raise funds for emergency services.
+
+(We'd also like to highlight the next "Un sol para lxs oficialxs", raising travel funds for Argentinian officials to support Roller Derby across the country; and on a different note ALL-IN's Short Track Experiment event in Leeds, exploring the new ruleset and how it might help to sustain & develop the sport.)
 
 The rules are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
@@ -17,7 +19,6 @@ Other notability might also allow the extra event - great posters, notable teams
 In a bid to make this list as useful as possible, we've avoided links to Facebook except where noted.
 (Links to Teams are to non-Facebook resources - Instagram, or actual team pages - we'd strongly recommend that Teams
 get themselves an actual webpage [we can help host one if you need help]).
-
 
 Locations are roughly organised East-West (with things before the weekend out sequence at the start).
 
@@ -36,7 +37,7 @@ Sat: Upper Hutt, New Zealand
 
 `Remutaka Roller Derby`_ hosts Team Crazy Legs Aotearoa, the New Zealand branch of the exhibition team supporting, and for, people with invisible illnesses (including, but definitely not limited to, mental illnesses). This is an Open To All genders bout.
 
-.. _Remutaka Roller Derby:
+.. _Remutaka Roller Derby: https://www.instagram.com/remutaka_roller_derby/
 
 - Remutaka Roller Derby (Upper Hutt O) versus Team Crazy Legs Aotearoa (exhibition O)
 
@@ -101,12 +102,12 @@ Sat: Regensburg, Germany
 .. __: http://flattrackstats.com/tournaments/107938/overview
 
 
-`Roller Derby Regensburg`_ host a double-header of Roller Derby action, including a Bundesliga Division 2 game!
+`Roller Derby Regensburg`_ host a double-header of Roller Derby action, including a Bundesliga Division 2 game! The second bout is also interesting, as it's a rarely-seen "regional team" game, pitting Bavaria against Austria (or at least, the central part of Austria)!
 
 .. _Roller Derby Regensburg: http://esv1927.de/rollerderby/
 
 - Rolling Rat Pack (Regensburg) versus Bashlorettes (Kassel) [Bundesliga D3]
-- Bavarian Battle Beasts (Bavaria!) versus Dusty Rhinos (Austria / Linz?)
+- Bavarian Battle Beasts (Bavaria (Munich+Nürnberg+Augsburg?)) versus Steelcity's Dusty Rhinos (Austria (Linz+Graz+Salzburg))
 
 Event starts: 1430 Saturday
 
@@ -178,12 +179,12 @@ Sat-Sun: Eastbourne, UK
 
     - Bourne Bombshells (Eastbourne A)
     - Brighton Rockerbillies (Brighton B)
-    - Terra Hurtz (Killahurtz B | )
+    - Terra Hurtz (Killa hurtz B | Chelmsford)
     - Surrey Roller Girls
 
   - OTA-gender-policy Roller Derby Sevens tournament (Saturday)
 
-    - Bomb S'quad ( )
+    - Bomb S'quad (Eastbourne M)
     - Eastbourne Extreme 2019 Challenge Team
     - Surrey Jammerwockies (Surrey M)
 
@@ -226,7 +227,6 @@ Sat: Leeds, UK
 - Discussion.
 - Full contact WFTDA-policy scrimmage
 
-
 Event starts: 1200 Saturday
 
 Venue: Ramgarhia Leeds Sport & Leisure Centre, 8 Chapeltown Road, Leeds, UK
@@ -261,13 +261,13 @@ Sat-Sun: Buenos Aires, Argentina
 .. __: https://www.facebook.com/events/3348637171828419/
 
 
-`name`_ host another edition of "Un sol para lxs Officiales": the  . This edition supports officiating at Gatorneo 2019 in Mendoza; the distribution of Roller Derby in Argentina
-being what it is, most official will be travelling across the width of the country to support that tournament, so all funds are important!
+The Argentinian Officiating community host another edition of "Un sol para lxs oficialxs": the irregular series of fundraisers to support travel for Argentine officials. This edition supports officiating at Gatorneo 2019 in Mendoza; the distribution of Roller Derby in Argentina
+being what it is, most official will be travelling across the width of the country to support that tournament, so all funds are important! (For perspective, it is almost 1000 km from Buenos Aires to Mendoza, in a straight line... Argentina is big.)
+Un sol para lxs Oficialxs, as always, works as a weekend of roller derby, full of open-subscription games (in this case, 5 over the weekend) - all funds go towards officiating travel.
 
-.. _name:
-
+- MRDA-gender-policy mixed-teams
 - WFTDA-gender-policy "C-level" mixed teams scrimmage.
-
+- "Triangular" round-robin for 3 "B-level" mixed teams.
 
 Event starts: 1000 Saturday
 
