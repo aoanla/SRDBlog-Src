@@ -23,4 +23,42 @@ With the 2019 edition of the Championships arriving very soon now, we thought it
 
 .. TEASER_END
 
-The 8th Mexican National tournament, as before
+The 8th Mexican National tournament, as always, is organised by the `AMRD`_, the sport's governing body in the country. Seeded from the last published AMRD ratings
+[ ], Division 1 will take the same 2 Playoffs into Final structure as in 2018.
+
+.. _AMRD: https://www.facebook.com/AsociacionMexicanaDeRollerDerby/
+
+AMRD tries to spread playoffs across the country, so Playoff 1 will be hosted in Chihuahua, whilst Playoff 2 will be centrally located in Mexico City; in the 2nd and 4th weeks of August, respectively; whilst the Division 1 final will be in Querétaro in mid November.
+
+Division 2, being smaller, retains the final fixture for its determination: this year hosted in Guanajuato, in early October.
+
+Este año el 8vo Torneo Nacional de Roller Derby queda dividido de la siguiente manera:
+
+Playoffs 1 Agosto 10 y 11
+– Chihuahua –
+Juárez
+Discordias
+Baja
+Medusas
+Furiosas
+Fugaz
+
+Playoffs 2 Agosto 24 y 25
+– CDMX –
+MCRD
+Quimeras
+Minervas
+Rock city
+Aguamalas
+Ovejas negras
+
+Nacional D2 Octubre 5 y 6
+– Guanajuato –
+Reinas rojas
+Vipers
+Yucatán
+División del Norte
+Tamaulipas
+
+Nacional D1 Noviembre 16, 17 y 18
+– Querétaro –
