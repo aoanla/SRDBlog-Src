@@ -11,8 +11,8 @@
 Last year, as part of our `series`_ on National Tournaments around the World, we brought you up to date with `Mexico`_'s Championships and ratings - one of the longest running
 national tournaments in Roller Derby.
 
-.. _series:
-.. _Mexico:
+.. _series: https://www.scottishrollerderbyblog.com/categories/tournaments2018/
+.. _Mexico: https://www.scottishrollerderbyblog.com/posts/2018/07/18/mexican-national-championships-2018/
 
 With the 2019 edition of the Championships arriving very soon now, we thought it was time to catch you up on events.
 
