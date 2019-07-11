@@ -1,6 +1,6 @@
 .. title: Mexican National Championships 2019
 .. slug: mexico2019
-.. date: 2019-07-04 11:00:00 UTC+01:00
+.. date: 2019-07-12 11:00:00 UTC+01:00
 .. tags: tournaments, national tournaments, mexican roller derby
 .. category:
 .. link:
