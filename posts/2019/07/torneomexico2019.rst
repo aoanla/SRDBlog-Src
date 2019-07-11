@@ -33,8 +33,7 @@ AMRD tries to spread playoffs across the country, so Playoff 1 will be hosted in
 Adopting a boustrophedon allocation (alternating assignments of teams between playoffs in order) based on the June 2019 ratings, the allocations are:
 
 Playoffs 1: Chihuahua, August 10-11
---------------------------------------
-
+-------------------------------------
 Juárez All-Stars (Juárez) [#2 seed] *HOST LEAGUE*
 Discordias (EMEXRD, Mexico City) [#4 seed]
 Baja (Baja Roller Derby, Ensenada) [#6 seed]
@@ -43,8 +42,7 @@ Furiosas (Roller Derby SLP, San Luis Potosi) [#10 seed]
 Fugaz (Tlalpan) [#12 seed]
 
 Playoffs 2:  Mexico City, August 24-25
-------------------------------------------
-
+-----------------------------------------
 MCRD All-Stars (Mexico City Roller Derby) [#1 seed] *HOST LEAGUE*
 Quimeras (LRDCM, Mexico City) [#3 seed]
 Minervas (Roller Derby Guadalajara) [#5 seed]
@@ -57,9 +55,8 @@ As a result, if we were going to bet on upsets, it would be from the two former 
 
 Division 2, being smaller, retains the final fixture for its determination: this year hosted in Guanajuato, near León, in early October.
 
-Division 2 Nationals: Guanajuato October 5-6
------------------------------------------------
-
+Division 2 Nationals: Guanajuato October 5+6
+----------------------------------------------
 Reinas Rojas (Roller Derby Quintana Roo, Cancun) [#13 seed - #1 seed in D2]
 Vipers (Roller Derby Tijuana) [#14 seed]
 Yucatan (Roller Derby Yucatan, Merida) [#15 seed]
