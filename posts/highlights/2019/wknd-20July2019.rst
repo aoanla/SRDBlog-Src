@@ -1,6 +1,6 @@
 .. title: Weekend Highlights: 20 July 2019
 .. slug: weekendhighlights-20072019
-.. date: 2019-07-16 19:40 UTC+01:00
+.. date: 2019-07-16 14:00 UTC+01:00
 .. tags: weekend highlights,
 .. category:
 .. link:
@@ -211,8 +211,6 @@ Sat: Piracicaba, Brazil
 Event starts: 1700 Saturday
 
 Venue: Clube Delphi, Piracicaba, Brazil
-
-
 
 
 
