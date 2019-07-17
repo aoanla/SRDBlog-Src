@@ -23,10 +23,12 @@ With the 2019 edition of the Championships arriving very soon now, we thought it
 
 .. TEASER_END
 
-The 8th Mexican National tournament, as always, is organised by the `AMRD`_, the sport's governing body in the country. Seeded from the last published AMRD ratings
-[ ], Division 1 will take the same 2 Playoffs into Final structure as in 2018.
+The 8th Mexican National tournament, as always, is organised by the `AMRD`_, the sport's governing body in the country. Seeded from the last published AMRD ratings, Division 1 will take the same 2 Playoffs into Final structure as in 2018.
 
 .. _AMRD: http://rollerderbymx.com
+
+.. figure:: /images/2019/07/AMRD-rating2019.jpg
+  :alt: The AMRD June ratings, for "women's" teams, used for selection.
 
 AMRD tries to spread playoffs across the country, so Playoff 1 will be hosted in Chihuahua, whilst Playoff 2 will be centrally located in Mexico City; in the 2nd and 4th weeks of August, respectively; whilst the Division 1 final will be in Querétaro in mid November. Whilst this does mean that the majority of the fixtures will be fairly centrally located (and there's no fixtures hosted out to the eastern limb of Mexico), this also reflects the population distribution, and general grouping of the competitors.
 
@@ -34,33 +36,42 @@ Adopting a boustrophedon allocation (alternating assignments of teams between pl
 
 Playoffs 1: Chihuahua, August 10-11
 -------------------------------------
-Juárez All-Stars (Juárez) [#2 seed] *HOST LEAGUE*
-Discordias (EMEXRD, Mexico City) [#4 seed]
-Baja (Baja Roller Derby, Ensenada) [#6 seed]
-Medusas (Hidalgo Roller Derby, Pachuca) [#8 seed]
-Furiosas (Roller Derby SLP, San Luis Potosi) [#10 seed]
-Fugaz (Tlalpan) [#12 seed]
+- Juárez All-Stars (Juárez) [#2 seed] *HOST LEAGUE*
+- Discordias (EMEXRD, Mexico City) [#4 seed]
+- Baja (Baja Roller Derby, Ensenada) [#6 seed]
+- Medusas (Hidalgo Roller Derby, Pachuca) [#8 seed]
+- Furiosas (Roller Derby SLP, San Luis Potosi) [#10 seed]
+- Fugaz (Tlalpan) [#12 seed]
 
 Playoffs 2:  Mexico City, August 24-25
 -----------------------------------------
-MCRD All-Stars (Mexico City Roller Derby) [#1 seed] *HOST LEAGUE*
-Quimeras (LRDCM, Mexico City) [#3 seed]
-Minervas (Roller Derby Guadalajara) [#5 seed]
-Rock City All-Stars (Rock City, Queretaro) [#7 seed]
-Aguamalas (Roller Derby Baja Sur, La Paz) [#9 seed]
-Ovejas Negras (Roller Derby Michoacan, Morelia) [#11 seed]
+- MCRD All-Stars (Mexico City Roller Derby) [#1 seed] *HOST LEAGUE*
+- Quimeras (LRDCM, Mexico City) [#3 seed]
+- Minervas (Roller Derby Guadalajara) [#5 seed]
+- Rock City All-Stars (Rock City, Queretaro) [#7 seed]
+- Aguamalas (Roller Derby Baja Sur, La Paz) [#9 seed]
+- Ovejas Negras (Roller Derby Michoacan, Morelia) [#11 seed]
 
 Of these teams, Baja have been pretty active, playing over the border in the USA several times this year, whilst Queretaro's Rock City (rebranded from Queretaro Roller Derby in the last few months) have hosted a lot of fixtures. All of Mexico City's various leagues have also kept up a strong competitive record, partly thanks to how many events Rock City have been holding!
 As a result, if we were going to bet on upsets, it would be from the two former teams - Baja have had a lot of interesting competitive experiences recently (against teams which don't count towards their rating here!), and this could hold them in good stead against the higher-seeded teams in their division; whilst Rock City have just been playing a ton of derby recently...
+
+At present, only the second playoffs has a `Facebook Event`_, the others pending venue and timings being confirmed, as far as we are aware.
+
+.. _Facebook Event: https://www.facebook.com/events/632983550520778/
+
+.. figure:: /images/2019/07/mexico-2019-teams.png
+  :alt: Mexico Playoffs flyer for 2nd Playoff in Mexico City.
+
 
 Division 2, being smaller, retains the final fixture for its determination: this year hosted in Guanajuato, near León, in early October.
 
 Division 2 Nationals: Guanajuato October 5+6
 ----------------------------------------------
-Reinas Rojas (Roller Derby Quintana Roo, Cancun) [#13 seed - #1 seed in D2]
-Vipers (Roller Derby Tijuana) [#14 seed]
-Yucatan (Roller Derby Yucatan, Merida) [#15 seed]
-Division del Norte (Roller Derby Chihuahua, Chihuahua) [#16 seed]
-Tamaulipas All-Stars (Liga Tamaulipas Roller Derby, Tampico) [#17 seed]
+- Reinas Rojas (Roller Derby Quintana Roo, Cancun) [#13 seed - #1 seed in D2]
+- Vipers (Roller Derby Tijuana) [#14 seed]
+- Yucatan (Roller Derby Yucatan, Merida) [#15 seed]
+- Division del Norte (Roller Derby Chihuahua, Chihuahua) [#16 seed]
+- Tamaulipas All-Stars (Liga Tamaulipas Roller Derby, Tampico) [#17 seed]
 
-It's harder to make predictions about the Division 2 teams, partly because a lot of Mexican fixtures
+It's harder to make predictions about the Division 2 teams, partly because several of the teams have a pretty sparse record of games - the last games we see from Tamaulipas were in April, for example.
+However, the top spots seem fairly safe for the Reinas Rojas and Vipers - they had very strong results against the next lowest teams in the list less than two months ago.
