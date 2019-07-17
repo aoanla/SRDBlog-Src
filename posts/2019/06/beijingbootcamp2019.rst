@@ -1,6 +1,6 @@
 .. title: Beijing's Dragon Bootcamp - the start of an annual tradition!
 .. slug: rollerderby-bei-2019
-.. date: 2019-06-24 10:00:00 UTC+01:00
+.. date: 2019-07-20 10:00:00 UTC+01:00
 .. tags: roller derby, bootcamp, short track roller derby, officiating, chinese roller derby, beijing roller derby
 .. category:
 .. link:
