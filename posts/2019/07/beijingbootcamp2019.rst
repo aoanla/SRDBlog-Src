@@ -26,3 +26,22 @@ Reffeweizen:
   We ended up doing 2 periods of 15 jams so that people could rotate through jammer evenly. After 30 jams, the score was 66-66. After the tiebreaker jam, it ended with 66 to 69.
 
   We're looking forward to having another bootcamp with a scrimmage/tournament at the end next year. It's great knowing that Short Track is an easily teachable, usable format that we can consider!
+
+
+MICHAEL TSAI - JENSEN:
+  I thought the Derby bootcamp was a great way for a newbie like myself to really get immersed into the sport for a day. I've attended a few practices but the way it was split into classroom theory and actual practice did so much for my learning. I particularly enjoyed meeting new faces from other cities who share the same passion for the sport. In the future i would like to be able to maybe has lunch catered instead of going out to eat. I had to leave early so I didn't get to play or practice at the end but I would love to experience that in the future.
+
+  Highlights :
+  learning about the rules (was my first time learning full set of rules). Enjoyed practicing blocking and doing the oblonged in and out skating to go around faster (can't remember the name)
+
+  I'm with the Beijing group. I'm from LA been in china 10 years, skated as a child but the girls really brought the joy of skating back into my life. I particularly enjoy our social skates
+
+Doc McStuff'ems (Molly Myers):
+
+  As a fresh meat graduate from the Shanghai Rollers, the Beijing boot camp solidified my new-found love for the sport. The classroom work lead by Refewizen was awesome. It got us into the right frame of mind and helped me understand how caring and supportive the officials are. They love the game just as much as the players and work hard to feel the keep the sport safe, fair, and fun. And you just don’t mess with officials for those reasons.
+
+  I loved learning from Judge Shredd and practicing with players from the Beijing Roller Derby team. Having new faces to practice elements of game play only makes you and your team better. Everyone is there to learn and essentially want the same thing, to be ready for a bout.
+
+  As the day wore on, I was getting very nervous about the possibility of game play. Obviously this boot camp would be a far better way to get some exposure to the real deal, rather than just jumping straight into a game.
+
+  So when the scrimmage started I was so pumped to play with the people I just spent the day sweating with. We were tired, but so many amazing chemicals flood into you the second that jam whistle blows. And when it was over, it all made sense. This days spent at the first Beijing Sur5al boot camp is what derby is all about: a bunch of badass people, willing to teach, learn, sweat, try, fall, get up, and literally stick together to play a sport that makes everyone feel proud as hell to be a part of it. From the officials to the fans, derby is instant family. 
