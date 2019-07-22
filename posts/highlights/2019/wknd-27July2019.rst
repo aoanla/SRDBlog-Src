@@ -1,6 +1,6 @@
 .. title: Weekend Highlights: 27 July 2019
 .. slug: weekendhighlights-27072019
-.. date: 2019-07-23 14:00 UTC+01:00
+.. date: 2019-07-22 19:00 UTC+01:00
 .. tags: weekend highlights,
 .. category:
 .. link:
@@ -26,8 +26,27 @@ Locations are roughly organised East-West (with things before the weekend out se
 
 .. TEASER_END
 
+Sat: Taupo, New Zealand
+--------------------------------
 
-.
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/463219744443379/
+.. __: http://flattrackstats.com/bouts/110935/overview
+
+
+The `Huka Dolls`_ (link to Facebook, as sadly they don't seem to have a website or other social media) host a single-header against regular rivals, Kapiti Coast Derby Collective, for the "Queen of the Rink" title for the year.
+
+.. _Huka Dolls: https://www.facebook.com/hukadolls/
+
+- Huka Dolls (Taupo) versus KC/DC (Kapiti Coast)
+
+Event starts: 1530 (doors open)
+
+Venue: AC Baths Avenue, Taupo, New Zealand
+
+
 Sun: Carrum Downs, VIC, Australia
 --------------------------------
 
@@ -46,15 +65,41 @@ Event starts: 1800 Sunday
 
 Venue: Sk8house, 3/2 Amayla Cres, Carrum Downs, Victoria, Australia
 
+Sat-Sun: Margaret River, WA, Australia
+--------------------------------
 
-Sat-Sun: Lake Pepius, Estonia
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/388038465148286/
+.. __: http://flattrackstats.com/tournaments/110113
+
+
+`Margaret River Roller Derby`_ (link to Facebook as we can't find an active website or social media off Facebook) hosts the 3rd round of the Western Australia-wide BOOM State Clash tournament. This is the first time ever that Margaret River has hosted the event, so it's an exciting weekend!
+
+.. _Margaret River Roller Derby: https://www.facebook.com/margaretriverrollerderby/
+
+- Cabernet Savages (Margaret River) versus Perth Roller Derby Bs
+- Dread Pirate Rollers (Kwinana) versus Albany Roller Derby League
+- Sin City Rollers (Geraldton) versus WA Roller Derby B
+- Albany Roller Derby League versus Perth Roller Derby Bs
+- Cabernet Savages (Margaret River) versus Bunbury Roller Derby
+- Sin City Rollers (Geraldton) versus Dread Pirate Rollers (Kwinana)
+- Perth Roller Derby Bs versus WA Roller Derby B
+- Potluck Open-To-All genders game
+
+Event starts: 0930 am (Saturday)
+
+Venue: Margaret River Recreation Centre, 51 Wallcliffe Road, Margaret River, WA, Australia
+
+Fri-Sun: Mustvee, Estonia
 --------------------------------
 
 `[FACEBOOK LINK]`__
 
 .. __: https://www.facebook.com/events/350944845561715/
 
-`Tartu Roller Derby`_ and `Tallinn Roller Girls`_, as part of the Estonian Roller Derby body, `Eesti Roller Derby Liit`_, host their Pepius Bootcamp, a three-day intensive Roller Derby bootcamp on the shores of Lake Pepius (on the Estonia/Russia border).
+`Tartu Roller Derby`_ and `Tallinn Roller Girls`_, as part of the Estonian Roller Derby body, `Eesti Roller Derby Liit`_, host their Peipus Bootcamp, a three-day intensive Roller Derby bootcamp on the shores of Lake Peipus (on the Estonia/Russia border).
 
 .. _Tartu Roller Derby: https://www.instagram.com/tarturollerderby
 .. _Tallinn Roller Girls: https://www.instagram.com/tallinnrollergirls/
@@ -67,7 +112,7 @@ Sat-Sun: Lake Pepius, Estonia
 
 Event starts: 1700 Friday
 
-Venue: Mustvee spordihoone Narva 24, Mustvee Linn, Estonia.
+Venue: Mustvee spordihoone Narva 24, Mustvee, Estonia.
 
 Sat: Prague, Czech Republic
 --------------------------------
@@ -90,7 +135,26 @@ Event starts: 1400 Saturday
 
 Venue: Koněvova 910/61, Prague, Czech Republic
 
-Sat-Sun: Basel, Switzerland
+Sat: Essen, Germany
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/2364314803850551/
+
+`Ruhrpott Roller Derby`_ celebrate their 10th birthday with a double-header of exciting scrimmage, followed by an evening roller disco.
+
+.. _Ruhrpott Roller Derby: https://www.ruhrpottrollerderby.de/
+
+- Ruhrpott All-Stars versus Friends (WFTDA-gender open subs team)
+- Dark Forces versus Rainbow Warriors (Open To All gender open subs teams)
+
+Event starts: 1400 Saturday (first bout)
+
+Venue: Wohnbau Hockey Arena, Raumerstraße 51, Essen, Germany
+
+
+Sat: Basel, Switzerland
 --------------------------------
 
 `[FACEBOOK LINK]`__
@@ -124,8 +188,6 @@ Event starts: 1500 Sunday
 
 Venue: Craigswood Sports Centre, Craigswood, Livingston, Scotland
 
-
-
 Sun: Oldham, UK
 --------------------------------
 
@@ -147,8 +209,6 @@ Sun: Oldham, UK
 Event starts: 11am Sunday
 
 Venue: The Thunderdome, 51-53 King St 1st Floor, Oldham, UK
-
-
 
 Sun: Crewe, UK
 --------------------------------
@@ -173,18 +233,18 @@ Event starts: 1000 Sunday
 Venue: Sir William Stanier School, Coronation Street, CW1 4EB Crewe
 
 
-
-
-
 Sat: Buenos Aires, Argentina
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
 
 .. __: https://www.facebook.com/events/337375733597358/
 .. __:
-
+.. __: http://flattrackstats.com/bouts/110945/overview
+.. __:
 
 `Wonderclan Roller Derby`_ host a triple-bout, three games and six teams in one day.
 
