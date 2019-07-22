@@ -12,6 +12,9 @@ Roller Derby in China, and Asia in general (outside of Japan) has always been a 
 
 So, it was particularly exciting to hear that Beijing Roller Derby was hosting a 1-day multi-discipline bootcamp over the Dragon Boat Festival Weekend (8 June) this year.
 
+.. image: /images/2019/07/Beijingbootcamplogo.jpg
+  :alt: Flyer logo for the Beijing Dragon Bootcamp event.
+
 We talked to a few of the attendees for feedback on the event, which included everything from Skate maintenance and "what is Roller Derby", all the way through drills, communication skills, and a final modified-Short Track rules scrimmage.
 
 Read on for more:
