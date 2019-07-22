@@ -6,7 +6,7 @@
 .. link:
 .. description:
 .. type: text
-.. author: aoanla
+.. author: aoanla 
 
 Last year, as part of our `series`_ on National Tournaments around the World, we brought you up to date with `Chile`_'s Championships, the Torneo X.
 
