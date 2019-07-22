@@ -8,7 +8,7 @@
 .. type: text
 .. author: aoanla
 
-
+This is another single-update for the entire weekend - but that doesn't mean it's not exciting! We have a lot of derby happening across the world, including a three-day bootcamp in Estonia (covering WFTDA, Roller Derby Sevens and Short Track), and even more variant games in Australia, as South Sea Roller Derby host another Rainbow Lightning tournament (which is a ruleset we'd love to see people try in Europe sometime).
 
 The rules are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
@@ -28,6 +28,25 @@ Locations are roughly organised East-West (with things before the weekend out se
 
 
 .
+Sun: Carrum Downs, VIC, Australia
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/621203458290406/
+
+`South Sea Roller Derby`_ hosts the return of their variant short-format-but-also-endurance ruleset, Rainbow Lightning, for an evening of derby.
+Rainbow Lightning has 1 jam per game... but that jam is *10 minutes long*, with no call-offs possible. Skaters can sub in and out during each jam, when they pass the team bench (but new jammers need to get a new initial pass before scoring again) - but there are only 8 skaters per team, so you need to pace your substitutions.
+
+.. _South Sea Roller Derby: http://www.southsearollerderby.com/
+
+- 8 team tournament (round robin?)
+
+Event starts: 1800 Sunday
+
+Venue: Sk8house, 3/2 Amayla Cres, Carrum Downs, Victoria, Australia
+
+
 Sat-Sun: Lake Pepius, Estonia
 --------------------------------
 
@@ -87,6 +106,25 @@ This is intended to help everyone - skaters, NSOs and Referees - try new things 
 Event starts: 1530 Saturday (doors open to skaters/officials)
 
 Venue: Rollschuhsporthalle Basel. Nidwaldnerstrasse 20, Basel, Switzerland
+
+Sun: Livingston, Scotland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/2556487911049823/
+
+
+`New Town Roller Derby`_ are hosting an Open-To-All genders Charity LGBT Scrimmage, in support of West Lothian Pride (of which
+NTRD are also sponsors this year). All donations are going to an LGBT charity to be announced.
+
+.. _New Town Roller Derby: https://www.instagram.com/newtownrollerderby/
+
+Event starts: 1500 Sunday
+
+Venue: Craigswood Sports Centre, Craigswood, Livingston, Scotland
+
+
 
 Sun: Oldham, UK
 --------------------------------
