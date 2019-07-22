@@ -10,6 +10,8 @@
 
 This is another single-update for the entire weekend - but that doesn't mean it's not exciting! We have a lot of derby happening across the world, including a three-day bootcamp in Estonia (covering WFTDA, Roller Derby Sevens and Short Track), and even more variant games in Australia, as South Sea Roller Derby host another Rainbow Lightning tournament (which is a ruleset we'd love to see people try in Europe sometime).
 
+In Scotland, New Town Roller Derby host a Charity LGBT scrimmage, to support West Lothian Pride. 
+
 The rules are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
 Other notability might also allow the extra event - great posters, notable teams, etc. (League birthdays may count as "special" enough, at our discretion ;) )
@@ -242,15 +244,15 @@ Sat: Buenos Aires, Argentina
 `[FTS LINK 3]`__
 
 .. __: https://www.facebook.com/events/337375733597358/
-.. __:
+.. __: http://flattrackstats.com/bouts/110950/overview
 .. __: http://flattrackstats.com/bouts/110945/overview
-.. __:
+.. __: http://flattrackstats.com/bouts/110947/overview
 
-`Wonderclan Roller Derby`_ host a triple-bout, three games and six teams in one day.
+`Wonderclan Roller Derby`_ host a triple-bout, three games and six teams in one day, in one of the bigger events this weekend. The newly-formed AGEC Roller Derby, based in Córdoba, and the relatively new collaborative effort, Fussion Derby Club, both compete in bouts, making this an exciting tournament.
 
 .. _Wonderclan Roller Derby: https://www.instagram.com/wonderclanrd/
 
-- Bastardas Roller Derby Tigre (Buenos Aires Norte W) versus Fussion Derby Club (pseudo-exhibition team with skaters from across Argentina)
+- Bastardas Roller Derby Tigre (Buenos Aires Norte W) versus Fussion Derby Club (pseudo-exhibition team with skaters from the Argentine coast)
 - Facones Galácticos (Buenos Aires Norte M) versus Inka RD (Buenosa Aires O)
 - Wonderclan (Buenosa Aires Norte W) versus AGEC (Córdoba)
 
