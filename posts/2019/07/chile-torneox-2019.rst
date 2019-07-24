@@ -1,12 +1,12 @@
 .. title: Chilean National Championships 2019
 .. slug: chile2019
-.. date: 2019-07-04 11:00:00 UTC+01:00
+.. date: 2019-07-24 12:30:00 UTC+01:00
 .. tags: tournaments, national tournaments, chilean roller derby
 .. category:
 .. link:
 .. description:
 .. type: text
-.. author: aoanla 
+.. author: aoanla
 
 Last year, as part of our `series`_ on National Tournaments around the World, we brought you up to date with `Chile`_'s Championships, the Torneo X.
 
@@ -40,7 +40,9 @@ The full list of competitors for this season's tournament is:
 - Deskarriadas (Osorno)
 - Diosas Volcánicas (Puerto Montt)
 
-This is mostly the same as last year, with only Temuco having no representation this time. (Adrenaline Roller Derby, listed by us in our 2018 article, rebranded to Furias before the actual 2018 final, so there's actually no change there.)
+This is mostly the same as last year, with only Temuco having no representation this time. (Adrenaline Roller Derby, listed by us in our 2018 article, rebranded to Furias before the actual 2018 final, so there's actually no change there, other than the name itself.)
+
+The Chilean community has recently kicked itself into higher gear in anticipation of the Torneo X, with, for example, Roller derby Valdivia recently scheduling fundraisers. However, the past few months have seen a consistent level of competition with Deskarriadas, Indomitas, and Diosas Volcanicas particularly active. Unfortunately, most of those scores were not made public, so it's hard to track actual performance levels.
 
 In 2018, the tournament's final rankings were:
 
@@ -64,3 +66,6 @@ Fixtures are confirmed as:
 - 7-8 September - Viña del mar (host: Tacones Bandidos)
 - 3-5 October - Chillán (host: Chillanrolleras)
 - 9-10 November - Santiago (host: Metropolitan)
+
+although, at present, there are no Facebook Events or other public information concerning them.
+We'll bring you updates when we know more!
