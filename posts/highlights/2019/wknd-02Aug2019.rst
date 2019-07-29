@@ -1,13 +1,14 @@
 .. title: Weekend Highlights: 03 August 2019
 .. slug: weekendhighlights-03082019
 .. date: 2019-07-30 19:00 UTC+01:00
-.. tags: weekend highlights, short track roller derby, german roller derby, national tournaments, new zealand roller derby, british roller derby, mrda, mrda european qualifiers, scottish roller derby, australian roller derby, french roller derby, ecuadorian roller derby, argentine roller derby, mexican roller derby, south african roller derby, boudicca cup,
+.. tags: weekend highlights, short track roller derby, german roller derby, national tournaments, new zealand roller derby, british roller derby, mrda, mrda european qualifiers, scottish roller derby, australian roller derby, french roller derby, ecuadorian roller derby, argentine roller derby, mexican roller derby, south african roller derby, boudicca cup, chilean roller derby, torneo x roller derby
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: aoanla
 
+This is another "all weekend in one update" set of highlights, although there are several exciting events this weekend: the first fixture of the Chilean national tournament, the Torneo X, in Valdivia; the MRDA Men's European Qualifiers in Aberdeen; and Argentina meet Uruguay in Buenos Aires, for one of Tempestad Roller Derby's first games (plus raising funds for 2x4 to attend in WFTDA Playoffs).
 
 The rules are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
@@ -19,7 +20,7 @@ get themselves an actual webpage [we can help host one if you need help]).
 
 Locations are roughly organised East-West (with things before the weekend out sequence at the start).
 
-.. image:: /images/2019/07/02Aug-wkly-map.png
+.. image:: /images/2019/07/03Aug-wkly-map.png
   :alt: Map of all events (coded by type)
   :width: 100 %
 
@@ -269,6 +270,38 @@ Sat: Quito, Ecuador
 Event starts: 0900 Saturday
 
 Venue: Cumandá Parque Urbano, Avenue 24 de Mayo, Quito, Ecuador
+
+
+
+Sat-Sun: Valdivia, Chile
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/410933159769170/
+.. __: http://www.flattrackstats.com/tournaments/111044/overview
+
+
+`Roller Derby Valdivia`_ host the first fixtures of the Torneo X Roller Derby, Chile's National Roller Derby tournament, this year.
+With those games on the Sunday, there's a special bout on the Saturday, as Team Chile Roller Derby take on The World. (We wrote a little about this tournament `here`_)
+
+.. _Roller Derby Valdivia: https://www.instagram.com/rollerderbyvaldivia/
+
+.. _here: https://www.scottishrollerderbyblog.com/posts/2019/07/chile2019/
+
+- Saturday:
+
+  - Team Chile versus The World (mixed sub team)
+
+- Sunday:
+
+  - Bayonetas (Santiago B) versus Deskarriadas (Osorno)
+  - Indómitas (Valdivia) versus Tacones Bandidos (Viña del Mar)
+
+Event starts: Escuela Angachilla, Av. René Schneider 3770, Valdivia, Chile
+
+Venue: 1600 Saturday, and 1000 Sunday
 
 
 Sat: Morelia, Michoacan, Mexico
