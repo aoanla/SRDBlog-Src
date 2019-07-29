@@ -51,6 +51,9 @@ Auld Reekie's All-Star Reserves have also been busy in British Champs Tier 1 Nor
 
 The hosts, Glasgow, are the other team not to have played in British Champs this year, although they've managed a fairly busy schedule despite that (and against mostly teams from the other end of the country!). In fact, Kent and Glasgow both played London Rockin' Rollers as their most recent opponents, and both won (Kent by a larger margin, but also longer ago). Glasgow are undefeated this year, although their closest game was a mere *4 point* win against the Dolly Rockit Rollers of Leicestershire back in late April! These successes, especially against Royal Windsor, have pushed their WFTDA and FTS Global ratings up in the last 6 months, and the hosts will be hoping the trend continues at Chaos 2...
 
+.. image:: /images/2019/07/ChaosClyde2map.png
+  :alt: Map of the UK, showing the 4 teams at Chaos on the Clyde 2, and their logos.
+
 .. list-table:: FTS Global ratings (26 July)
   :header-rows: 1
 
@@ -68,10 +71,13 @@ The hosts, Glasgow, are the other team not to have played in British Champs this
 Kent and Liverpool, whilst being WFTDA-member leagues, have not played enough Sanctioned games to be rated by WFTDA yet; and Auld Reekie Reserves, as a B-team, is incapable of being WFTDA-rated, so the FTS Global rating is the only active rating capable of making predictions for this tournament.
 The ratings are only half the story - looking at the trajectories for the team ratings, both Kent and Liverpool show strong upward movement in their estimated performance, and we'd not be surprised if one or both managed upsets relative to their expected placement.
 
+Whatever happens, we're promised that it won't be another 5 years before Chaos returns to the Clyde, with Glasgow Roller Derby confirming that they intend this to be an annual event from this point on.
 
-Chaos on the Clyde 2 will take place
+=====
 
-August 17 - 18
-starting at 10am on the Saturday.
+**Chaos on the Clyde 2** will take place
 
-At the ARC Health and Fitness, Glasgow Caledonian University.
+**August 17 - 18**
+starting at **10am** on the Saturday.
+
+At the **ARC Health and Fitness**, Glasgow Caledonian University.
