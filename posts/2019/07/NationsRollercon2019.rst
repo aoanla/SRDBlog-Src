@@ -11,12 +11,12 @@
 For the last few years, the Nations Tournament has become a fixture of Rollercon, after its founding in 20xx
 
 This year was a particularly important point in the tournament's history, as two borderless nations - Team Indigenous Rising, and the new Jewish Roller Derby - competed in the tournament, and even played each other.
-
+Voice
 The Nations tournament is run as an efficient double-elimination bracket, with seedings voted on by the competing teams. This means that each team can lose once in the tournament - that loss knocking them out of the "winners" bracket, and into a sudden-death bracket against other teams with a single loss. The eventual survivor of that sudden death bracket, having proven themselves the best of the teams, other than sole unbeaten team, gets to play in the final against that undefeated remainder.
 
 Indigenous versus Japan-fam 99-33
 
-Korea versus Philippines
+Korea versus Philippines 68-66
 
 Canada versus Indigenous 168-64
 
