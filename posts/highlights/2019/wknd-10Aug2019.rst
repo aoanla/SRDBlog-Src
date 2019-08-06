@@ -17,6 +17,8 @@ The rules are, as usual: highlights limited to 1 event per country, with an "ext
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
 Other notability might also allow the extra event - great posters, notable teams, etc. (League birthdays may count as "special" enough, at our discretion ;) )
 
+We've bent the rules a bit this time, because it's important to highlight derby in regions which need more attention, and because it's quiet enough that we have the space.
+
 In a bid to make this list as useful as possible, we've avoided links to Facebook except where noted.
 (Links to Teams are to non-Facebook resources - Instagram, or actual team pages - we'd strongly recommend that Teams
 get themselves an actual webpage [we can help host one if you need help]).
@@ -29,14 +31,46 @@ Locations are roughly organised East-West (with things before the weekend out se
 
 .. TEASER_END
 
+Sat-Sun: Queanbeyan, NSW, Australia
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
+`[FTS LINK 4]`__
+`[FTS LINK 5]`__
+`[FTS LINK 6]`__
+
+.. __: https://www.facebook.com/events/2432150777071734/
+.. __: http://flattrackstats.com/bouts/110526/overview
+.. __: http://flattrackstats.com/bouts/110527/overview
+.. __: http://flattrackstats.com/bouts/110528/overview
+.. __: http://flattrackstats.com/bouts/110529/overview
+.. __: http://flattrackstats.com/bouts/110530/overview
+.. __: http://flattrackstats.com/bouts/110531/overview
+
+`Varsity Derby League`_ host a two-day derby extravaganza, 6 games across 5 leagues, WFTDA-gender, MRDA-gender and OTA-gender teams!
+
+.. _Varsity Derby League: http://varsityderbyleague.com/
+
+- Varsity Derby League (Canberra) versus South Sea Roller Derby (Melbourne)
+- Capital Carnage (Canberra M) versus Sydney City SMASH (Sydney M)
+- Smackademics (Canberra O) versus CRASH (NSW+ACT O)
+- South Sea Roller Derby versus Sydney Assassins (Sydney Roller Derby A)
+- Varsity Derby League versus Sydney Assassins
+- Smackademics versus Sydney City SMASH
+
+Event starts: 1730 Saturday
+
+Venue: QPRC Indoor Sports, 1 Yass Road, Queanbeyan, New South Wales
+
 Sat: Hobart, TAS, Australia
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/2255024231425921/
-.. __:
 
 
 `Convict City Roller Derby League`_ host "TAS versus Aus", a day-long tournament of both WFTDA-gender policy and Open To All policy bouts,
@@ -51,9 +85,29 @@ featuring teams from Tasmania, and visitors from the Australian mainland.
 - Gender Ending Story versus Orange Thunder
 - Gender Ending Story versus Geelong Roller Derby League
 
+*Currently not listed in FTS, as it cannot rate some of these teams*
+
 Event starts: 0900 Saturday (doors open)
 
 Venue: Kingborough Sports Centre, Hobart, TAS, Australia
+
+Sat: Marrara, NT, Australia
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/2366376223456598/
+
+`Darwin Roller Girls`_ host the start of their home teams season. To increase affordability, Darwin's home teams games this season are entry by donation, pay what you can afford.
+
+.. _Darwin Roller Girls: https://www.darwinrollergirls.com.au/
+
+- Arafuries versus Psyclones (Darwin Home teams)
+
+Event starts: 1800 Saturday (doors open)
+
+Venue: Marrara Indoor Stadium, Abala Rd, Marrara, NT, Australia
+
 
 Sat-Sun: Malmö, Sweden
 --------------------------------
