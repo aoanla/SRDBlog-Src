@@ -13,7 +13,7 @@ The rules are, as usual: highlights limited to 1 event per country, with an "ext
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
 Other notability might also allow the extra event - great posters, notable teams, etc. (League birthdays may count as "special" enough, at our discretion ;) )
 
-We've bent the rules a bit this time, because it's important to highlight derby in regions which need more attention, and because it's quiet enough that we have the space.
+We've bent the rules a bit this time, because it's important to highlight derby in regions which need more attention, and because it's quiet enough that we have the space. In this case, there's three Argentine events, because we really want to highlight how much exciting stuff is happening in Latin America right now.
 
 In a bid to make this list as useful as possible, we've avoided links to Facebook except where noted.
 (Links to Teams are to non-Facebook resources - Instagram, or actual team pages - we'd strongly recommend that Teams
@@ -46,6 +46,24 @@ Sat: Mirrabooka, WA, Australia
 Event starts: 1830 Saturday (doors open)
 
 Venue: 38 Ashbury Crescent, Mirrabooka, WA, Australia
+
+Sat: Abu Dhabi, UAE & Dubai, UAE
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/646164669220379/
+
+
+`UAE Roller Derby All-Stars`_ and Chicks in Bowls UAE collaborate on a "dual location" pre-season fun skate. Skaters in both Dubai and Abu Dhabi are invited to have come have fun skating outdoors, to bring in the pre-season for the UAE team.
+
+.. _UAE Roller Derby All-Stars:
+
+Event starts: 1900 Saturday
+
+Venue: "Downtown Dubai" & Corniche, Abu Dhabi
+
+
 
 Sat-Sun: Oldham, UK
 --------------------------------
@@ -119,14 +137,39 @@ Event starts: 1100 Sunday
 
 Venue: Club River Plate Mar Del Plata, 7600 Mar del Plata, Argentina
 
+Mon: La Plata, Buenos Aires, Argentina
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/572974083268743/
+.. __: http://flattrackstats.com/tournaments/111125/overview
+
+
+`Chat Noir`_ host a "quadrangular" tournament, a round-robin with 4 Buenos Aires based teams, for 6 games in one day, if we read this correctly.
+
+.. _Chat Noir: https://www.instagram.com/chatnoir.rd/
+
+- Teams:
+
+  - Chat Noir (La Plata)
+  - Desalmadas (Avellaneda)
+  - Rebel West (Castelar)
+  - Warriors
+
+Event starts: 1200 Monday
+
+Venue: 135 69 Y 70 Club Estrella del Sur, La Plata, Buenos Aires, Argentina
+
 Sat-Sun: Mendoza, Argentina
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__ 
+`[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/459835138168462/
-.. __:
+.. __: http://flattrackstats.com/tournaments/111119
 
 
 The `SarcastiCats`_ host an equally important event to Argentine derby, at the other side of the country entirely. Gatoreno 2019 is the league's first ever tournament, bringing together teams from both Argentina and Chile for an international event! This event will be reported on live by Argentina's own Derby news network, `5 Segundos`_ , and will also include an Officating Clinic on the Saturday, run by THNSO and HSNOs Makia and Sector.
@@ -137,10 +180,11 @@ The `SarcastiCats`_ host an equally important event to Argentine derby, at the o
 - Teams:
 
   - SarcastiCats (Mendoza)
-  - Atomic Bombs ( )
-  - Barderas Insurrectas ( )
-  - Hienas de la Calle ()
-  - Mandragoras ( )
+  - Atomic Bombs (Lanús)
+  - Barderas Insurrectas (Neuquen)
+  - Compass Rose Roller Derby (pan-Argentina)
+  - Hienas de la Calle (Neuquen)
+  - Mandragoras (General Roca)
   - Furias Roller Derby (Santiago, Chile)
   - Tacones Bandidos (Viña del Mar, Chile)
 
@@ -151,10 +195,7 @@ Venue: Escuela Capitan Manzotti, 5539 Las Heras, Mendoza, Argentina
 
 https://www.facebook.com/events/380308262620507/ ?
 https://www.facebook.com/events/351174598881042/ ?
-https://www.facebook.com/events/459835138168462/?event_time_id=459835144835128
-https://www.facebook.com/events/2308608439388945/
-https://www.facebook.com/events/646164669220379/
-https://www.facebook.com/events/572974083268743/
+
 
 
 =======
