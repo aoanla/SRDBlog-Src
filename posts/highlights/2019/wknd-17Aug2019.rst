@@ -181,9 +181,9 @@ The `SarcastiCats`_ host an equally important event to Argentine derby, at the o
 
   - SarcastiCats (Mendoza)
   - Atomic Bombs (Lanús)
-  - Barderas Insurrectas (Neuquen)
+  - Barderas Insurrectas (Neuquén)
   - Compass Rose Roller Derby (pan-Argentina)
-  - Hienas de la Calle (Neuquen)
+  - Hienas de la Calle (Neuquén)
   - Mandragoras (General Roca)
   - Furias Roller Derby (Santiago, Chile)
   - Tacones Bandidos (Viña del Mar, Chile)
