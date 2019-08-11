@@ -25,17 +25,97 @@ Locations are roughly organised East-West (with things before the weekend out se
   :width: 100 %
 
 .. TEASER_END
-https://www.facebook.com/events/833087620399652/
-https://www.facebook.com/events/2813390715355657/
-https://www.facebook.com/events/564675523937689/
-https://www.facebook.com/events/632983550520778/
+
 https://www.facebook.com/events/2265180403593581/
 https://www.facebook.com/events/362311994374289/
 https://www.facebook.com/events/352357925353894/
 https://www.facebook.com/events/2577267649166949/ ?
 https://www.facebook.com/events/399590877322065/ ?
 https://www.facebook.com/events/353713928617048/
+Unannounced Dark Side Roller Derby versus Demons on the Track Costa Rica bout
 
+Sat-Sun: Malmö, Sweden
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/564675523937689/
+.. __:
+
+
+`Crime City Rollers`_ host a very exciting event, as they play Stockholm's finest at home.
+
+.. _Crime City Rollers: http://crimecityrollers.com/
+
+- Crime City Rollers (Malmö) versus Stockholm Roller Derby All-Stars
+
+Event starts: 1430 Saturday (doors open)
+
+Venue: Kopparbergsgatan 8, Malmö, Sweden
+
+
+Sat: Calais, France
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/2813390715355657/
+
+`Roller Derby Calaisis`_ host a Roller Derby Sevens tournament, for 5 teams
+
+.. _Roller Derby Calaisis: http://rollerderbycalaisis.fr/
+
+- Teams?
+
+Event starts: 1300 Saturday (first whistle)
+
+Venue: Calais Beach, Digue Gaston Berthe, Calais, France
+
+Sun-Sun: Bordeaux, France
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/833087620399652/
+
+
+`Roller Derby Bordeaux Club`_ host the 2019 edition of their week long bootcamp / social away camp at the Beach. A deliberately relaxed schedule stretches practice and scrimmage across the days, giving ample time for socialisation and relaxation.
+
+.. _Roller Derby Bordeaux Club: http://rollerderbybordeaux.fr/site/
+
+Event starts: 1000 Sunday
+
+Venue: Roller Derby Bordeaux club
+87 quai des Queyries, Bordeaux, France
+
+Sat-Sun: Cuauhtémoc, Mexico City, Mexico
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/632983550520778/
+.. __: http://www.flattrackstats.com/tournaments/110983
+
+
+`Mexico City Roller Derby`_ and the Asociacion Mexicana de Roller Derby host the 2nd Division 1 Playoffs of this year's Mexican National Tournamenet Series. We've written more about this year's series in our `intro article here`__.
+
+.. _Mexico City Roller Derby: https://www.instagram.com/mexicocityrollerderby/
+.. __: https://www.scottishrollerderbyblog.com/posts/2019/07/mexico2019/
+
+- Teams:
+
+  - MCRD - CDMX
+  - Quimeras - CDMX
+  - Minervas - Guadalajara
+  - Rock city - Querétaro
+  - Aguamalas - Baja California
+  - Ovejas Negras - Morelia
+
+Event starts:
+
+Venue: Rep. de Honduras Esq. Comonfort Col. Centro, Cuauhtémoc, Mexico City, Mexico
 
 =======
 
