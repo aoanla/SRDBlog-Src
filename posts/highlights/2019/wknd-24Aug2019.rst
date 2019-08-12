@@ -26,9 +26,6 @@ Locations are roughly organised East-West (with things before the weekend out se
 
 .. TEASER_END
 
-https://www.facebook.com/events/362311994374289/  <-- Krustfest
-https://www.facebook.com/events/399590877322065/ ?
-
 
 Sat: Christchurch, NZ
 --------------------------------
@@ -53,7 +50,7 @@ Sat: Wauchope, NSW, Australia
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/399590877322065/
-.. __:
+.. __: http://www.flattrackstats.com/bouts/111181/overview
 
 
 `Port Macquarie Roller Derby`_ host a double header, with the main event being their regular rematch against Outcast Roller Derby.
@@ -94,12 +91,12 @@ Sat: Marburg, Germany
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/2265180403593581/
-.. __:
+.. __: http://www.flattrackstats.com/bouts/111182/overview
 
 
 `Marburg's Splatter Fairies`_ host an exciting double header of German derby.
 
-.. _Marburg's Splatter Fairies:
+.. _Marburg's Splatter Fairies: https://www.instagram.com/splatter.fairies/
 
 - Splatter Fairies (Marburg) versus Starlight Excess (Berlin)
 - Roller Grrrl Gang (Frankfurt) versus Team Wundertüte ("mixed lucky dip team")
@@ -158,6 +155,37 @@ Event starts: 1000 Sunday
 Venue: Roller Derby Bordeaux club
 87 quai des Queyries, Bordeaux, France
 
+Sat: Glasgow, Scotland
+--------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/362311994374289/
+
+`name`_ host the return of Krustfest: a 8 team Roller Derby Sevens tournament, raising funds for against Cancer. This year, the Open-To-All gender teams are all named on the themes of Films and Movies. Teams play two groups of 4, with the winners of each group playing in a final to close the day.
+
+.. _name:
+
+- Teams (Group A)
+
+  - Pack to the Future
+  - The Silence of the Jams
+  - My Skater Totoro
+  - Anti-Clockwise Orange
+
+- (Group B)
+
+  - Blocky Horror Picture Show
+  - Hurl Scouts
+  - Hitty Hitty Bang Bang
+  - Pivot in Pink
+
+  
+Event starts: 0900 Saturday
+
+Venue: The ARC: Health & Fitness, Glasgow Caledonian University, Glasgow, Scotland
+
+
 Sat-Sun: Cwmbran, Wales, UK
 --------------------------------
 
@@ -190,7 +218,6 @@ Sat-Sun: San José, Costa Rica
 --------------------------------
 
 `[FACEBOOK LINK (flyer)]`__
-`[FTS LINK]`__
 
 .. __: https://www.facebook.com/darksiderollerderby/photos/a.422820884559476/1285840228257533/?type=3
 
@@ -252,7 +279,7 @@ Fri-Sun: Mannheim, PA, USA
 
 `Dutchland Derby Rollers`_ host the second WFTDA Continental Cup this post-season, the "Eastbound Throwdown", of interest to us due to the attendance of **Sailor City Rollers**, representing Buenos Aires (and, by extension, Argentina).
 
-.. _Dutchland Derby Rollers:
+.. _Dutchland Derby Rollers: http://www.dutchlandrollers.com/
 
 - Teams:
 
