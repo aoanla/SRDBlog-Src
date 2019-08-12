@@ -1,13 +1,14 @@
 .. title: Weekend Highlights: 17 August 2019
 .. slug: weekendhighlights-17082019
-.. date: 2019-08-12 20:50:00 UTC+01:00
-.. tags: weekend highlights,
+.. date: 2019-08-12 10:30:00 UTC+01:00
+.. tags: weekend highlights, scottish roller derby, australian roller derby, statewide stampede, emirates roller derby, french roller derby, argentine roller derby, national tournaments,
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: aoanla
 
+The big highlight for this week in Scotland is obviously the return of Chaos on the Clyde in Glasgow; but we'd also like to call out Mendoza's first big (international) tournament, Gatorneo.
 
 The rules are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
@@ -26,6 +27,35 @@ Locations are roughly organised East-West (with things before the weekend out se
   :width: 100 %
 
 .. TEASER_END
+Sat-Sun: Daylesford, VIC, Australia
+--------------------------------
+
+`[FACEBOOK LINK]`__
+`[FTS LINK]`__
+
+.. __: https://www.facebook.com/events/1938321169568162/
+.. __: http://www.flattrackstats.com/tournaments/108677
+
+
+`Ballarat Roller Derby Club`_ host the 6th and 7th rounds of the StateWide Stampede, Victoria's
+annual state-tournament.
+
+.. _Ballarat Roller Derby Club: https://www.ballaratrollerderby.com.au/
+
+- Ballarat Roller Derby versus Dragon City Roller Derby (Bendigo)
+- Diamond Valley Roller Derby Club (NE Melbourne)/Otway Derby Dolls versus Team Regional Victoria ("The Rolling Matildas")
+- Low contact scrimmage
+- West-Side Derby Dollz (West Melbourne) vs East Vic Roller Derby (East Melbourne)
+- South Sea Roller Derby (SE Melbourne) vs North East Roller Derby (Oxley)
+- Team Regional Victoria vs East Vic Roller Derby
+- South Sea Roller Derby vs Dragon City Roller Derby
+- NERD vs Diamond Valley Roller Derby Club/Otway Derby Dolls
+- Ballarat Roller Derby vs West-Side Derby Dolls
+
+Event starts: 0900 Saturday
+
+Venue: The ARC Daylesford, 29-39 Smith St, Daylesford, VIC, Australia
+
 
 Sat: Mirrabooka, WA, Australia
 --------------------------------
@@ -57,13 +87,24 @@ Sat: Abu Dhabi, UAE & Dubai, UAE
 
 `UAE Roller Derby All-Stars`_ and Chicks in Bowls UAE collaborate on a "dual location" pre-season fun skate. Skaters in both Dubai and Abu Dhabi are invited to have come have fun skating outdoors, to bring in the pre-season for the UAE team.
 
-.. _UAE Roller Derby All-Stars:
+.. _UAE Roller Derby All-Stars: https://www.instagram.com/uaerollerderby/
 
 Event starts: 1900 Saturday
 
 Venue: "Downtown Dubai" & Corniche, Abu Dhabi
 
+Sun: Paris, France
+--------------------------------
 
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/events/486547068799745/
+
+The Parisien roller derby community is coming together for a Summer "interleague picnic" (also open to non-Parisien skaters who happen to be in Paris...)
+
+Event starts: 1600 Sunday
+
+Venue: Contact event organisers via Facebook event for more information.
 
 Sat-Sun: Oldham, UK
 --------------------------------
@@ -72,7 +113,7 @@ Sat-Sun: Oldham, UK
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/2308608439388945/
-.. __:
+.. __: http://www.flattrackstats.com/node/110841
 
 
 `Rainy City Roller Derby`_ host an exciting event for the second time in 2 weeks, with games on Saturday and Sunday.
@@ -99,7 +140,7 @@ Sat-Sun: Glasgow, Scotland
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/854543498244493/
-.. __:
+.. __: http://www.flattrackstats.com/tournaments/111135/overview
 
 
 `Glasgow Roller Derby`_ host the return of their post-season tournament, Chaos on the Clyde. We have a more detailed article on this `here`__ . Day tickets for this event are priced on a sliding scale, based on what the attendee can afford, as a community-positive inclusivity policy. We believe that this will be a full round-robin for 4 teams (6 games total, 3 on each day).
@@ -192,16 +233,6 @@ Event starts: 0900 Saturday
 
 Venue: Escuela Capitan Manzotti, 5539 Las Heras, Mendoza, Argentina
 
-
-https://www.facebook.com/events/380308262620507/ ?
-https://www.facebook.com/events/351174598881042/ ?
-
-
-
-=======
-
-Also of interest, due to their attendees:
-===========================================
 
 
 ..
