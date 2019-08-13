@@ -206,7 +206,7 @@ Event starts: 1200 Monday
 Venue: 135 69 Y 70 Club Estrella del Sur, La Plata, Buenos Aires, Argentina
 
 Sat-Sun: Caleta Olivia, Argentina
---------------------------------
+-----------------------------------
 
 `[FACEBOOK LINK (flyer)]`__
 
