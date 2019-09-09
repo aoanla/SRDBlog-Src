@@ -88,6 +88,11 @@ BLOG_DESCRIPTION = "The Scottish Roller Derby Blog: an international blog for Ro
 # (cf. the modules at nikola/data/themes/base/messages/).
 # If a specific post is not translated to a language, then the version
 # in the default language will be shown instead.
+#
+## SCS
+# add 
+# fur       Friulan (interface uses italian)
+
 
 # What is the default language?
 DEFAULT_LANG = "en"
@@ -98,6 +103,8 @@ DEFAULT_LANG = "en"
 TRANSLATIONS = {
     DEFAULT_LANG: "",
 	"de": "de/",
+#        "it": "it/",
+#        "fur": "fur/",
 }
 
 # What will translated input files be named like?
