@@ -1,14 +1,14 @@
 .. title: Weekend Highlights: 15 September 2019 (Sunday)
 .. slug: weekendhighlights-15092019
 .. date: 2019-09-11 14:30:00 UTC+01:00
-.. tags: weekend highlights, argentine roller derby, finnish roller derby, nso clinic, national teams, power of scotland, scottish roller derby, australian roller derby, b team champs, british roller derby, fundraisers, open scrims, sunday addendum
+.. tags: weekend highlights, argentine roller derby, finnish roller derby, nso clinic, national teams, power of scotland, scottish roller derby, australian roller derby, b team champs, british roller derby, fundraisers, open scrims, sunday addendum, solvenian roller derby
 .. category:
 .. link:
 .. description:
 .. type: text
 .. author: aoanla
 
-This is the Sunday addendum of exciting highlights this weekend. We have a double dose of action in Argentina, with Indias Roller Derby of Quilmes, and recently Continental Cup winners, Sailor City Rollers both hosting multi-bout events! There's also excitement in Scotland, as the selection bout for Men's World Cup team, Power of Scotland is on in Dundee...
+This is the Sunday addendum of exciting highlights this weekend. We have a double dose of action in Argentina, with Indias Roller Derby of Quilmes, and recently Continental Cup winners, Sailor City Rollers both hosting multi-bout events! There's also excitement in Scotland, as the selection bout for Men's World Cup team, Power of Scotland is on in Dundee... and we have a Tuesday event in Slovenia as Roller Derby Ljuljana screen Whip it! for Pride!
 
 The rules are, as usual: highlights limited to 1 event per country, with an "extra" event allowed for a different kind of fixture
 (so, 1 tournament and 1 bootcamp), or if they involve Scottish leagues (since we are the *Scottish* Roller Derby Blog).
@@ -57,6 +57,23 @@ Sun: Turku, Finland
 Event starts: 1200 Sunday
 
 Venue: Ilpoisten Palloiluhalli, Lauklähteenkatu 13, Turku, Finland
+
+Tues: Ljubljana, Slovenia
+--------------------------------
+
+`[Initial Post on Facebook]`__
+`[FACEBOOK LINK (pending official event)]`__
+
+.. __: https://www.facebook.com/RollerDerbyLjubljana/photos/a.628146750528926/2700235949986652/?type=3
+.. __: pending
+
+`Roller Derby Ljubljana`_ are working with Ljubljana Pride to co-host an outreach event: a screening of the Slovenian dub of famous Roller Derby film, "Whip It!", followed by a discussion of how Roller Derby is portrayed in film and how it works in real life. (And then a chance to get to know Roller Derby Ljubljana themselves.)
+
+.. _Roller Derby Ljubljana: https://www.instagram.com/rollerderbyljubljana/
+
+Event starts: 1900 Tuesday
+
+Venue: Dunajska 10, Ljubljana, Slovenia
 
 Sun: Dundee, Scotland
 --------------------------------
