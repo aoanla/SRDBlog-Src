@@ -6,7 +6,7 @@
 .. link:
 .. description:
 .. type: text
-.. author: srd
+.. author: SRD
 
 We have another article tantalisingly close to publication, but whilst we wait for the final sign-offs, we'd like to take the time to remind everyone that we're open to article pitches from any person in roller derby, anywhere in the world, in any language (or languages).
 If you have something you want to say about Roller Derby, then we're happy to work with you to say it - as we have, for example, with Vendaval Roller Derby just this week. Vendaval contacted us to work on this article, and we thought that it was important enough to share.
