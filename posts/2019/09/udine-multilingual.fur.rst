@@ -8,7 +8,7 @@
 .. type: text
 .. author: SRD
 
-*We are happy to host this guest post from the Banshees of Roller Derby Udine. In the spirit of their project, this post is available in English, Italian and Friulan [click the language button at the left to pick a language]*
+*O sin contents di ospitâ chest post des Banshees Roller Derby Udine. Par mantignî il spirt dal lôr progjet, chest post al è disponibil par inglês, talian e furlan [o podês sielzi la lenghe tal menù che al è a çampe de imagjin]*
 
 
 Hi everybody!
