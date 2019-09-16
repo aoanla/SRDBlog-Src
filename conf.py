@@ -103,7 +103,7 @@ DEFAULT_LANG = "en"
 TRANSLATIONS = {
     DEFAULT_LANG: "",
 	"de": "de/",
-#        "it": "it/",
+        "it": "it/",
 #        "fur": "fur/",
 }
 
