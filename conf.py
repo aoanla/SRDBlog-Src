@@ -104,7 +104,7 @@ TRANSLATIONS = {
     DEFAULT_LANG: "",
 	"de": "de/",
         "it": "it/",
-#        "fur": "fur/",
+        "fur": "fur/",
 }
 
 # What will translated input files be named like?
