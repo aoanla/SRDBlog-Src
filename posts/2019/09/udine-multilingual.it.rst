@@ -8,7 +8,7 @@
 .. type: text
 .. author: SRD
 
-*Siamo felici di ospitare questo post dalle `Banshees Roller Derby Udine`__. Per mantenere lo spirito del loro progetto, questo post è disponibile in Inglese, Italiano e Friulano [potete scegliere la lingua dall'apposito menù a sinistra]*
+*Siamo felici di ospitare questo post dalle* `Banshees Roller Derby Udine`__ *. Per mantenere lo spirito del loro progetto, questo post è disponibile in Inglese, Italiano e Friulano [potete scegliere la lingua dall'apposito menù a sinistra]*
 
 .. __: https://www.instagram.com/bansheesrollerderby/
 
