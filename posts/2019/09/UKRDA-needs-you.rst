@@ -1,5 +1,5 @@
 .. title: UKRDA needs you
-.. slug: WeNeedYou
+.. slug: UKRDANeedYou2019
 .. date: 2019-09-22 20:00:00 UTC+01:00
 .. tags: roller derby, british roller derby, ukrda
 .. category:
