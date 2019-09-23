@@ -323,6 +323,8 @@ Sat: San Luis Potosí, Mexico
 Event starts: 1700 Saturday
 
 Venue: Patinódromo de alto rendimiento Inpode, Av Himno Nacional 4000, Issste, San Luis, S.L.P., Mexico
+
+
 ..
   Sat-Sun:
   --------------------------------
