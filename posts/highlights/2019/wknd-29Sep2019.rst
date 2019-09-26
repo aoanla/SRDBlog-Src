@@ -167,6 +167,8 @@ Sun: Puerto Río Gallegos, Santa Cruz, Argentina
 Event starts: 1830 Sunday (scrimmage)
 
 Venue: Polideportivo de Sindicado Petrotero y Gas Privado de Santa Cruz,  Puerto Río Gallegos, Santa Cruz, Argentina
+
+
 ..
   Sat-Sun:
   --------------------------------
