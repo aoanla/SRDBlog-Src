@@ -25,7 +25,7 @@ The 2018 Derby Stance was extremely successful, with attendees describing it wit
 The Derby Stance Online Coaching Summit is returning for 2019, and Rule 56 have continued to build on and improve on what has been before. As the name suggests, this is, once more, a virtual-only event.
 
 As with 2018's edition, individual "webinars" which make up the entire 3 day event, are separately bookable; you can buy tickets for just the sessions you're interested in. (If you're planning on attending a lot of the event, though, there's also whole-weekend tickets available, for a discount.).
-In a change from last year, these are organised into two types: "Seminars" (60 minute presentations, with time for questions) and "Workshops" (90 minute interactive sessionsm lead by the the session leader; these are limited to 20 attendees each).
+In a change from last year, these are organised into two types: *"Seminars"* (60 minute presentations, with time for questions) and *"Workshops"* (90 minute interactive sessions lead by the session leader; these are limited to *20* attendees each).
 (Regular attendees of EROC, the European Roller derby Organisational Conference, will recognise this division from there, where it is pretty effective at supporting different kinds of interaction.)
 
 But that's not all: just like a physical conference, the 2019 Derby Stance will have fringe and break-out events, organised as ad-hoc Facebook Live mini-streams. (Rule56 has already been trialing this with a series of "5 minutes with ..." events over the past year, and they work very well.)
@@ -84,7 +84,7 @@ Any Conference or Summit lives and dies by its roster of speakers, and this year
   - How to design optimal training plans for your Jammers. (Seminar)
   - Processes and Steps to designing best Practice, including footage analysis. (Workshop)
 
-In addition, Rule 56 will be chairing "Round Table" discussion sessions throughout the event, with topics decided dynamically as the Summit progresses; and the entire event will be introduced with a **WFTDA Keynote Presentation** the day before the Summit itself.
+In addition, Rule 56 will be chairing *"Round Table"* discussion sessions throughout the event, with topics decided dynamically as the Summit progresses; and the entire event will be introduced with a **WFTDA Keynote Presentation** the day before the Summit itself.
 
 Tickets for both individual sessions, and the whole event, are `on sale now`_ . Advance sales for "watch later" tickets for Seminars are cheaper than they will be post-event; and remember that there are only 20 spots for each Workshop.
 
