@@ -365,6 +365,32 @@ Event starts: 1900 Saturday
 
 Venue: Club de patinaje Osorno, Lupercio Martinez con San Juan de Dios, Osorno, Chile
 
+Sun: San Luis Potosí, Mexico
+--------------------------------
+
+`[FACEBOOK LINK (flyer)]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
+
+.. __: https://www.facebook.com/furiosasrollerderby/photos/a.970289643084944/2426293217484572/?type=3
+.. __: http://flattrackstats.com/bouts/111965/overview
+.. __: http://flattrackstats.com/bouts/111966/overview
+.. __: http://flattrackstats.com/bouts/111967/overview
+
+`Furiosas Roller Derby`_ and EMEXRD's Discordias, at very short notice (only announced on Wednesday) are holding a triple header event, including the rare opportunity to see cross-policy bouts (WFTDA-gender team playing an MRDA-gender team). At present, we only have a single post on social media for this information, but we'll update if we get more solid sources.
+
+.. _Furiosas Roller Derby: https://www.instagram.com/furiosas_rd_slp
+
+- Discordias (EMEXRD \| Mexico City) versus Furiosas (San Luis Potosí)
+- Discordias versus Team Bastardo (San Luis Potosí M)
+- Disorder (EMEXRD M) \| Team Bastardo
+
+Event starts: 0900 Sunday (first whistle)
+
+Venue: Patinódromo de Alto Rendimiento, Issste, San Luis Potosí, Mexico
+
+
 =======
 
 Also of interest, due to their attendees:
