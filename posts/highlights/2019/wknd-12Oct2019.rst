@@ -82,7 +82,7 @@ Derby Nights host the next edition of Japan's unique short-format endurance tour
 - Kamikaze Badass Roller Derby Tokyo versus "Derby Night Team" (Yokosuka Sushi Rollers + Spiral Cats (WorldSkate Tokyo team))
 - ??
 
-Event starts: ??
+Event starts: 10am Friday 
 
 Venue: Yellow Building Tokyo Dome Complex, 1-3-61 Koraku, Bunkyo-ku, Tokyo
 
