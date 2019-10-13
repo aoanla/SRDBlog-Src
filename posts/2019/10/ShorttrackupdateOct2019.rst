@@ -63,7 +63,7 @@ This event will run from **6:30pm** on **26th October** at the **MacDonald Islan
 
   Action from the Rolla Skate Club Short Track game on the 14h September (Photo, rights: `Dani Boynton Photography`_ )
 
-.. _: Dani Boynton Photography: https://www.daniboynton.com/
+.. _Dani Boynton Photography: https://www.daniboynton.com/
 
 Latin America
 --------------
@@ -156,7 +156,7 @@ Africa
 Over the past year, both `Durban Roller Derby`_ and `Cape Town Rollergirls`_ have found Short Track rules to be a useful addition to their toolset when planning public games.
 
 .. _Durban Roller Derby: https://www.instagram.com/durbanrollerderby/
-.. _Capetown Rollergirls: https://www.scottishrollerderbyblog.com/posts/2019/07/rollerderby-bei-2019/
+.. _Cape Town Rollergirls: https://www.scottishrollerderbyblog.com/posts/2019/07/rollerderby-bei-2019/
 
 On **October 19th**, Cape Town will hold their `third such event`__ (and 4th Short Track bout in total), as always paired with a Roller Disco.
 
