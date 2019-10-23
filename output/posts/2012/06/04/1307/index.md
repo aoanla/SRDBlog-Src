@@ -1,1 +1,0 @@
-<html><body><a href="http://www.scottishrollerderbyblog.com/2012/06/wantedrefs1.jpg"><img class="aligncenter size-large wp-image-1308" title="WantedRefs" src="http://www.scottishrollerderbyblog.com/2012/06/wantedrefs1.jpg?w=730" alt="" width="730" height="1024"></a></body></html>
