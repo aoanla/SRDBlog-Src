@@ -136,7 +136,7 @@ Sun: Liège, Belgium
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/2122340731393497/
-.. __:
+.. __: tba
 
 
 `Holy Wheels Menace`_ host a triple-header event against their nearby rivals in Epinal and Tournai
@@ -202,7 +202,6 @@ Venue: MacDonald Island Field House 1, 1 MacDonald Dr, Fort McMurray, AB, Canada
 
 
 ..
-
   Sun:
   --------------------------------
 
