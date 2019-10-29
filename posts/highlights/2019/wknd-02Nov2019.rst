@@ -1,6 +1,6 @@
 .. title: Weekend Highlights: 02 Nov 2019
 .. slug: weekendhighlights-02112019
-.. date: 2019-09-29 10:00:00 UTC+00:00
+.. date: 2019-10-29 10:00:00 UTC+00:00
 .. tags: weekend highlights, chinese roller derby, australian roller derby, estonian roller derby, german roller derby, belgian roller derby, french roller derby, british roller derby, uruguayan roller derby, colombian roller derby, argentine roller derby, mexican roller derby, chilean roller derby, sur5al
 .. category:
 .. link:
@@ -20,7 +20,7 @@ get themselves an actual webpage [we can help host one if you need help]).
 
 Locations are roughly organised East-West (with things before the weekend out sequence at the start).
 
-.. image:: /images/2019/10/02Nov-wkly-map.png
+.. image:: /images/2019/10/2Nov-wkly-map.png
   :alt: Map of all events (coded by type)
   :width: 100 %
 
@@ -188,9 +188,10 @@ Event starts: 1000 Saturday (doors open)
 Venue: Sporthal Kiel, 2 August Ley Weg, Antwerp, Belgium
 
 Sat-Sun: Saint-Gratien & Dijon, France
---------------------------------
+----------------------------------------
 
-`[FACEBOOK LINK]`__
+`[FACEBOOK LINK 1]`__
+`[FACEBOOK LINK 2`__
 `[FTS LINK]`__
 
 .. __: https://www.facebook.com/events/868480070215262/
