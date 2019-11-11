@@ -338,7 +338,7 @@ Fri-Sun: Blumenau, Brazil
 .. __: http://www.flattrackstats.com/tournaments/112133/overview
 
 
-The `Iron Ladies`_ host the 8th Brasileirão de Roller Derby, Brazil's effective National Tournament. We wrote a little about this `here`_ , but didn't include the full schedule, which we reproduce below.
+The `Iron Ladies`_ host the 8th Brasileirão de Roller Derby, Brazil's effective National Tournament. We wrote a little about this `here`__ , but didn't include the full schedule, which we reproduce below.
 
 .. _Iron Ladies: https://www.instagram.com/ironladiesbnu/
 .. __: https://www.scottishrollerderbyblog.com/posts/2019/10/brasileirao-102019/
