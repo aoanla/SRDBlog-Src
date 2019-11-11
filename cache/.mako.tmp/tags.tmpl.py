@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1573500200.4311097
+_modified_time = 1573500456.2535346
 _enable_loop = True
 _template_filename = 'themes/bootstrap/templates/tags.tmpl'
 _template_uri = 'tags.tmpl'
@@ -30,14 +30,14 @@ def render_body(context,**pageargs):
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
         title = context.get('title', UNDEFINED)
+        items = context.get('items', UNDEFINED)
+        cat_items = context.get('cat_items', UNDEFINED)
         def content():
             return render_content(context._locals(__M_locals))
-        len = context.get('len', UNDEFINED)
-        hidden_tags = context.get('hidden_tags', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
-        cat_items = context.get('cat_items', UNDEFINED)
+        hidden_tags = context.get('hidden_tags', UNDEFINED)
         range = context.get('range', UNDEFINED)
-        items = context.get('items', UNDEFINED)
+        len = context.get('len', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n\n')
         if 'parent' not in context._data or not hasattr(context._data['parent'], 'content'):
@@ -55,14 +55,14 @@ def render_content(context,**pageargs):
     try:
         cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
         title = context.get('title', UNDEFINED)
+        items = context.get('items', UNDEFINED)
+        cat_items = context.get('cat_items', UNDEFINED)
         def content():
             return render_content(context)
-        len = context.get('len', UNDEFINED)
-        hidden_tags = context.get('hidden_tags', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
-        cat_items = context.get('cat_items', UNDEFINED)
+        hidden_tags = context.get('hidden_tags', UNDEFINED)
         range = context.get('range', UNDEFINED)
-        items = context.get('items', UNDEFINED)
+        len = context.get('len', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n<h1>')
         __M_writer(str(title))
