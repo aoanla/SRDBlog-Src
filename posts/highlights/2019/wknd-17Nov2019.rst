@@ -70,7 +70,7 @@ Event starts: 1000 Sunday (doors open?)
 Venue: Lycée de l'Europe, 809 Rue du Banc Vert, Dunkerque, France
 
 Mon-Wed: Kirkwall, Orkney, Scotland
---------------------------------
+-------------------------------------
 
 `[FACEBOOK LINK]`__
 
