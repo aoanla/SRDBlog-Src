@@ -1,5 +1,5 @@
 .. title: Austrian Nationals 2019
-.. slug: AusNat-2019
+.. slug: Austrian_Nat-2019
 .. date: 2019-11-19 14:20:00 UTC+01:00
 .. tags: austrian roller derby, national tournaments
 .. category:
