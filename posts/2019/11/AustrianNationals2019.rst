@@ -29,7 +29,7 @@ It seems likely that Vienna Roller Derby, who have a 2 year win-streak for the C
 
 Similarly, Vienna was the only team able to host the first Nationals, with Linz' Steelcity hosting the 2018 edition. As the hosting moves to the Fearless Bruisers in 2019, the development of league experience with time is recapitulated; maybe the 2021 edition will be hosted by Salzburg themselves?
 
-.. image:: /images/2019/11/AustrianNationals2019-flyer.png
+.. image:: /images/2019/11/AustrianNationals2019-flyer.jpg
   :alt: Map of Austria, with logos of the 5 participating teams over the locations of their respective cities.
 
 
