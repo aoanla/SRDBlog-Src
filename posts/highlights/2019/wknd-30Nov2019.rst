@@ -1,6 +1,6 @@
 .. title: Weekend Highlights: 30 Nov 2019
 .. slug: weekendhighlights-30112019
-.. date: 2019-11-25 19:20:00 UTC+00:00
+.. date: 2019-11-25 14:26:00 UTC+00:00
 .. tags: weekend highlights, australian roller derby, finnish roller derby, austrian roller derby, german roller derby, swiss roller derby, spanish roller derby, irish roller derby, scottish roller derby, british roller derby, french roller derby, national tournament, bootcamp, dutch roller derby, danish roller derby
 .. category:
 .. link:
