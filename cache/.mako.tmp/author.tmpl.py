@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1574762723.2113812
+_modified_time = 1574766753.9551418
 _enable_loop = True
 _template_filename = '/home/vagrant/anaconda3/lib/python3.7/site-packages/nikola/data/themes/base/templates/author.tmpl'
 _template_uri = 'author.tmpl'
@@ -34,15 +34,15 @@ def render_body(context,**pageargs):
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
         title = _import_ns.get('title', context.get('title', UNDEFINED))
         date_format = _import_ns.get('date_format', context.get('date_format', UNDEFINED))
-        def extra_head():
-            return render_extra_head(context._locals(__M_locals))
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
-        posts = _import_ns.get('posts', context.get('posts', UNDEFINED))
         author = _import_ns.get('author', context.get('author', UNDEFINED))
         feeds_translations = _mako_get_namespace(context, 'feeds_translations')
-        description = _import_ns.get('description', context.get('description', UNDEFINED))
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
+        def extra_head():
+            return render_extra_head(context._locals(__M_locals))
+        posts = _import_ns.get('posts', context.get('posts', UNDEFINED))
         def content():
             return render_content(context._locals(__M_locals))
+        description = _import_ns.get('description', context.get('description', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n\n')
@@ -66,11 +66,11 @@ def render_extra_head(context,**pageargs):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        author = _import_ns.get('author', context.get('author', UNDEFINED))
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
+        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         def extra_head():
             return render_extra_head(context)
-        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
+        author = _import_ns.get('author', context.get('author', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n    ')
         __M_writer(str(feeds_translations.head(author, kind, rss_override=False)))
@@ -87,13 +87,13 @@ def render_content(context,**pageargs):
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
         title = _import_ns.get('title', context.get('title', UNDEFINED))
         date_format = _import_ns.get('date_format', context.get('date_format', UNDEFINED))
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
-        posts = _import_ns.get('posts', context.get('posts', UNDEFINED))
         author = _import_ns.get('author', context.get('author', UNDEFINED))
         feeds_translations = _mako_get_namespace(context, 'feeds_translations')
-        description = _import_ns.get('description', context.get('description', UNDEFINED))
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
+        posts = _import_ns.get('posts', context.get('posts', UNDEFINED))
         def content():
             return render_content(context)
+        description = _import_ns.get('description', context.get('description', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n<article class="authorpage">\n    <header>\n        <h1>')
         __M_writer(filters.html_escape(str(title)))
