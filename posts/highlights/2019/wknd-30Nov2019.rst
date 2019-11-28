@@ -114,7 +114,7 @@ Venue: ??, Turku, Finland
 Sat-Sun: Malmö, Sweden
 --------------------------------
 
-`[FACEBOOK LINK]`
+`[FACEBOOK LINK]`__
 `[FTS LINK (Swedish Elite)]`__
 `[FTS LINK (Swedish D2)]`__
 
