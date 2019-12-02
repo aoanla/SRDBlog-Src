@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1574941837.3902066
+_modified_time = 1575319229.458594
 _enable_loop = True
 _template_filename = 'themes/monospace/templates/post.tmpl'
 _template_uri = 'post.tmpl'
@@ -39,18 +39,18 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
-        pheader = _mako_get_namespace(context, 'pheader')
-        helper = _mako_get_namespace(context, 'helper')
-        def content():
-            return render_content(context._locals(__M_locals))
+        comments = _mako_get_namespace(context, 'comments')
         def extra_head():
             return render_extra_head(context._locals(__M_locals))
-        comments = _mako_get_namespace(context, 'comments')
-        post = context.get('post', UNDEFINED)
-        _link = context.get('_link', UNDEFINED)
         math = _mako_get_namespace(context, 'math')
+        _link = context.get('_link', UNDEFINED)
+        def content():
+            return render_content(context._locals(__M_locals))
+        pheader = _mako_get_namespace(context, 'pheader')
         messages = context.get('messages', UNDEFINED)
         date_format = context.get('date_format', UNDEFINED)
+        post = context.get('post', UNDEFINED)
+        helper = _mako_get_namespace(context, 'helper')
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -75,11 +75,11 @@ def render_body(context,**pageargs):
 def render_extra_head(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        math = _mako_get_namespace(context, 'math')
-        def extra_head():
-            return render_extra_head(context)
         post = context.get('post', UNDEFINED)
         helper = _mako_get_namespace(context, 'helper')
+        def extra_head():
+            return render_extra_head(context)
+        math = _mako_get_namespace(context, 'math')
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer(str(helper.twitter_card_information(post)))
@@ -98,16 +98,16 @@ def render_extra_head(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        pheader = _mako_get_namespace(context, 'pheader')
-        helper = _mako_get_namespace(context, 'helper')
-        def content():
-            return render_content(context)
-        post = context.get('post', UNDEFINED)
-        _link = context.get('_link', UNDEFINED)
-        date_format = context.get('date_format', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
         comments = _mako_get_namespace(context, 'comments')
         math = _mako_get_namespace(context, 'math')
+        _link = context.get('_link', UNDEFINED)
+        def content():
+            return render_content(context)
+        messages = context.get('messages', UNDEFINED)
+        pheader = _mako_get_namespace(context, 'pheader')
+        date_format = context.get('date_format', UNDEFINED)
+        post = context.get('post', UNDEFINED)
+        helper = _mako_get_namespace(context, 'helper')
         __M_writer = context.writer()
         __M_writer('\n    <div class="post">\n    ')
         __M_writer(str(pheader.html_title()))

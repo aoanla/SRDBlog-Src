@@ -1,6 +1,6 @@
 .. title: Weekend Highlights: 07 Dec 2019
 .. slug: weekendhighlights-07122019
-.. date: 2019-12-02 14:26:00 UTC+00:00
+.. date: 2019-12-02 20:26:00 UTC+00:00
 .. tags: weekend highlights, japanese roller derby, thai roller derby, bootcamps, australian roller derby, finnish roller derby, polish roller derby, swiss roller derby, german roller derby, french roller derby, scottish roller derby, british roller derby, argentine roller derby, chilean roller derby, austrian roller derby, belgian roller derby, portuguese roller derby,
 .. category:
 .. link:
@@ -263,7 +263,7 @@ Sat: Nottingham, UK
 --------------------------------
 
 `[FACEBOOK LINK]`__
-`[FACEBOOK LINK (PARTY)]`_
+`[FACEBOOK LINK (PARTY)]`__
 `[FTS LINK 1]`__
 `[FTS LINK 2]`__
 `[FTS LINK 3]`__
@@ -453,7 +453,7 @@ Also of interest, due to their attendees:
 ===========================================
 
 Sat: The Internet, Cyberspace (EST)
---------------------------------
+--------------------------------------
 
 `[FACEBOOK LINK]`__
 `[ZOOM MEETING]`__
