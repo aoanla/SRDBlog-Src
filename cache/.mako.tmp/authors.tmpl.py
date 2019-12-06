@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1575468887.93668
+_modified_time = 1575632681.8389215
 _enable_loop = True
 _template_filename = '/home/vagrant/anaconda3/lib/python3.7/site-packages/nikola/data/themes/base/templates/authors.tmpl'
 _template_uri = 'authors.tmpl'
@@ -32,14 +32,14 @@ def render_body(context,**pageargs):
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
+        hidden_authors = _import_ns.get('hidden_authors', context.get('hidden_authors', UNDEFINED))
         feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         def content():
             return render_content(context._locals(__M_locals))
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
+        items = _import_ns.get('items', context.get('items', UNDEFINED))
         def extra_head():
             return render_extra_head(context._locals(__M_locals))
-        hidden_authors = _import_ns.get('hidden_authors', context.get('hidden_authors', UNDEFINED))
-        items = _import_ns.get('items', context.get('items', UNDEFINED))
         messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n')
@@ -65,9 +65,9 @@ def render_extra_head(context,**pageargs):
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
         kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
-        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         def extra_head():
             return render_extra_head(context)
+        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         __M_writer = context.writer()
         __M_writer('\n    ')
         __M_writer(str(feeds_translations.head(kind=kind, feeds=False)))
@@ -82,11 +82,11 @@ def render_content(context,**pageargs):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
+        hidden_authors = _import_ns.get('hidden_authors', context.get('hidden_authors', UNDEFINED))
         feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         def content():
             return render_content(context)
-        hidden_authors = _import_ns.get('hidden_authors', context.get('hidden_authors', UNDEFINED))
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
         items = _import_ns.get('items', context.get('items', UNDEFINED))
         messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
         __M_writer = context.writer()
