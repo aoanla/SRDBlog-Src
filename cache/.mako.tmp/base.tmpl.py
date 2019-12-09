@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1575632890.5856497
+_modified_time = 1575927852.223803
 _enable_loop = True
 _template_filename = 'themes/monospace/templates/base.tmpl'
 _template_uri = 'base.tmpl'
@@ -31,25 +31,25 @@ def render_body(context,**pageargs):
         _mako_get_namespace(context, 'base')._populate(_import_ns, ['*'])
         def extra_head():
             return render_extra_head(context._locals(__M_locals))
+        lang = _import_ns.get('lang', context.get('lang', UNDEFINED))
         messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
-        def belowtitle():
-            return render_belowtitle(context._locals(__M_locals))
         search_form = _import_ns.get('search_form', context.get('search_form', UNDEFINED))
+        translations = _import_ns.get('translations', context.get('translations', UNDEFINED))
+        abs_link = _import_ns.get('abs_link', context.get('abs_link', UNDEFINED))
+        template_hooks = _import_ns.get('template_hooks', context.get('template_hooks', UNDEFINED))
+        body_end = _import_ns.get('body_end', context.get('body_end', UNDEFINED))
+        blog_title = _import_ns.get('blog_title', context.get('blog_title', UNDEFINED))
+        content_footer = _import_ns.get('content_footer', context.get('content_footer', UNDEFINED))
+        base = _mako_get_namespace(context, 'base')
         def content():
             return render_content(context._locals(__M_locals))
-        template_hooks = _import_ns.get('template_hooks', context.get('template_hooks', UNDEFINED))
-        base = _mako_get_namespace(context, 'base')
-        license = _import_ns.get('license', context.get('license', UNDEFINED))
-        blog_title = _import_ns.get('blog_title', context.get('blog_title', UNDEFINED))
-        body_end = _import_ns.get('body_end', context.get('body_end', UNDEFINED))
-        lang = _import_ns.get('lang', context.get('lang', UNDEFINED))
+        set_locale = _import_ns.get('set_locale', context.get('set_locale', UNDEFINED))
         def extra_js():
             return render_extra_js(context._locals(__M_locals))
-        set_locale = _import_ns.get('set_locale', context.get('set_locale', UNDEFINED))
-        content_footer = _import_ns.get('content_footer', context.get('content_footer', UNDEFINED))
-        translations = _import_ns.get('translations', context.get('translations', UNDEFINED))
         len = _import_ns.get('len', context.get('len', UNDEFINED))
-        abs_link = _import_ns.get('abs_link', context.get('abs_link', UNDEFINED))
+        license = _import_ns.get('license', context.get('license', UNDEFINED))
+        def belowtitle():
+            return render_belowtitle(context._locals(__M_locals))
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer(str(set_locale(lang)))
@@ -143,10 +143,10 @@ def render_belowtitle(context,**pageargs):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'base')._populate(_import_ns, ['*'])
-        len = _import_ns.get('len', context.get('len', UNDEFINED))
-        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
-        translations = _import_ns.get('translations', context.get('translations', UNDEFINED))
         base = _mako_get_namespace(context, 'base')
+        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
+        len = _import_ns.get('len', context.get('len', UNDEFINED))
+        translations = _import_ns.get('translations', context.get('translations', UNDEFINED))
         def belowtitle():
             return render_belowtitle(context)
         __M_writer = context.writer()

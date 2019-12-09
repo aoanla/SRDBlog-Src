@@ -342,7 +342,7 @@ Sat-Sun: Bariloche, Argentina
 .. __: tba
 
 
-`Huinãs Roller Derby`_ host the third edition of QuadBeer, their annual end of year tournament [which also happens to include artesanal beers]. This edition is run as a "quadrangular", a round robin for 4 teams, over two days. Officiating support for this event in Patagonia provided by funds raised by Un Sol Para Lxs Oficialxs last weekend.
+`Huiñas Roller Derby`_ host the third edition of QuadBeer, their annual end of year tournament [which also happens to include artesanal beers]. This edition is run as a "quadrangular", a round robin for 4 teams, over two days. Officiating support for this event in Patagonia provided by funds raised by Un Sol Para Lxs Oficialxs last weekend.
 
 .. _Huiñas Roller Derby: https://www.instagram.com/hrdbariloche
 
