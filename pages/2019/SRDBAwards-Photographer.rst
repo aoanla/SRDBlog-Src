@@ -1,4 +1,4 @@
-.. title: The First SRDB Awards - PHOTOGRAPHER
+.. title: The First SRDB Awards - Photographer
 .. slug: srdbawards-photographer-2019
 .. date: 2019-12-11 09:45:00 UTC+00:00
 .. tags: scottish roller derby blog, awards, end of year, votes, photographer
@@ -8,17 +8,26 @@
 .. type: text
 .. author: SRD
 
+.. image:: /images/2019/11/SRDB-Award.png
+  :alt: The SRDB Award Logo: the Scottish Roller Derby Blog Logo (concentric circles, outer circle containing words "Scottish Roller Derby" all-capitals, separated by five-pointed stars, and an inner ring of stars just outside the boundary of the inner circle; inner circle containing a modification of the "lion of scotland", a heraldic lion, facing right, rampant, with a jammer cover on its head), but with a gold/bronze colour scheme applied.
+
+
 This is the nominations list for the first ever SRDB Awards, in the category of Photographer.
 
 The ground-rules for the Awards are covered in the launch post `here`_ .
 
 .. _here: https://www.scottishrollerderbyblog.com/posts/2019/11/srdbawards-nom-2019/
 
+The hub for all links to categories is `here`__ .
+
+.. __: https://www.scottishrollerderbyblog.com/posts/2019/12/srdbawards-hub-2019/
+
 As mentioned in that link, voting is by *approval voting*.
 This means that you can, and should, tick boxes for all of the nominees you think would deserve to win. You can tick all the boxes, if you think they're all deserving; you can tick no boxes if you think none are deserving.
 
 Everyone gets *a single submission* (with as many boxes ticked as they want); we have enabled detection of multiple submissions on this form, and will also be taking action against unusual voting patterns which get past this.
 
+We asked for photographer nominations to include a link to a photograph, or a portfolio. Several of these nominations did not do so, so we've picked photos (and added portfolio links) where missing. All photographs are, of course, the property of the relevant photographer.
 
 Nominees for PHOTOGRAPHER
 --------------------------
@@ -26,7 +35,7 @@ Nominees for PHOTOGRAPHER
 Nominee: Laura MacDonald
 ===========================
 
-.. image::
+.. image:: /images/2019/12/PHOTO_LAURAMACDONALD.jpg
 
 `PORTFOLIO EXAMPLES 1`__
 `PORTFOLIO EXAMPLES 2`__
@@ -40,22 +49,22 @@ Nominee: Laura MacDonald
 Nominee: Paul Jones
 ===========================
 
-.. image::
+.. image:: /images/2019/12/PHOTO_PAULJONES.jpg
 
 `PORTFOLIO EXAMPLES`__
 
-.. __:
+.. __: https://www.flickr.com/photos/drpjones/
 
 "This photographer takes amazing pics, as does many other photographers. But his commitment to support all of the leagues in South Wales is unrivalled. He travelled across Europe to support them, and spends most of his evenings at one scrim or another. He is a central part of the South Wales roller derby community, supporting at least 6 leagues. "
 
 Nominee: Roller Derby on Film (Jason Ruffell)
 =============================================
 
-.. image::
+.. image:: /images/2019/12/PHOTO_JASONRUFFELL.jpg
 
 `PORTFOLIO EXAMPLES`__
 
-.. __:
+.. __: http://www.roller-derby-on-film.co.uk
 
 "It's been great seeing Jason at more events these last few months, his photos are still the highest quality. He really knows how to capture the spirit of the game, he's great at shots of often overlooked aspects of a derby event, and he's also great to work with!
 "
@@ -63,11 +72,11 @@ Nominee: Roller Derby on Film (Jason Ruffell)
 Nominee: Shirlaine Forrest (Manchester Roller Derby)
 ====================================================
 
-.. image::
+.. image:: /images/2019/12/PHOTO_SHIRLAINEFORREST.jpg
 
 `PORTFOLIO EXAMPLES`__
 
-.. __: http://www.roller-derby-on-film.co.uk
+.. __: https://www.shirlaine.co.uk/roller-derby
 
 "A tremendously talented individual who deserves a lot of recognition."
 
@@ -78,9 +87,9 @@ Nominee: Tom Malko
 
 `PORTFOLIO EXAMPLES`__
 
-.. __:
+.. __: https://www.facebook.com/pg/TomMalkoPhotography/photos/?tab=albums
 
-"Starting locally from photo project to school, through Polish games and tournaments, to the World Cups, he always finds our best sides. His photos always reflect the vivid emotions accompanying the roller derby, thanks to which over half of the skaters (and not only) have his photos as their profile on fb. https://www.facebook.com/TomMalkoPhotography/photos/a.1548307421901408/1548316285233855/?type=3&theater"
+"Starting locally from photo project to school, through Polish games and tournaments, to the World Cups, he always finds our best sides. His photos always reflect the vivid emotions accompanying the roller derby, thanks to which over half of the skaters (and not only) have his photos as their profile on fb."
 
 
 Nominee: Vinciane Piérart (NSP 189)
@@ -90,7 +99,7 @@ Nominee: Vinciane Piérart (NSP 189)
 
 `PORTFOLIO EXAMPLES`__
 
-.. __:
+.. __: https://www.facebook.com/pg/nsp189/photos/?tab=albums
 
 "I discovered her at SKIR tournament this year and fell in love with her work. To be honest, I may be biased on this one because that was our first SKIR as a team and her photos hold so many beautiful memories. But I think photography is (also) a way to make moments last forever and she surely did that for us (and countless other people), so that's that."
 

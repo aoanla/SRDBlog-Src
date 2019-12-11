@@ -8,11 +8,19 @@
 .. type: text
 .. author: SRD
 
+.. image:: /images/2019/11/SRDB-Award.png
+  :alt: The SRDB Award Logo: the Scottish Roller Derby Blog Logo (concentric circles, outer circle containing words "Scottish Roller Derby" all-capitals, separated by five-pointed stars, and an inner ring of stars just outside the boundary of the inner circle; inner circle containing a modification of the "lion of scotland", a heraldic lion, facing right, rampant, with a jammer cover on its head), but with a gold/bronze colour scheme applied.
+
+
 This is the nominations list for the first ever SRDB Awards, in the category of Volunteer.
 
 The ground-rules for the Awards are covered in the launch post `here`_ .
 
 .. _here: https://www.scottishrollerderbyblog.com/posts/2019/11/srdbawards-nom-2019/
+
+The hub for all links to categories is `here`__ .
+
+.. __: https://www.scottishrollerderbyblog.com/posts/2019/12/srdbawards-hub-2019/
 
 As mentioned in that link, voting is by *approval voting*.
 This means that you can, and should, tick boxes for all of the nominees you think would deserve to win. You can tick all the boxes, if you think they're all deserving; you can tick no boxes if you think none are deserving.
@@ -38,7 +46,7 @@ Nominee: Sticks and Stoner (British Champs)
 Nominee: Taco Cat
 ===========================
 
-"[for] Spanish language translation and content for wftda.tv and other things. We don't see a lot of this in derby. The Argentina teams making it so far es special, so to have someone trying to make more spanish language things is really important. I see Taco Cat pop up all over speaking to skaters and doing interviews. "
+"[for] Spanish language translation and content for wftda.tv and other things. We don't see a lot of this in derby. The Argentina teams making it so far is special, so to have someone trying to make more Spanish language things is really important. I see Taco Cat pop up all over speaking to skaters and doing interviews. "
 
 
 ----

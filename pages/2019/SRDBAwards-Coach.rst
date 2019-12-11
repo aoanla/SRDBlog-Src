@@ -1,4 +1,4 @@
-.. title: The First SRDB Awards - COACH
+.. title: The First SRDB Awards - Coach
 .. slug: srdbawards-coach-2019
 .. date: 2019-12-11 09:45:00 UTC+00:00
 .. tags: scottish roller derby blog, awards, end of year, votes, coach
@@ -8,11 +8,19 @@
 .. type: text
 .. author: SRD
 
+.. image:: /images/2019/11/SRDB-Award.png
+  :alt: The SRDB Award Logo: the Scottish Roller Derby Blog Logo (concentric circles, outer circle containing words "Scottish Roller Derby" all-capitals, separated by five-pointed stars, and an inner ring of stars just outside the boundary of the inner circle; inner circle containing a modification of the "lion of scotland", a heraldic lion, facing right, rampant, with a jammer cover on its head), but with a gold/bronze colour scheme applied.
+
+
 This is the nominations list for the first ever SRDB Awards, in the category of Coach.
 
 The ground-rules for the Awards are covered in the launch post `here`_ .
 
 .. _here: https://www.scottishrollerderbyblog.com/posts/2019/11/srdbawards-nom-2019/
+
+The hub for all links to categories is `here`__ .
+
+.. __: https://www.scottishrollerderbyblog.com/posts/2019/12/srdbawards-hub-2019/
 
 As mentioned in that link, voting is by *approval voting*.
 This means that you can, and should, tick boxes for all of the nominees you think would deserve to win. You can tick all the boxes, if you think they're all deserving; you can tick no boxes if you think none are deserving.
@@ -52,7 +60,7 @@ Nominee: Maz LeFay (Fair City Rollers)
 Nominee: Niezniszczarna Aleksandra Barczewska (3City Piranhas)
 ================================================================
 
-"This very hardworking person was stubbornly putting a lot of effort into creating and developping polish roller derby, alongside with coaching skaters and SO from 3city Piranhas Roller Derby for past 6 years. It resulted with progress of local roller derby, many people prepared for their MS tests and games, bootcamps and scrimmages. As the creator of one of the firsts teams in Poland she put all of her heart into this sport and people of roller derby. "
+"This very hardworking person was stubbornly putting a lot of effort into creating and developing polish roller derby, alongside with coaching skaters and SO from 3city Piranhas Roller Derby for past 6 years. It resulted with progress of local roller derby, many people prepared for their MS tests and games, bootcamps and scrimmages. As the creator of one of the firsts teams in Poland she put all of her heart into this sport and people of roller derby. "
 
 Nominee: Optimus Grime
 ===========================
