@@ -56,7 +56,7 @@ Currently Team GB has not made their team known, 2nd round of try outs are on th
 
 
 Nominee: Madison Thomas (Deady Bear) [Lincolnshire Bombinos]
-=================================================
+=============================================================
 
 "At only 16 she is now training with the adult team as well as with the juniors. She has so much fight and determination and will always take the star, and annoyingly right now has out grown the juniors but can't play in adult games for another 2 years.
 The Lincolnshire Bombinos are proud of her and now the Lincolnshire Bombers get to see how awesome she is too.
