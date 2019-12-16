@@ -1,6 +1,6 @@
 .. title: Weekend Highlights: 2019-2020 End of Year
 .. slug: weekendhighlights-20192020
-.. date: 2019-12-16 20:26:00 UTC+00:00
+.. date: 2019-12-16 20:15:00 UTC+00:00
 .. tags: weekend highlights, french roller derby, swedish roller derby, british roller derby, belgian roller derby, argentine roller derby, icelandic roller derby, austrian roller derby, dutch roller derby, spanish roller derby, short track roller derby, open scrimmage, bootcamp
 .. category:
 .. link:
@@ -312,7 +312,9 @@ Sat 4: Saint-Gratien, France
 -----------------------------------------------
 
 `[FACEBOOK LINK]`__
-`[FTS LINK]`__
+`[FTS LINK 1]`__
+`[FTS LINK 2]`__
+`[FTS LINK 3]`__
 
 .. __: https://www.facebook.com/events/539541686827350/
 .. __: http://www.flattrackstats.com/node/112468
@@ -378,7 +380,7 @@ Wed 1: Huddersfield, UK
 `ALL IN\: Community Roller Derby`_ host probably the first event of the new year, as they invite everyone to get over their hangovers and welcome in 2020 with a Scrimmage using `Rolla Skate Club`_ 's Short Track Roller Derby rules!
 
 .. _ALL IN\: Community Roller Derby: https://www.allincrd.uk
-.. Rolla Skate Club: https://rollaskateclub.com/short-track-roller-derby-resources/
+.. _Rolla Skate Club: https://rollaskateclub.com/short-track-roller-derby-resources/
 
 - Tickets https://bookwhen.com/allin?#focus=ev-sav1-20200101193000
 
