@@ -50,8 +50,6 @@ Sat 21: Al Quoz, Dubai, United Arab Emirates
 `[FACEBOOK LINK (flyer)]`__
 
 .. __: https://www.instagram.com/p/B6KTXcgnKFr/
-.. __:
-
 
 `UAE Roller Derby`_ host another of their "Friends and Family" open scrimmages on the 21st, also open to spectators. This is a training session, but the following scrimmage is open.
 
