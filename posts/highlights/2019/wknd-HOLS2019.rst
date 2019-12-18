@@ -1,7 +1,7 @@
 .. title: Weekend Highlights: 2019-2020 End of Year
 .. slug: weekendhighlights-20192020
 .. date: 2019-12-16 20:15:00 UTC+00:00
-.. tags: weekend highlights, french roller derby, swedish roller derby, british roller derby, belgian roller derby, argentine roller derby, icelandic roller derby, austrian roller derby, dutch roller derby, spanish roller derby, short track roller derby, open scrimmage, bootcamp, uae roller derby, emirati roller derby
+.. tags: weekend highlights, french roller derby, swedish roller derby, british roller derby, belgian roller derby, argentine roller derby, icelandic roller derby, austrian roller derby, dutch roller derby, spanish roller derby, short track roller derby, open scrimmage, bootcamp, uae roller derby, emirati roller derb, chilean roller derbyy
 .. category:
 .. link:
 .. description:
