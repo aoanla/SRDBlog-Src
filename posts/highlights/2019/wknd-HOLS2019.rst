@@ -320,6 +320,22 @@ Event starts: 1600 Sunday (22 Dec)
 
 Venue: Escuela de Enfermia, Neuquén, Argentina
 
+Wed 18: Temuco, Chile
+-----------------------------------------------
+
+`[FACEBOOK LINK]`__
+
+.. __: https://www.facebook.com/NativasRD/photos/a.469710923100159/3255610071176883/?type=3
+
+
+`Nativas Roller Derby`_ host, at very late notice, an open public scrimmage on the 18th (Wed)
+
+.. _Nativas Roller Derby: https://www.instagram.com/rollerderbytemuco/
+
+Event starts: 1900 Wed (18 Dec)
+
+Venue: estadio Germán B, Av. Pablo Neruda 1110, Temuco, Chile
+
 =======
 
 January
