@@ -1,6 +1,6 @@
-.. title: The First SRDB Awards - AWARDS
+.. title: The First SRDB Awards - RESULTS
 .. slug: srdbawards-awards-2019
-.. date: 2020-01-01 11:46:00 UTC+00:00
+.. date: 2020-01-01 11:26:00 UTC+00:00
 .. tags: scottish roller derby blog, awards, end of year, votes, volunteer, skater, coach, referee, non-skating official, announcer, photographer, volunteer, league, tournament, non-regulation tournament, bootcamp, media, hall of fame, rising star
 .. category:
 .. link:
