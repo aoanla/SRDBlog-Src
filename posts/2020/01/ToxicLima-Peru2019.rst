@@ -61,6 +61,11 @@ And, conversely, it also means that visiting coaches or teams are cherished for 
 
   Even if we have the difficulty of being alone in our country, we appreciate it so much when people come to visit us and teach us so many things.
 
+.. figure:: /images/2020/02/TXLGroupPhoto.jpeg
+  :alt: Group photo of Toxic Lima Roller Derby, lined up in arrow formation.
+
+  Toxic Lima Roller Derby (July 2018), taken in honour of their WFTDA Apprenticeship [Photo by: Lucia Yap (Copyright reserved)]
+
 In 2019, this would have culminated in TXL hosting their own Latin American tournament, but tragedy struck when the municipality responsible for their only training venue changed management, and decided that they would not be renewing their contract. Without a venue, it was obviously impossible to host a tournament - or even train effectively.
 
   In Lima it's really hard to get a good place to practice derby because the [football] courts are not in good shape. We were practicing at our old venue for the past 5 years... So it was hard to lose it suddenly:  we had a moment where we had to just ask "what are we going to do now?"
