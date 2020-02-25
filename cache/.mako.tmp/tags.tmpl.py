@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1582664687.3807833
+_modified_time = 1582665242.560092
 _enable_loop = True
 _template_filename = 'themes/bootstrap/templates/tags.tmpl'
 _template_uri = 'tags.tmpl'
@@ -30,14 +30,14 @@ def render_body(context,**pageargs):
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         def content():
             return render_content(context._locals(__M_locals))
-        cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
         title = context.get('title', UNDEFINED)
-        hidden_tags = context.get('hidden_tags', UNDEFINED)
-        len = context.get('len', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         items = context.get('items', UNDEFINED)
         range = context.get('range', UNDEFINED)
         cat_items = context.get('cat_items', UNDEFINED)
+        cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
+        hidden_tags = context.get('hidden_tags', UNDEFINED)
+        len = context.get('len', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n\n')
         if 'parent' not in context._data or not hasattr(context._data['parent'], 'content'):
@@ -55,14 +55,14 @@ def render_content(context,**pageargs):
     try:
         def content():
             return render_content(context)
-        cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
         title = context.get('title', UNDEFINED)
-        hidden_tags = context.get('hidden_tags', UNDEFINED)
-        len = context.get('len', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         items = context.get('items', UNDEFINED)
         range = context.get('range', UNDEFINED)
         cat_items = context.get('cat_items', UNDEFINED)
+        cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
+        hidden_tags = context.get('hidden_tags', UNDEFINED)
+        len = context.get('len', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n<h1>')
         __M_writer(str(title))
