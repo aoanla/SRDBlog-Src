@@ -77,100 +77,97 @@ We talked about streaming but unfortunately we didn’t have the number of volun
 
 
 
-
------
-
-=======================================================================================
-Dep. Variable:                      y   R-squared (uncentered):                   0.983
-Model:                            WLS   Adj. R-squared (uncentered):              0.942
-Method:                 Least Squares   F-statistic:                              23.75
-Date:                Wed, 19 Feb 2020   Prob (F-statistic):                      0.0409
-Time:                        21:09:58   Log-Likelihood:                          3.0162
-No. Observations:                   7   AIC:                                      3.968
-Df Residuals:                       2   BIC:                                      3.697
-Df Model:                           5
-
-SCORE RATIO
-
-Covariance Type:            nonrobust
-==============================================================================
-                 coef    std err          t      P>|t|      [0.025      0.975]
-------------------------------------------------------------------------------
-x1            -0.8452      0.195     -4.343      0.049      -1.682      -0.008
-x2            -0.1651      0.153     -1.079      0.394      -0.824       0.494
-x3             1.5719      0.153     10.266      0.009       0.913       2.231
-x4            -0.6382      0.195     -3.279      0.082      -1.475       0.199
-x5             0.1983      0.190      1.044      0.406      -0.619       1.015
-x6            -0.1217      0.190     -0.641      0.587      -0.939       0.695
-==============================================================================
-Omnibus:                          nan   Durbin-Watson:                   1.842
-Prob(Omnibus):                    nan   Jarque-Bera (JB):                0.476
-Skew:                           0.275   Prob(JB):                        0.788
-Kurtosis:                       1.846   Cond. No.                     1.09e+17
-==============================================================================
-
-Warnings:
-[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 3.97e-34. This might indicate that there are
-strong multicollinearity problems or that the design matrix is singular.
-OTown:-0.8451613928455526
-Ladybugs:-0.6381674953179046
-Roskilde:-0.16513908059452748
-Aarhus:-0.12171393779217027
-Copenhagen:0.1983174669415746
-Aalborg:1.5718644396085804
-Strength Range: 2.417025832454133
-Bout OTown v Roskilde: Pred: 0.5066056887261876 Actual: 0.5223880597014925  Diff: 0.9697880327044164
-Bout Aalborg v Ladybugs: Pred: 9.116007507421509 Actual: 9.4  Diff: 0.9697880327044158
-Bout Roskilde v Copenhagen: Pred: 0.6952689377082103 Actual: 0.5747126436781609  Diff: 1.209767951612286
-Bout Aarhus v Aalborg: Pred: 0.18386042345687034 Actual: 0.22935779816513763  Diff: 0.8016314462719546
-Bout Ladybugs v OTown: Pred: 1.2299750658690172 Actual: 1.2682926829268293  Diff: 0.9697880327044174
-Bout Aarhus v Roskilde: Pred: 1.044381811890097 Actual: 0.8372093023255814  Diff: 1.247456053090949
-Bout Copenhagen v Aalborg: Pred: 0.2532072456862928 Actual: 0.20930232558139536  Diff: 1.209767951612288
-
-
-
-SCORE DIFF
-
-Model:                            WLS   Adj. R-squared (uncentered):              0.936
-Method:                 Least Squares   F-statistic:                              21.33
-Date:                Wed, 19 Feb 2020   Prob (F-statistic):                      0.0454
-Time:                        21:13:20   Log-Likelihood:                         -24.021
-No. Observations:                   7   AIC:                                      58.04
-Df Residuals:                       2   BIC:                                      57.77
-Df Model:                           5
-Covariance Type:            nonrobust
-==============================================================================
-                 coef    std err          t      P>|t|      [0.025      0.975]
-------------------------------------------------------------------------------
-x1           -37.5000      9.260     -4.050      0.056     -77.343       2.343
-x2           -12.5000      7.286     -1.716      0.228     -43.848      18.848
-x3            71.5000      7.286      9.814      0.010      40.152     102.848
-x4           -19.5000      9.260     -2.106      0.170     -59.343      20.343
-x5            14.0000      9.037      1.549      0.261     -24.883      52.883
-x6           -16.0000      9.037     -1.771      0.219     -54.883      22.883
-==============================================================================
-Omnibus:                          nan   Durbin-Watson:                   0.969
-Prob(Omnibus):                    nan   Jarque-Bera (JB):                1.421
-Skew:                           1.098   Prob(JB):                        0.491
-Kurtosis:                       3.217   Cond. No.                     1.09e+17
-==============================================================================
-
-Warnings:
-[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The smallest eigenvalue is 3.97e-34. This might indicate that there are
-strong multicollinearity problems or that the design matrix is singular.
-OTown:-37.50000000000003
-Ladybugs:-19.49999999999999
-Aarhus:-15.999999999999968
-Roskilde:-12.500000000000012
-Copenhagen:14.000000000000018
-Aalborg:71.5
-Strength Range: 109.00000000000003
-Bout OTown v Roskilde: Pred: -25.000000000000014 Actual: -32.0  Diff: 0.7812500000000004
-Bout Aalborg v Ladybugs: Pred: 90.99999999999999 Actual: 84.0  Diff: 1.0833333333333333
-Bout Roskilde v Copenhagen: Pred: -26.50000000000003 Actual: -37.0  Diff: 0.716216216216217
-Bout Aarhus v Aalborg: Pred: -87.49999999999997 Actual: -84.0  Diff: 1.0416666666666663
-Bout Ladybugs v OTown: Pred: 18.00000000000004 Actual: 11.0  Diff: 1.63636363636364
-Bout Aarhus v Roskilde: Pred: -3.4999999999999556 Actual: -7.0  Diff: 0.49999999999999367
-Bout Copenhagen v Aalborg: Pred: -57.499999999999986 Actual: -68.0  Diff: 0.8455882352941174
+..
+	-----
+	=======================================================================================
+	Dep. Variable:                      y   R-squared (uncentered):                   0.983
+	Model:                            WLS   Adj. R-squared (uncentered):              0.942
+	Method:                 Least Squares   F-statistic:                              23.75
+	Date:                Wed, 19 Feb 2020   Prob (F-statistic):                      0.0409
+	Time:                        21:09:58   Log-Likelihood:                          3.0162
+	No. Observations:                   7   AIC:                                      3.968
+	Df Residuals:                       2   BIC:                                      3.697
+	Df Model:                           5
+	
+	SCORE RATIO
+	
+	Covariance Type:            nonrobust
+	==============================================================================
+	                 coef    std err          t      P>|t|      [0.025      0.975]
+	------------------------------------------------------------------------------
+	x1            -0.8452      0.195     -4.343      0.049      -1.682      -0.008
+	x2            -0.1651      0.153     -1.079      0.394      -0.824       0.494
+	x3             1.5719      0.153     10.266      0.009       0.913       2.231
+	x4            -0.6382      0.195     -3.279      0.082      -1.475       0.199
+	x5             0.1983      0.190      1.044      0.406      -0.619       1.015
+	x6            -0.1217      0.190     -0.641      0.587      -0.939       0.695
+	==============================================================================
+	Omnibus:                          nan   Durbin-Watson:                   1.842
+	Prob(Omnibus):                    nan   Jarque-Bera (JB):                0.476
+	Skew:                           0.275   Prob(JB):                        0.788
+	Kurtosis:                       1.846   Cond. No.                     1.09e+17
+	==============================================================================
+	
+	Warnings:
+	[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+	[2] The smallest eigenvalue is 3.97e-34. This might indicate that there are
+	strong multicollinearity problems or that the design matrix is singular.
+	OTown:-0.8451613928455526
+	Ladybugs:-0.6381674953179046
+	Roskilde:-0.16513908059452748
+	Aarhus:-0.12171393779217027
+	Copenhagen:0.1983174669415746
+	Aalborg:1.5718644396085804
+	Strength Range: 2.417025832454133
+	Bout OTown v Roskilde: Pred: 0.5066056887261876 Actual: 0.5223880597014925  Diff: 0.9697880327044164
+	Bout Aalborg v Ladybugs: Pred: 9.116007507421509 Actual: 9.4  Diff: 0.9697880327044158
+	Bout Roskilde v Copenhagen: Pred: 0.6952689377082103 Actual: 0.5747126436781609  Diff: 1.209767951612286
+	Bout Aarhus v Aalborg: Pred: 0.18386042345687034 Actual: 0.22935779816513763  Diff: 0.8016314462719546
+	Bout Ladybugs v OTown: Pred: 1.2299750658690172 Actual: 1.2682926829268293  Diff: 0.9697880327044174
+	Bout Aarhus v Roskilde: Pred: 1.044381811890097 Actual: 0.8372093023255814  Diff: 1.247456053090949
+	Bout Copenhagen v Aalborg: Pred: 0.2532072456862928 Actual: 0.20930232558139536  Diff: 1.209767951612288
+	
+	SCORE DIFF
+	
+	Model:                            WLS   Adj. R-squared (uncentered):              0.936
+	Method:                 Least Squares   F-statistic:                              21.33
+	Date:                Wed, 19 Feb 2020   Prob (F-statistic):                      0.0454
+	Time:                        21:13:20   Log-Likelihood:                         -24.021
+	No. Observations:                   7   AIC:                                      58.04
+	Df Residuals:                       2   BIC:                                      57.77
+	Df Model:                           5
+	Covariance Type:            nonrobust
+	==============================================================================
+	                 coef    std err          t      P>|t|      [0.025      0.975]
+	------------------------------------------------------------------------------
+	x1     	      -37.5000      9.260     -4.050      0.056     -77.343       2.343
+	x2           -12.5000      7.286     -1.716      0.228     -43.848      18.848
+	x3            71.5000      7.286      9.814      0.010      40.152     102.848
+	x4           -19.5000      9.260     -2.106      0.170     -59.343      20.343
+	x5            14.0000      9.037      1.549      0.261     -24.883      52.883
+	x6           -16.0000      9.037     -1.771      0.219     -54.883      22.883
+	==============================================================================
+	Omnibus:                          nan   Durbin-Watson:                   0.969
+	Prob(Omnibus):                    nan   Jarque-Bera (JB):                1.421
+	Skew:                           1.098   Prob(JB):                        0.491
+	Kurtosis:                       3.217   Cond. No.                     1.09e+17
+	==============================================================================
+	
+	Warnings:
+	[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+	[2] The smallest eigenvalue is 3.97e-34. This might indicate that there are
+	strong multicollinearity problems or that the design matrix is singular.
+	OTown:-37.50000000000003
+	Ladybugs:-19.49999999999999
+	Aarhus:-15.999999999999968
+	Roskilde:-12.500000000000012
+	Copenhagen:14.000000000000018
+	Aalborg:71.5
+	Strength Range: 109.00000000000003
+	Bout OTown v Roskilde: Pred: -25.000000000000014 Actual: -32.0  Diff: 0.7812500000000004
+	Bout Aalborg v Ladybugs: Pred: 90.99999999999999 Actual: 84.0  Diff: 1.0833333333333333
+	Bout Roskilde v Copenhagen: Pred: -26.50000000000003 Actual: -37.0  Diff: 0.716216216216217
+	Bout Aarhus v Aalborg: Pred: -87.49999999999997 Actual: -84.0  Diff: 1.0416666666666663
+	Bout Ladybugs v OTown: Pred: 18.00000000000004 Actual: 11.0  Diff: 1.63636363636364
+	Bout Aarhus v Roskilde: Pred: -3.4999999999999556 Actual: -7.0  Diff: 0.49999999999999367
+	Bout Copenhagen v Aalborg: Pred: -57.499999999999986 Actual: -68.0  Diff: 0.8455882352941174
