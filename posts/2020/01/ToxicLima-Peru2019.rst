@@ -48,7 +48,7 @@ In common with most of Roller Derby outside of North America and Western Europe,
 
 .. _Derby without Borders: https://derbywithoutborders.org
 
-.. image:: /images/2020/02/HuevoTXL.jpg
+.. figure:: /images/2020/02/HuevoTXL.jpg
   :alt: Sailor City Rollers' Huevo with Derby Without Borders donation to Toxic Lima arrayed around her.
 
   Sailor City Rollers' Huevo with Derby Without Borders donation to Toxic Lima arrayed around her.
