@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1583747540.668642
+_modified_time = 1583747827.6942458
 _enable_loop = True
 _template_filename = '/home/vagrant/anaconda3/lib/python3.7/site-packages/nikola/data/themes/base/templates/story.tmpl'
 _template_uri = 'story.tmpl'
@@ -43,10 +43,10 @@ def render_body(context,**pageargs):
         math = _mako_get_namespace(context, 'math')
         messages = context.get('messages', UNDEFINED)
         pheader = _mako_get_namespace(context, 'pheader')
+        enable_comments = context.get('enable_comments', UNDEFINED)
         def content():
             return render_content(context._locals(__M_locals))
         comments = _mako_get_namespace(context, 'comments')
-        enable_comments = context.get('enable_comments', UNDEFINED)
         site_has_comments = context.get('site_has_comments', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
@@ -71,10 +71,10 @@ def render_content(context,**pageargs):
         math = _mako_get_namespace(context, 'math')
         messages = context.get('messages', UNDEFINED)
         pheader = _mako_get_namespace(context, 'pheader')
+        enable_comments = context.get('enable_comments', UNDEFINED)
         def content():
             return render_content(context)
         comments = _mako_get_namespace(context, 'comments')
-        enable_comments = context.get('enable_comments', UNDEFINED)
         site_has_comments = context.get('site_has_comments', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n<article class="post-')
