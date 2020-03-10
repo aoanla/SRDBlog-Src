@@ -1,6 +1,6 @@
 .. title: EuroClash 2020: Newcastle Roller Derby's first tournament
 .. slug: EuroClash2020
-.. date: 2020-03-10 09:30:00 UTC+01:00
+.. date: 2020-03-11 09:30:00 UTC+01:00
 .. tags: newcastle roller girls, newcastle roller derby, euroclash, tournaments
 .. category:
 .. link:
