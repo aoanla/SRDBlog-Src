@@ -18,7 +18,7 @@ An increasing number of tournaments are now beginning to cancel. In Italy, the A
 
 We have yet to have a public update on the status of the Men's Roller Derby World Cup or Rollercon, both highly-international events this year, but given the breaking news restrictions placed by the US President on travel from Schengen countries in Europe, it seems increasingly likely that there will be *some* knock-on effect. (They are both scheduled far enough in the future that it is *possible* that we could have a pandemic peak before they happen; but once an infectious disease goes pandemic, it becomes much harder to eradicate quickly.)
 
-The `WFTDA`_ has published risk-management guidelines for reducing the spread of SARS-CoV-2 infections if you do hold public games during this period. They essentially reduce to the usual advice that minimising physical contact, and maintaining proper hygiene standards is the most effective way to reduce the spread of the virus.
+The `WFTDA`_ has published risk-management guidelines for reducing the spread of SARS-CoV-2 infections if you do hold public games during this period. They essentially reduce to the usual advice that minimising physical contact, and maintaining proper hygiene standards is the most effective way to reduce the spread of the virus, along with recommendations to cancel non-essential events and follow your country's own guidelines and restrictions. (As with other examples of force majeure, WFTDA will not penalise members for cancelling Sanctioned events due to public health concerns around COVID-19.)
 
 .. _WFTDA: https://resources.wftda.org/covid-19/
 
