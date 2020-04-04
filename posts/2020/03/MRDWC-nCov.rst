@@ -1,6 +1,6 @@
 .. title: MRDWC Takes 1 Year Postponement
 .. slug: MRDWC_nCoV
-.. date: 2020-03-31 18:31:00 UTC+01:00
+.. date: 2020-03-31 18:30:00 UTC+01:00
 .. tags: roller derby, international roller derby, covid19, mrdwc, men's roller derby world cup
 .. category:
 .. link:
@@ -36,3 +36,6 @@ Second, although the venue is perfect for our purposes, they cannot yet commit t
 We hope that this offers you the ability to plan, to recover costs or move bookings, and to refocus on keeping yourselves and yours healthy and safe. The host hotel will cancel all bookings for this event in a few days for those who booked with them.
 
 See you all around the track...
+
+
+http://mrdwc.com/mrdwc-postponed/
