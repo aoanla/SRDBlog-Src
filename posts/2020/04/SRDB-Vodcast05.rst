@@ -1,5 +1,5 @@
 .. title: SRDB - Vodcasts - Scottish Roller Derby
-.. slug: Vodcasts-BalticRus
+.. slug: Vodcasts-Scotland
 .. date: 2020-05-02 14:00:00 UTC+01:00
 .. tags: vodcasts, scottish roller derby, team scotland roller derby, power of scotland, glasgow roller derby, auld reekie roller derby, inverness city roller derby, lothian roller derby, granite city brawlers
 .. category:
