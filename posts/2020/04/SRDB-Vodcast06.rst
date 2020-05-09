@@ -1,7 +1,7 @@
 .. title: SRDB - Vodcasts - Central Mexican Roller Derby
 .. slug: Vodcasts-CentMex
 .. date: 2020-05-09 10:00:00 UTC+01:00
-.. tags: vodcasts, central mexico, mexico, asociacion mexicana de roller derby, mexico city roller derby, discordias, emexrd, fugaz roller derby, quimeras, LCMRD, aniquiladoras, derby wife
+.. tags: vodcasts, central mexico, mexico, asociación mexicana de roller derby, mexico city roller derby, discordias, emexrd, fugaz roller derby, quimeras, LCMRD, aniquiladoras, derby wife
 .. category:
 .. link:
 .. description:
@@ -10,7 +10,7 @@
 
 A few weeks ago, we debuted the first of a planned series of SRDB Vodcasts, as we host chats with the Roller Derby community around the World.
 
-We're back today with the sixth edition, featuring the Roller Derby community in Central Mexico, with reps from Aniquiladoras, EMEXRD (Discordias and Disorder), Fugaz Roller Derby, Mexico City Roller Derby, Quimeras Roller Derby, and from the Asociacion Mexicana de Roller Derby, Mexico's NGB.
+We're back today with the sixth edition, featuring the Roller Derby community in Central Mexico, with reps from Aniquiladoras, EMEXRD (Discordias and Disorder), Fugaz Roller Derby, Mexico City Roller Derby, Quimeras Roller Derby, and from the Asociación Mexicana de Roller Derby, Mexico's NGB.
 
 Highlights include footage from 2020's Luna Cup tournament (hosted by Aniquiladoras, and filmed by Mexican Roller Derby streaming superstars, Derby Wife) where MCRD played Discordias, and a discussion of just how much Mexican derby has managed in the past decade, including one of the longest running National Tournaments in international Roller Derby.
 
