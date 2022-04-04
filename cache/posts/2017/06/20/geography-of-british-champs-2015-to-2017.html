@@ -14,10 +14,10 @@ Teams in any tier should be able to host games for any other tier. [The German B
 <p><strong>Secondly</strong>: match each team to 5 opponents, on the basis of their proximity and strength relative to the team in question. There are well-understood algorithms for doing this: the minimum-weight, maximum-width matching algorithm has been used for much larger problems than this for decades (and is used by RDWC2018 for scheduling).
 [We actually have one additional constraint here: we want the network of teams connected by bouts to span the entire set of competitors. This is easily ensured by using an alternate matching approach for one or two of the picks for each team.]</p>
 <p><strong>Thirdly</strong>: scheduling of bouts should be arranged so that every team hosts 1 double or triple header. Importantly, none of the games they host should involve them competing - this avoids home team advantage - but instead should be drawn from matches where both teams are closeby. [Because we have no Tiers, there's an ample supply of such matches here.] We assign bouts to hosts by total travel distance, using maximum-weight matching again.</p>
-<p><strong>Fourthly</strong>: thanks to the constraints in matching above, we can produce a ranking for the teams via any reasonable rating algorithm - Flat Track Stats' Elo-derived rating, either of the SRDRank mechanisms, or others - on the basis of all of the games played over the season. The published yearly rating can be used to establish "Champions", and also to inform the matches for next year.
+<p><strong>Fourthly</strong>: thanks to the constraints in matching above, we can produce a ranking for the teams via any reasonable rating algorithm - Flat Track Stats' Elo-derived rating, either of the SRDRank mechanisms, or others - on the basis of all of the games played over the season. The published yearly rating can be used to establish "Champions", and also to inform the matches for next year.</p>
 <h2>Example - 2017</h2>
-As an example, we present how the 2017 British Champs would have looked, if run as we propose. In this case, matches have been made using SRDRank ratings from February 2017, if they existed - there are 3 teams which are problematic here (<span class="s1">Durham City Rolling Angels, </span><span class="s1">Riverside Rebels Roller Derby, </span><span class="s1">Arcadia Roller Derby</span><span class="s1">) for which we assigned an "average" ranking as a placeholder. We stand by the <em>bouts</em> themselves as the best matches possible.</span></p>
-<p>The resulting assignments of bouts to hosts would be the following fixtures (these don't take into account the size of the hosting venue, which obviously may be significant for some fixtures - a more polished version that was written in less than a day would include other considerations, but the bouts themselves would be the same):
+<p>As an example, we present how the 2017 British Champs would have looked, if run as we propose. In this case, matches have been made using SRDRank ratings from February 2017, if they existed - there are 3 teams which are problematic here (<span class="s1">Durham City Rolling Angels, </span><span class="s1">Riverside Rebels Roller Derby, </span><span class="s1">Arcadia Roller Derby</span><span class="s1">) for which we assigned an "average" ranking as a placeholder. We stand by the <em>bouts</em> themselves as the best matches possible.</span></p>
+<p>The resulting assignments of bouts to hosts would be the following fixtures (these don't take into account the size of the hosting venue, which obviously may be significant for some fixtures - a more polished version that was written in less than a day would include other considerations, but the bouts themselves would be the same):</p>
 <ul>
     <li class="p2"><span class="s1">Riot City Ravens hosts:</span>
 <ul>
@@ -416,4 +416,5 @@ As an example, we present how the 2017 British Champs would have looked, if run 
     <li class="p2"><span class="s1">Dolly Rockit Rollers vs Neath Port Talbot Roller Derby</span></li>
 </ul>
 </li>
-</ul></body></html></p>
+</ul>
+<p></body></html></p>

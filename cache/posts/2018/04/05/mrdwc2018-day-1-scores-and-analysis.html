@@ -7,9 +7,9 @@ The solution MRDWC have adopted is to allow all 6 "winners" of their Group to go
 <p>All of the teams have played 2/3 of their games now, at the end of Day 1, so we should have a pretty good idea of how they're doing - and we can have a stab at using inference to predict their final games, too, to make a prediction of who will get those two extra Elimination Slots.</p>
 <p>Where we have used actual scores, these are taken from the official MRDWC score page, linked at the top of this article.</p>
 <p>Groups: <strong><a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/2">RED</a></strong> <a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/3"><strong>ORANGE</strong></a> <a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/4"><strong>YELLOW</strong></a> <a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/5"><strong>GREEN</strong></a> <a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/6"><strong>BLUE</strong></a> <a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/7"><strong>PURPLE</strong></a>
-Day Two: <a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/8"><strong>Predictions and Games To Watch</strong></a>
+Day Two: <a href="https://www.scottishrollerderbyblog.com/2018/04/05/mrdwc2018-day-1-scores-and-analysis/8"><strong>Predictions and Games To Watch</strong></a></p>
 <!--nextpage-->
-Starting with Group RED:</p>
+<p>Starting with Group RED:</p>
 <p>the Scores to date are:</p>
 <p>USA 286 : 0 NED
 BEL 189 : 53 JPN
@@ -27,7 +27,6 @@ Netherlands: -96
 Japan: -158</p>
 <p>This group has been remarkably consistent, and the R-squared value (a measure of how well we can explain the performances so far with a linear approximation) is 0.99, almost at the maximum value of 1!</p>
 <!--nextpage-->
-
 <p>Next, we'll look at Group ORANGE:
 Scores to date are:
 SWE 80 : 81 ESP
@@ -37,18 +36,17 @@ SWE 81 : 33 CHI</p>
 <p>The big surprise for this group was the exceptionally close game between Sweden and Spain, which literally came down to the final pass in the final jam! England are causing no surprises, however, and are very likely to win the group - so we can discount their contributions to P/D for the other teams.
 As a result, we only know the effective P/D for Sweden, which will be 47.
 Spain carry forward their 1 point P/D against Sweden, and will add to it the P/D from playing Chile tomorrow; Chile carry forward their -48 from their game against Sweden, and will add the P/D against Spain.</p>
-<p>Again, performing linear regression against the games so far, we predict relative strength as:
+<p>Again, performing linear regression against the games so far, we predict relative strength as:</p>
 <p class="p1"><span class="s1">ENG:151.25
 </span>SWE:-34.75
 <span class="s1">ESP:-55.25</span>
 CHI:-61.25</p>
-Giving a predicted exceptionally close game between Spain and Chile tomorrow, with a P/D of only 6 for Spain (to win).
+<p>Giving a predicted exceptionally close game between Spain and Chile tomorrow, with a P/D of only 6 for Spain (to win).
 Thus, the most likely <strong>predicted</strong> P/Ds for those teams are:
 Spain: 7
 Chile: -54</p>
 <p>The R-squared measure for this group is noticeably lower than that for the previous group, at 0.848 - we expect the Spain/Chile game to be exceptionally hard to call, and 2nd place is up for grabs between Spain and Sweden as a result.</p>
 <!--nextpage-->
-
 <p>Moving now to Group YELLOW, where the final positions are possibly the hardest to call out of any of the groups.</p>
 <p>Scores so far are:
 AUS 254 : 42 COL
@@ -56,15 +54,14 @@ SCO 183 : 74 ITA
 AUS 225 : 25 ITA
 SCO 224 : 6 COL</p>
 <p>Coming into this tournament, Australia were seeded as the "expected" winners of this group - however, comparing just the two games against Colombia, Scotland have the higher points differential (and held Colombia to a much lower score). As a result, it is exceptionally hard to predict even the 1st place position in this group.</p>
-<p>Linear regression on the scores so far gives a <strong>predicted</strong> relative strength of:
+<p>Linear regression on the scores so far gives a <strong>predicted</strong> relative strength of:</p>
 <p class="p1"><span class="s1">AUS:114.75
 SCO:70.75
 ITA:-63.25
 </span><span class="s1">COL:-122.25</span></p>
-However, the R-squared for this group is just 0.053, an incredibly low value. As a result, the expected standard error (the amount by which these strengths could be out by) is a huge 28 - larger than half the difference between Australia and Scotland, and thus an indicator that an upset is definitely possible.</p>
+<p>However, the R-squared for this group is just 0.053, an incredibly low value. As a result, the expected standard error (the amount by which these strengths could be out by) is a huge 28 - larger than half the difference between Australia and Scotland, and thus an indicator that an upset is definitely possible.</p>
 <p>Group YELLOW, then, will come down to the results of the final two group games tomorrow!</p>
 <!--nextpage-->
-
 <p>Our next group, GREEN, is a return to a somewhat more predictable group in terms of performance.</p>
 <p>Scores so far:
 MEX 275 : 3 POL
@@ -74,18 +71,17 @@ CAN 94 : 43 MEX</p>
 <p>Whilst Mexico's performance against Poland was very impressive, Canada's win against them confirms Canada as the 1st place team in this group, and Mexico as 2nd place.</p>
 <p>As such, we can only confirm the P/D for Poland at this point, at -398.
 Germany will bring forward their P/D against Poland, 126, and add to it their P/D against Mexico; Mexico will bring forward their P/D against Poland, 272, and add it to their P/D against Germany!</p>
-<p>Linear regression predicts:
+<p>Linear regression predicts:</p>
 <p class="p1"><span class="s1">CAN:135.25
 MEX:89.25
 GER:-46.75
 </span><span class="s1">POL:-177.75</span></p>
-(with an R-squared of 0.988, so a very consistent group)
+<p>(with an R-squared of 0.988, so a very consistent group)
 And thus a resulting P/D between Germany and Mexico of 136 to the Mexicans.</p>
 <p>The resulting <strong>predicted</strong> P/Ds for Germany and Mexico will therefore be:
 Mexico: 408  (!)
 Germany: -10</p>
 <!--nextpage-->
-
 <p>Moving on to our second-last group, BLUE, we're back to a slightly inconsistent group - although nowhere to the extent of Yellow.</p>
 <p>The scores so far are:
 FRA 255 : 10 PHI
@@ -95,7 +91,7 @@ FIN 183 : 32 PHI</p>
 <p>It's fairly clear that France are, as their seed suggested, the very likely winners of the group - so we can assume that their P/D contributions will be ignored for the other members of the group.
 As a result, the only team with a "final" P/D is Finland, with 175.
 Philippines will take their P/D versus Finland, of -151, and add the result of their game against Ireland; Ireland will take their P/D against Finland, of -24, and add the result of the same game to it.</p>
-<p>Again, linear regression suggests likely strengths within the group are:
+<p>Again, linear regression suggests likely strengths within the group are:</p>
 <p class="p1"><span class="s1">FRA:129.625
 FIN:15.125
 IRE:-34.125
@@ -103,7 +99,7 @@ IRE:-34.125
 <p class="p1">Leading to a predicted P/D for the Philippines / Ireland game of 76.5 in Ireland's favour, with a resulting <strong>predicted</strong> total P/D for those teams of:
 Ireland: 52.5
 Philippines: -227.5</p>
-The R-squared for this group is a fairly low 0.644, however, with an attendant high standard error, so these results also come with a caution!</p>
+<p>The R-squared for this group is a fairly low 0.644, however, with an attendant high standard error, so these results also come with a caution!</p>
 <!--nextpage-->
 
 <p>Our final group is PURPLE.</p>
@@ -113,22 +109,19 @@ ARG 244 : 38 NZ
 WAL 185 : 23 NZ
 ARG 231 : 21 DEN</p>
 <p>Even without doing linear regression, we can see that the scores suggest that Wales and Argentina are actually fairly closely matched - like group Yellow, it's actually not completely certain that the top seed for the Group, Argentina, will win against the second seed, Wales.</p>
-<p>Linear regression suggests strengths like:
+<p>Linear regression suggests strengths like:</p>
 <p class="p1"><span class="s1">ARG:110.375
 WAL:84.875
 NZ:-86.375
 DEN:-108.875</span></p>
-With the standard error on those strengths a relatively low 10.342 - but given the closeness of Argentina and Wales' strengths, enough to allow a possible upset.</p>
+<p>With the standard error on those strengths a relatively low 10.342 - but given the closeness of Argentina and Wales' strengths, enough to allow a possible upset.</p>
 <p><strong>Predicted</strong> P/Ds for the two games tomorrow are:
 NZ - DEN: 22.5
 ARG - WAL: 25.5</p>
 <p>but the result for Argentina / Wales only matters to decide which team will be the 1st and which will be 2nd, as both have already played the games which decide their P/D for the group - Wales with P/D 365 and Argentina with P/D 416.</p>
 <!--nextpage-->
-
 <h3>Predictions looking ahead.</h3>
-
 <p class="p1"><span class="s1">Looking ahead to the elimination phase, then, we can ask what the most likely 2nd Place teams are to make it into the top tier of the playoffs...</span></p>
-
 <p>For some of the groups, the 2nd place team is fairly predictable, and we can use our "estimated" P/D to place their rough position in their peers when the teams have not played all relevant games. Where we have "predicted", we've used our best guess at the P/D for a game which has not been played - in the other cases, we're assuming only that the current likely winner of the Group actually wins.</p>
 <p>RED: Belgium (P/D 254)
 ORANGE: Spain (P/D [<strong>predicted</strong>] 7) [note: Sweden will probably have a higher P/D, but less wins]
@@ -147,4 +140,5 @@ PURPLE: Argentina? (P/D 416)</p>
 Australia v Scotland [10am BST Track 1]
 Mexico v Germany [11am BST Track 2]
 (Spain v Chile [midday BST Track 1])</p>
-<p><p class="p1"></p></body></html></p>
+<p class="p1"></p>
+<p></body></html></p>

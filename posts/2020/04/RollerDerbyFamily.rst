@@ -1,6 +1,6 @@
 .. title: "Roller Derby" as a family of rulesets: Limits and Boundaries
 .. slug: RollerDerbyFamily2020
-.. date: 2020-06-30 20:00:00 UTC+01:00
+.. date: 2022-04-04 20:00:00 UTC+01:00
 .. tags: roller derby, rulesets, philosophy, analysis
 .. category:
 .. link:
@@ -100,7 +100,7 @@ Some rulesets, most notably Short Track Roller Derby and Street Roller Derby, do
 Call-offs, especially with WFTDA-family rules, have a tendency to amplify the advantage of the stronger team. This is trivially the case, in that a team which consistently gets its jammer out first can always guarantee that the opposing team never has a chance to score - the jammer just needs to call the jam as soon as the opposing jammer completes their initial pass (barring penalties).
 Without call-offs, the weaker team will usually have an opportunity to score a few points each jam; it's unusual for two teams to be so unevenly matched that a jammer is held for the full duration of a jam.
 
-Simulation of jammer versus jammer statistics, allowing and not allowing for call-offs, suggests that this effect is particularly strong for "moderate" differences in team strength, resulting in effects on the order of...
+Simulation of jammer versus jammer statistics, allowing and not allowing for call-offs, suggests that this effect is particularly strong for "moderate" differences in team strength - allowing call-offs shifts the ratio of "team strength" from approximately linear to something short of quadratic, although the actual power depends on the relative strengths. For very disparate team strengths, there is effectively no difference, as the higher strength team can easily contain their opponent without needing to actually limit the length of each jam.
 
 More obviously, call-offs mean that jams are of uneven length. For rulesets where Period duration is measured in total time, not number of jams, this means that the fraction of Period time consisting of actual "on playfield competition" can vary dramatically, depending on the closeness of the teams.
 
@@ -133,8 +133,13 @@ RDCL is a bit unusual in that it provides a 2 Period version which simply halves
 
   Short Track, 2, 10 jams, 20 jams
 
-*Question*
+*What effects do the ratios of periods to game and jam time have?*
 
+Most rulesets opt for relatively similar period durations of between 15 and 30 minutes. Spectators generally enjoy breaks after less than 1 hour, and athletes outside of endurance sports also tend to not want to compete continuously for more than 30-45 minutes (even in sports like Tennis, the *average* duration of a Set is about this long). 
+Having more breaks does allow people to "recover" focus (for spectators, athletes, coaches and officials), and stamina (for athletes and skating officials) more effectively; but it also introduces more "padding" into scheduling. 
+A game also needs to last long enough for spectators to gain traction on events - Sur5al, with extremely short game (==period) durations, is sometimes criticised for becoming "a bit of a blur" to those watching, with no contest having enough of a chance to really settle in the mind before it is over. (The ratio of "admin time" to "competitive time" is also maximised for Sur5al, which can be a burden on Officials.)
+
+Again, excepting Sevens and Sur5al, most ruleset opt for an even division of Game into Periods. The "fairness principle" of allowing teams to change ends between periods is usually enforced, which requires this. As Sevens and Sur5al are almost always run as tournament-friendly formats, fairness in their cases arises statistically over the aggregate of the entire event, so "per game" symmetry is less important.
 
 Rosters and Lineups
 --------------------
@@ -215,6 +220,9 @@ Including the Roller Game alternation mechanism, then, there are two obvious way
 
 Both approaches need consideration of fairness in the number of jams provided: ending a Period without completing a complete set of "matches" would be unfair to at least some of the competitors.
 
+As one of the purposes of Periods as a sub-division of the Game is to allow teams to rotate their positions for fairness, we might also expect to need more Periods for a 3 or more team Game.
+Indeed, the minimum number of Periods might be expected to be equal to the number of teams (with the maximum being the number of possible combinations of teams - the factorial fo the number of competitors!). This implies either increasingly long games, or increasingly short periods - or a mixture of the two.
+
 
 Scoring
 --------
@@ -245,11 +253,6 @@ The JRDA rulesets provide alternative definitions of "permissible contact" for L
 This same approach has been copied over in some regions as a modification to WFTDA rules play. Especially in Australia, you see "LOCO" bouts advertised, which essentially use the same modifications as Level 2 JRDA but playing otherwise WFTDA regulation games. These are especially popular for introductory or rookie games or scrimmages.
 
 In a similar way, the Short Track Roller Derby ruleset has "No-Contact" and "Low-Contact" variants, again using a subset of the changes that JRDA uses for Level 1 and Level 2 contact.
-
-Track Cuts?
-___________________
-
-Where do we talk about track cut relativity?
 
 Foul-outs
 ____________
@@ -283,15 +286,15 @@ _________
 
 An unusual special rule, which we've seen used in a small number of "fun games", and is also a component of the recently publicised "`Roller Derby X`_", is *exchange*. Rather than having skaters assigned to the track for an entire jam, *exchange* allows them to "tap out", swapping with another skater on their roster, whilst the jam continues.
 
-.. _Roller Derby X:
+.. _Roller Derby X: https://www.youtube.com/watch?v=aLvzKkcW9ag
 
-Unfortunately, the planned public demo of Roller D
+Unfortunately, the planned public demo of Roller Derby X was delayed due to the COVID-19 pandemic, and the first public demo of it only happened in 2022. 
 
 We'd expect rulesets implementing exchange to require more Officials than rulesets without, as the exchange process will require its own monitoring.
 
 Exchange also requires changes to
 
-Endurance..
+
 
 Alternate Direction
 _______________________
@@ -351,11 +354,12 @@ Some of these may prove to be completely uninteresting, definitely worse than an
 But some may prove to be exciting games in themselves, just for want of exploration.
 
 
-Single-Very-Long-Jam
+Single Very Long Jam
 ---------------------
 
-XYZW
-----------
+Whilst Sur5al fills the space for games where the duration is a single short jam, there's potential for "endurance" variants of Roller Derby where the Jam length is much longer. The original 1930s "Roller Derbies", which were non-competitive endurance skating events, lasted for *days* in extremis, so some small fraction of humanity is capable of achieving this kind of performance. Obviously, as a spectator sport, that extreme extension of duration is unnecessary; however, one can imagine versions of the sport with 5, 10 or even 20 minute jams - albeit with significant alteration in some of the tactical considerations. 
+
+At the longer durations, officiating would probably require additional effort - at least to allow the outside pack referees to take turns - and even the Exchange mechanic from *Roller Derby X* might prove important for the athletes as well. Jam *starts* become increasingly unimportant as the jam duration increases, and we would expect the game to become increasingly strategic as a consequence. There is a question as to what the optimum jam duration is for spectator engagement, and we suspect that "120 seconds" is not precisely at that sweet spot.
 
 "Breaking Changes"
 ======================
